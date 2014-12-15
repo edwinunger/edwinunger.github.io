@@ -5,7 +5,7 @@ date:   2014-12-07 11:30:16
 categories: blog
 ---
 
-This is not a pretty website. The font hasn't been customized, the layout is all wrong, and there are lots of things going on in the background that I certainly didn't put there. This page you're reading? ~~It doesn't link from my homepage at edwinunger.com. Go ahead, click my name up top. Even that page is lacking most of its functionality except a few social links.~~ update 12/14: I've updated the site a bit, so that sentence doesn't make much sense any more. Stuff is starting to work!
+This is not a pretty website. <strike>The font hasn't been customized, the layout is all wrong, and there are lots of things going on in the background that I certainly didn't put there. This page you're reading? It doesn't link from my homepage at edwinunger.com. Go ahead, click my name up top. Even that page is lacking most of its functionality except a few social links.</strike> update 12/14: I've updated the site a bit, so that sentence no longer makes sense. It's not a pretty site, but it's not ugly any more. Stuff is starting to work!
 
 None of that matters, though. You know why? Because that's my name in the web address up there. Because through sheer force of will (and lots of research and <i>tons</i> of trial and error), I've managed to move my stale and unused domain to a new home at GitHub. I even managed to get my site synced up with Jekyll, which I had never even heard of a week ago. More important than all that, though, is my current mantra: function over form. That is, make it work first, worry about making it look good later.
 
