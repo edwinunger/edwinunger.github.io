@@ -5,7 +5,7 @@ date:   2014-12-14 10:30:45
 categories: blog
 ---
 
-Quite a few visual and functional changes have occurred in the past week. If you remember, this page didn't do much except for show my blog post. Going to my homepage was even worse, since all it contained was "Welcome to my new website" and a few social media links. Also, you couldn't navigate to my blog posts from my homepage.
+Quite a few visual and functional changes have occurred in the past week. If you remember, this page didn't do much except show my blog post. Going to my homepage was even worse, since all it contained was "Welcome to my new website" and a few social media links. Also, you couldn't navigate to my blog posts from my homepage.
 
 Now, it's all much prettier. My blog posts are archived right on the homepage. The page is divided up into Header, Body, and Footer. The Footer has all of my social media links as well as a way to email me.
 
