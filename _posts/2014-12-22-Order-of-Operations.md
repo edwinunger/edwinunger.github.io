@@ -25,7 +25,7 @@ Once I started using WordPress, it became a sort of game to find the style I wan
 
 As mentioned above, I completed the HTML/CSS portion of Code Academy, but that was 8 months ago. Could I remember it all? Was I missing anything? I decided to start going through it again, just as a refresher. I've been splitting my time between reading, trying out some CSS, and getting a handle on all of the HTML5 tags.
 
-I didn't mention any of my HTML/CSS experience learned while creating this site. That's mainly because Jekyll comes the theme pre-written, so all I had to do was customize it a bit. I can't really say I 'created.' That will all change once DBC starts, though.
+I didn't mention any of my HTML/CSS experience learned while creating this site. That's mainly because Jekyll comes with the theme pre-written, so all I had to do was customize it a bit. I can't really say I 'created.' That will all change once DBC starts, though.
 
 <strong>Javascript</strong> - What was it that stopped me from completing the Javascript tutorial on Code Academy? I made it through 60% of the course and would have moved right on to JQuery, but I stopped. Why?
 
