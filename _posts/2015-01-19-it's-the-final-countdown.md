@@ -20,7 +20,9 @@ The time between now and when I get on that plane is still 2 1/2 months away, bu
 This past week has been an exciting one, but it's also made me a little bit more critical of my situation. Here's what's happened:
 
 <u><strong>Preparing by Programming</strong></u>
-I really focused all of my energy on jQuery this week. I've never played with it before, but going through the tutorials and documentation that I found was very eye opening. I can see why this would be used over vanilla JavaScript any day, especially when it comes to website building. Speaking of JavaScript, I'm making myself like it more, if for no other reason than I was told to. My cousin-in-law gave me some great advice: <blockquote><em>JavaScript is inherently unlikeable, but it's the cool kid in college who knows all the recruiters and can get you 10 interviews next week. It's also one of the places with the most open recs around here, so if you can see past the evil syntax, it's a really good opportunity.</em> - Laura Otermat</blockquote>
+I really focused all of my energy on jQuery this week. I've never played with it before, but going through the tutorials and documentation that I found was very eye opening. I can see why this would be used over vanilla JavaScript any day, especially when it comes to website building. Speaking of JavaScript, I'm making myself like it more, if for no other reason than I was told to. My cousin-in-law gave me some great advice:
+
+> <em>JavaScript is inherently unlikeable, but it's the cool kid in college who knows all the recruiters and can get you 10 interviews next week. It's also one of the places with the most open recs around here, so if you can see past the evil syntax, it's a really good opportunity.</em> - Laura Otermat
 
 I have a work friend who builds websites on the side. He showed me his personal site which includes a lot of cool animations for showing off different sites and templates he's built. Using his site as an example, I went through lesson after lesson until I understood exactly what was happening with his animations. Granted, his are a lot more complicated than anything I could actually build at this time, but I at least understand what he created and how he animated the images. Man, understanding a concept is a great feeling.
 
@@ -39,10 +41,8 @@ I've also managed to track down 11 other boots that will be starting with me! I 
 
 Speaking of the time, I'm going to provide a smidge of fearless feedback to DBC right now: I would love to get more communication from you guys. The last time I heard from anyone was when I was accepted into the program. I keep thinking that I'll get an invitation to join a FB group or some kind of welcome package or introduction, but nothing yet. The website says to expect contact the Friday before we start, but that doesn't feel like enough time to get to know my team. Thankfully, we found each other through other means. /soapbox.
 
-<em><strong>Personal</strong></em>
-I'm sick. Again.
-
-This seems to happen a lot more frequently lately. It could be all the hands I shake at work every day of people who are visiting from all over the world. I wash my hands frequently, but that's not always enough. It could also be my 2 year old who plays with other kids at the playground and brings their diseases home to me while never getting sick himself. It might just be allergies. It could also be my lack of sleep. Or all 4. Who knows.
+<u><strong>Personal</strong></u>
+I'm sick. Again. This seems to happen a lot more frequently lately. It could be all the hands I shake at work every day of people who are visiting from all over the world. I wash my hands frequently, but that's not always enough. It could also be my 2 year old who plays with other kids at the playground and brings their diseases home to me while never getting sick himself. It might just be allergies. It could also be my lack of sleep. Or all 4. Who knows.
 
 On a very personal note, holy crap I'm scared. I've been reading a lot about <a href = "http://en.wikipedia.org/wiki/Impostor_syndrome">impostor syndrome</a>, and while I'm not a hypochondriac, I'm worried that this is the biggest obstacle to my success. I'm doing everything I can to prepare for this program, and I feel like I'm really starting to grasp some of the concepts, but what if it's not enough? What if everyone else picks it up a lot faster, and I take too long, or can't get it at all? It's not just my life that's being upended, it's my entire family. As I said at the beginning of this post, the pressure is building.
 
