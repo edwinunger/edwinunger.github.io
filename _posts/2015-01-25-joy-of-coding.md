@@ -15,7 +15,7 @@ While working on Hartl's book, I also jumped into <em>Conquering the Command Lin
 
 This is a bit non-sequitur, but check this out: When you write Ruby code, you can write most of it on one line using brackets {}, like so -
 
-<code>array.each { |word| word.reverse}</code>
+<code>array.each { |word| word.reverse }</code>
 
 My issue with this is that even though it looks simple and clean, it's not as readable as it could be, which is the entire goal of Ruby. Luckily, you can replace the brackets {} with <em>do</em> and <em>end</em>, like so -
 
