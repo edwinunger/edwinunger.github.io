@@ -20,9 +20,9 @@ This is a bit non-sequitur, but check this out: When you write Ruby code, you ca
 My issue with this is that even though it looks simple and clean, it's not as readable as it could be, which is the entire goal of Ruby. Luckily, you can replace the brackets {} with <em>do</em> and <em>end</em>, like so -
 
 <code>
-	array.each do |word|
-	  word.reverse
-	end
+	<p>array.each do |word|</p>
+	  <p>word.reverse</p>
+	<p>end</p>
 </code>
 
 There may be some who disagree with me, but I much prefer seeing the code written this way, simply for the fact that it looks more like a regular sentence. I'm going to call myself a do-end-er instead of a bracket-er.
