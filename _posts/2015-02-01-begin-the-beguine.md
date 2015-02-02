@@ -5,38 +5,38 @@ date:   2015-02-01 22:37:53
 categories: blog
 ---
 
-<blockquote><p>'Twas the night before Boot Camp, and all through the house</p>
-<p>you could hear the continuous click click click of my mouse.</p>
+<blockquote><p>'Twas the night before Boot Camp, and all through the house<br>
+you could hear the continuous click click click of my mouse.<br>
 
-<p>My dev environment was set up on my MacBook with care</p>
-<p>in hopes that some learning would soon happen there.</p>
+My dev environment was set up on my MacBook with care<br>
+in hopes that some learning would soon happen there.<br>
 
-<p>Here I sit, alone, nodding off at my screen</p>
-<p>while visions of the command line creep into my dreams.</p>
+Here I sit, alone, nodding off at my screen<br>
+while visions of the command line creep into my dreams.<br>
 
-<p>When on my cell phone there arose such a clatter</p>
-<p>I adjusted my eyes over to see what was the matter.</p>
+When on my cell phone there arose such a clatter<br>
+I adjusted my eyes over to see what was the matter.<br>
 
-<p>Through my new email I read carefully</p>
-<p>about all the new challenges waiting for me.</p>
+Through my new email I read carefully<br>
+about all the new challenges waiting for me.<br>
 
-<p>Away to my editor I shot like a gun,</p>
-<p>and didn't stop typing until my fingers were numb.</p>
+Away to my editor I shot like a gun,<br>
+and didn't stop typing until my fingers were numb.<br>
 
-<p>More powerful than lightning was my thirst to learn,</p>
-<p>And I yelled out each language for which I did yearn.</p>
+More powerful than lightning was my thirst to learn,<br>
+And I yelled out each language for which I did yearn.<br>
 
-<p>"Now, Ruby! now, Rails! now HTML!</p>
-<p>On, Javascript! on, jQuery! Let's give them all hell!</p>
+"Now, Ruby! now, Rails! now HTML!<br>
+On, Javascript! on, jQuery! Let's give them all hell!<br>
 
-<p>Build until you bleed! Code until you fall!</p>
-<p>Don't be afraid! Just give it your all!"</p>
+Build until you bleed! Code until you fall!<br>
+Don't be afraid! Just give it your all!"<br>
 
-<p>Tired, drained, but still satisfied,</p>
-<p>I closed my computer with a short sigh of pride.</p>
+Tired, drained, but still satisfied,<br>
+I closed my computer with a short sigh of pride.<br>
 
-<p>I had many more hours of coding to go</p>
-<p>but this was a good start, the perfect intro.</p>
+I had many more hours of coding to go<br>
+but this was a good start, the perfect intro.<br>
 
-<p>And I smiled to myself as I turned out the light—</p>
-<p>“Happy coding to all, and to all a good night!”</p></blockquote>
+And I smiled to myself as I turned out the light—<br>
+“Happy coding to all, and to all a good night!”</p></blockquote>
