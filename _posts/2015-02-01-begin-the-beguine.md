@@ -35,7 +35,7 @@ Tomorrow is the first day of Dev BootCamp, but to be fair, it's already started.
 
 Here's what's happened in the past week:
 
-<strong>Programming</strong>
+<strong>Programming</strong><br>
 Most of my time has been spent getting to know my cohorts and squeezing in a few last opportunities to learn on my own. I continued through a few more chapters of Hartl's Rails Tutorial, but nothing to show off yet. Everything I've made so far has been behind the scenes changes. Since this is his 3rd edition, we're now getting into the Introduction to Ruby, so I'm not really looking forward to more review. It will be useful and necessary, but I really want to push forward into new territory.
 
 As mentioned, we gained access to our challenges for this week, and I couldn't be more relieved to see my preparation paying off. Check it: Challenge 3 is to set up my dev environment, but thanks to Mike Busch's (DBC Chicago instructor) excellent guide on GitHub, I'm already good to go. We're also supposed to start tweeting and including @DevBootCamp, but I've been doing that since December. This week is dedicated to learning the command line and Git/GitHub, and while I definitely want to practice as much as possible, I was excited to see that the main guide is <em>Learn the Command Line the Hard Way</em>, which is what I used when I first started using the command line! Of course, I'm still looking at it as more opportunity to review.
@@ -44,7 +44,7 @@ And it's not just this week that's looking good. Next week we get into HTML/CSS.
 
 Again, that's not to say I can just relax and let the tide roll in. That's how you end up drowning. It just means I know the punches that are coming and can meet them head on.
 
-<strong>Personal</strong>
+<strong>Personal</strong><br>
 2 weeks ago, I wrote that my baby is expected in about 6 weeks. Well, that might be off by a few weeks. Thanks to the archaic methods still used in obstetrics, the voodoo witch doctors seem to believe that my wife's <em>fundal height</em> is measuring larger and she could give birth in as early as two weeks. While I'm not packing my hospital bag just yet, I am experiencing increased stress at the thought of my baby coming so much sooner. Of course we'll be happy to meet her whenever she decides to pop out, but for the sake of our sleep and for the sake of my sanity during this very stressful program, I hope she decides to wait a little longer. No pressure or anything.
 
 Surprisingly, I've experienced a very strange calm this week. The preparing is done, now comes the real work. I've done the best I can, and I can only hope that it's enough.
