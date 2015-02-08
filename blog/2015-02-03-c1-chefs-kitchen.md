@@ -1,12 +1,14 @@
----
-layout: post
-title:  "Bistro Math"
-date:   2015-02-03
-categories: blog
----
+<!DOCTYPE html>
+<head>
+  <title>Blog</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="your-stylesheet-link-here.css">
+</head>
 
 <main>
+  <h1>Bistro Math</h1>
   <h2>Cultural Blog 1: Restaurant Vs. Kitchen Mentality</h2>
+  <h4>Feb 3, 2015</h4>
   <section>
     <p>
       Tonight I watched a video of Dev BootCamp cofounder Shereef Bishay talking about the community he wanted to create at DBC and the mentality he wanted all of his students and teachers to come in with and to strive to maintain. It goes like this: Imagine going to a restaurant as a guest. You select your entree, your wine, your dessert. You pay your bill and add a tip based on how good the service is. You had an expectation for what you would get for your money, and you are either satisfied or not. You leave full, and with a lighter wallet. Now, picture yourself going to a restaurant as a cook. You're not the only cook there, and you're probably not the best cook there, but you are responsible for producing new recipes and getting the meals out on time. At the end of the night, you've learned a lot from your fellow cooks, and you've brought a lot to the table as well. You're tired, but you leave knowing that you really gave it your all and have grown as a cook.</p>
