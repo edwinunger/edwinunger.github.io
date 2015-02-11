@@ -1,8 +1,9 @@
 #timeline { height: 3px;
-            width: 100%;
+            width: 960px;
             background-color: #000000;
             margin: 20px 0px 20px 0px;
             border: none;
+            position: fixed;
 }
 
 
