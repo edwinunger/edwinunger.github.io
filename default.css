@@ -1,4 +1,4 @@
-body  {height: 640px;
+body  {height: 620px;
 }
 
 #header { height: 80px;
@@ -56,9 +56,8 @@ main {margin: 80px 200px 40px 200px;
 #email {height: 21px;
         width: 30px;
         margin-left: 100px;
-        margin-bottom: -595.5px;
+        bottom: 4.5px;
         position: fixed;
-        padding: 0px;
 }
 
 #linkedin { height:30px;
