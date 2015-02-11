@@ -55,28 +55,28 @@ main {margin: 80px 200px 40px 200px;
 
 #email {height: 21px;
         width: 30px;
-        margin-left: 100px;
+        margin-left: 20%;
         bottom: 4.5px;
         position: fixed;
 }
 
 #linkedin { height:30px;
             width: 30px;
-            margin-left: 400px;
+            margin-left: 40%;
             bottom: 0px;
             position: fixed;
 }
 
 #github { height: 30px;
           width: 30px;
-          margin-left: 700px;
+          margin-left: 60%;
           bottom: 4.5px;
           position: fixed;
 }
 
 #twitter {height: 30px;
           width: 30px;
-          margin-left: 1000px;
+          margin-left: 80%;
           bottom: 0px;
           position: fixed;
 }
