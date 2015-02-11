@@ -1,8 +1,6 @@
 body  {height: 720px;
 }
 
-main {margin: 50px;}
-
 #header { height: 80px;
           width: 100%;
           background-color: #969696;
@@ -29,27 +27,19 @@ header h3 { font-size: 20px;
             float: left;
 }
 
+main {margin: 80px 200px 40px 200px;
+}
 
 #projects { height: 600px;
             width: 218px;
-            margin-top: 80px;
-            float: left;
-            margin-left: 210px;
-
 }
 
 #about {height: 600px;
         width: 138px;
-        margin-top: 80px;
-        margin-left: 5px;
 }
 
 #blog { height: 600px;
         width: 443px;
-        top: 80px;
-        margin-right: 210px;
-        float: right;
-        margin-top: 80px;
 }
 
 #footer {height: 40px;
