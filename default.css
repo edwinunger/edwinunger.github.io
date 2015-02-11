@@ -28,7 +28,7 @@ header h3 { font-size: 20px;
 }
 
 main {margin-top: 80px;
-      margin-left: 15%;
+      margin-left: 18%;
       position: fixed;
 }
 
@@ -55,28 +55,28 @@ main {margin-top: 80px;
 
 #email {height: 21px;
         width: 30px;
-        margin-left: 0%;
+        margin-left: 10%;
         bottom: 4.5px;
         position: fixed;
 }
 
 #linkedin { height:30px;
             width: 30px;
-            margin-left: 40%;
+            margin-left: 25%;
             bottom: 0px;
             position: fixed;
 }
 
 #github { height: 30px;
           width: 30px;
-          margin-left: 60%;
+          margin-left: 48%;
           bottom: 0px;
           position: fixed;
 }
 
 #twitter {height: 30px;
           width: 30px;
-          margin-left: 95%;
+          margin-left: 98%;
           bottom: 0px;
           position: fixed;
 }
