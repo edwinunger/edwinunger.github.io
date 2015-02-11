@@ -1,4 +1,6 @@
 body  {height: 720px;
+       background-color: #969696;
+       opacity: .4;
 }
 
 #header { height: 80px;
@@ -27,7 +29,7 @@ header h3 { font-size: 20px;
             float: left;
 }
 
-main {margin: 80px 200px 40px 200px;
+main {margin: 80px 100px 40px 100px;
 }
 
 #projects { height: 600px;
