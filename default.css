@@ -28,6 +28,7 @@ header h3 { font-size: 20px;
 }
 
 main {margin: 80px 200px 40px 200px;
+      position: fixed;
 }
 
 #projects { height: 600px;
@@ -55,9 +56,8 @@ main {margin: 80px 200px 40px 200px;
 #email {height: 21px;
         width: 30px;
         float: left;
-        margin-right: 100px;
-        margin-bottom: 4.5px;
         margin-left: 100px;
+        margin-bottom: 4.5px;
         position: fixed;
         padding: 0px;
 }
@@ -87,7 +87,6 @@ main {margin: 80px 200px 40px 200px;
           float: right;
           margin-right: 100px;
           margin-bottom: 0px;
-          margin-left: 100px;
           position: fixed;
           padding: 0px;
 }
