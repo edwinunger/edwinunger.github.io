@@ -4,6 +4,7 @@
           opacity: .4;
           position: fixed;
           top: 0px;
+          left: 0px;
 
 }
 
@@ -29,7 +30,7 @@ header h3 { font-size: 20px;
             top: 80px;
             float: left;
             position: fixed;
-            left: 175px;
+            left: 225px;
 
 }
 
@@ -45,5 +46,5 @@ header h3 { font-size: 20px;
         top: 80px;
         float: right;
         position: fixed;
-        right: 175px;
+        right: 225px;
 }
