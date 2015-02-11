@@ -29,7 +29,7 @@ header h3 { font-size: 20px;
 
 #projects { height: 600px;
             width: 218px;
-            top: 80px;
+            top-margin: 80px;
             float: left;
             left: 225px;
 
@@ -37,14 +37,13 @@ header h3 { font-size: 20px;
 
 #about {height: 600px;
         width: 138px;
-        top: 80px;
+        top-margin: 80px;
         margin-left: 447px;
 }
 
 #blog { height: 600px;
         width: 443px;
         top: 80px;
-        float: right;
         right: 225px;
 }
 
@@ -61,7 +60,7 @@ header h3 { font-size: 20px;
 #email {height: 21px;
         width: 30px;
         float: left;
-        bottom: -700px;
+        bottom: 0px;
         position: fixed;
 }
 
@@ -69,7 +68,7 @@ header h3 { font-size: 20px;
             width: 30px;
             float: left;
             left: 200px;
-            bottom: -700px;
+            bottom: 0px;
             position: fixed;
 }
 
@@ -77,13 +76,13 @@ header h3 { font-size: 20px;
           width: 30px;
           float: right;
           right: 200px;
-          bottom: -700px;
+          bottom: 0px;
           position: fixed;
 }
 
 #twitter {height: 30px;
           width: 30px;
           float: right;
-          bottom: -700px;
+          bottom: 0px;
           position: fixed;
 }
