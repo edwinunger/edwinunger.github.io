@@ -27,12 +27,24 @@ header h3 { font-size: 20px;
 #projects { height: 600px;
             width: 218px;
             position: fixed;
+            top: 80px;
+            margin-left: auto;
+            margin-right: auto;
 
 }
 
 #about {height: 600px;
         width: 138px;
+        position: fixed;
+        top: 80px;
+        margin-left: auto;
+        margin-right: auto;
 }
 
 #blog { height: 600px;
-        width: 443px;}
+        width: 443px;
+        position: fixed;
+        top: 80px;
+        margin-left: auto;
+        margin-right: auto;
+}
