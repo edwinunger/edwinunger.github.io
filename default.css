@@ -16,7 +16,7 @@ header h1 { font-size: 45px;
             color: #000000;
             position: fixed;
             top: -30px;
-            margin-left: 5%;
+            margin-left: 2%;
 }
 
 header h3 { font-size: 20px;
@@ -24,11 +24,11 @@ header h3 { font-size: 20px;
             color: #000000;
             position: fixed;
             top: 30px;
-            margin-left: 5%;
+            margin-left: 2%;
 }
 
 main {margin-top: 80px;
-      margin-left: 20%;
+      margin-left: 15%;
       position: fixed;
 }
 
@@ -55,7 +55,7 @@ main {margin-top: 80px;
 
 #email {height: 21px;
         width: 30px;
-        margin-left: 20%;
+        margin-left: 0%;
         bottom: 4.5px;
         position: fixed;
 }
@@ -76,7 +76,7 @@ main {margin-top: 80px;
 
 #twitter {height: 30px;
           width: 30px;
-          margin-left: 80%;
+          margin-left: 100%;
           bottom: 0px;
           position: fixed;
 }
