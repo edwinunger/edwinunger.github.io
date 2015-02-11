@@ -11,20 +11,20 @@ body  {height: 620px;
 
 }
 
-header h1 { font-size: 45px;
-            font-family: Verdana;
-            color: #000000;
-            position: fixed;
-            top: -30px;
-            margin-left: 2%;
+#name { font-size: 45px;
+        font-family: Verdana;
+        color: #000000;
+        position: fixed;
+        top: -30px;
+        margin-left: 2%;
 }
 
-header h3 { font-size: 20px;
-            font-family: Verdana;
-            color: #000000;
-            position: fixed;
-            top: 30px;
-            margin-left: 2%;
+#quote {font-size: 20px;
+        font-family: Verdana;
+        color: #000000;
+        position: fixed;
+        top: 30px;
+        margin-left: 2%;
 }
 
 main {margin-top: 80px;
