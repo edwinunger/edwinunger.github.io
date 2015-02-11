@@ -13,6 +13,7 @@ header h1 { font-size: 45px;
             color: #696969;
             position: fixed;
             top: -30px;
+            float: left;
 }
 
 header h3 { font-size: 20px;
@@ -20,8 +21,7 @@ header h3 { font-size: 20px;
             color: #696969;
             position: fixed;
             top: 30px;
-            left: 10px;
-
+            float: left;
 }
 
 
@@ -49,7 +49,7 @@ header h3 { font-size: 20px;
         right: 225px;
 }
 
-#footer {height: 80px;
+#footer {height: 40px;
           width: 100%;
           background-color: #969696;
           opacity: .4;
@@ -61,16 +61,26 @@ header h3 { font-size: 20px;
 
 #email {height: 21px;
         width: 30px;
+        float: left;
+        bottom: 9.5px;
 }
 
 #linkedin { height:30px;
             width: 30px;
+            float: left;
+            left: 200px;
+            bottom: 5px;
 }
 
 #github { height: 30px;
           width: 30px;
+          float: right;
+          right: 200px;
+          bottom: 5px;
 }
 
 #twitter {height: 30px;
           width: 30px;
+          float: right;
+          bottom: 5px;
 }
