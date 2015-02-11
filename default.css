@@ -1,4 +1,4 @@
-body  {height: 720px;
+body  {height: 640px;
 }
 
 #header { height: 80px;
@@ -55,9 +55,8 @@ main {margin: 80px 200px 40px 200px;
 
 #email {height: 21px;
         width: 30px;
-        float: left;
         margin-left: 100px;
-        margin-bottom: 4.5px;
+        margin-bottom: -595.5px;
         position: fixed;
         padding: 0px;
 }
