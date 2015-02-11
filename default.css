@@ -28,7 +28,7 @@ header h3 { font-size: 20px;
 }
 
 main {margin-top: 80px;
-      margin-left: 17%;
+      margin-left: 20%;
       position: fixed;
 }
 
@@ -76,7 +76,7 @@ main {margin-top: 80px;
 
 #twitter {height: 30px;
           width: 30px;
-          margin-left: 96%;
+          margin-left: 86%;
           bottom: 0px;
           position: fixed;
 }
