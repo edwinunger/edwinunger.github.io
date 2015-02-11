@@ -24,13 +24,15 @@ header h3 { font-size: 20px;
 }
 
 
-#projects { height: 700px;
-            width: 254px;
+#projects { height: 600px;
+            width: 218px;
+            position: fixed;
+
 }
 
-#about {height: 700px;
-        width: 162px;
+#about {height: 600px;
+        width: 138px;
 }
 
-#blog { height: 700px;
-        width: 517px;}
+#blog { height: 600px;
+        width: 443px;}
