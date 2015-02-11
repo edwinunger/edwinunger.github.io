@@ -61,7 +61,7 @@ header h3 { font-size: 20px;
 #email {height: 21px;
         width: 30px;
         float: left;
-        bottom: -504.5px;
+        bottom: -700px;
         position: fixed;
 }
 
@@ -69,7 +69,7 @@ header h3 { font-size: 20px;
             width: 30px;
             float: left;
             left: 200px;
-            bottom: -500px;
+            bottom: -700px;
             position: fixed;
 }
 
@@ -77,13 +77,13 @@ header h3 { font-size: 20px;
           width: 30px;
           float: right;
           right: 200px;
-          bottom: -500px;
+          bottom: -700px;
           position: fixed;
 }
 
 #twitter {height: 30px;
           width: 30px;
           float: right;
-          bottom: -500px;
+          bottom: -700px;
           position: fixed;
 }
