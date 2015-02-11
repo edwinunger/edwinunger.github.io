@@ -1,4 +1,5 @@
-body  {background-color: }
+body  {background-color: #969696;
+}
 
 #header { height: 80px;
           width: 100%;
@@ -12,7 +13,7 @@ body  {background-color: }
 
 header h1 { font-size: 45px;
             font-family: Helvetica;
-            color: #696969;
+            color: #000000;
             position: fixed;
             top: -30px;
             float: left;
@@ -20,7 +21,7 @@ header h1 { font-size: 45px;
 
 header h3 { font-size: 20px;
             font-family: Helvetica;
-            color: #696969;
+            color: #000000;
             position: fixed;
             top: 30px;
             float: left;
@@ -29,22 +30,23 @@ header h3 { font-size: 20px;
 
 #projects { height: 600px;
             width: 218px;
-            top-margin: 80px;
+            margin-top: 80px;
             float: left;
-            left: 225px;
+            margin-left: 225px;
 
 }
 
 #about {height: 600px;
         width: 138px;
-        top-margin: 80px;
+        margin-top: 80px;
         margin-left: 447px;
 }
 
 #blog { height: 600px;
         width: 443px;
         top: 80px;
-        right: 225px;
+        margin-right: 225px;
+        margin-top: 80px;
 }
 
 #footer {height: 40px;
