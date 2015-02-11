@@ -9,7 +9,7 @@
 }
 
 header h1 { font-size: 45px;
-            font-family: Arial, sans-serif;
+            font-family: Soho, Arial, sans-serif;
             color: #696969;
             position: fixed;
             top: -30px;
@@ -47,4 +47,30 @@ header h3 { font-size: 20px;
         float: right;
         position: fixed;
         right: 225px;
+}
+
+#footer {height: 80px;
+          width: 100%;
+          background-color: #969696;
+          opacity: .4;
+          position: fixed;
+          bottom: 0px;
+          left: 0px;
+
+}
+
+#email {height: 21px;
+        width: 30px;
+}
+
+#linkedin { height:30px;
+            width: 30px;
+}
+
+#github { height: 30px;
+          width: 30px;
+}
+
+#twitter {height: 30px;
+          width: 30px;
 }
