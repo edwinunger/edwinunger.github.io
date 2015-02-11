@@ -62,29 +62,22 @@ main {margin: 80px 200px 40px 200px;
 
 #linkedin { height:30px;
             width: 30px;
-            float: left;
-            margin-right: 100px;
-            margin-bottom: 0px;
-            margin-left: 100px;
+            margin-left: 300px;
+            bottom: 0px;
             position: fixed;
-            padding: 0px;
 }
 
 #github { height: 30px;
           width: 30px;
-          float: right;
-          margin-right: 100px;
-          margin-bottom: 0px;
-          margin-left: 100px;
+          margin-right: 300px;
+          bottom: 4.5px;
           position: fixed;
-          padding: 0px;
 }
 
 #twitter {height: 30px;
           width: 30px;
           float: right;
           margin-right: 100px;
-          margin-bottom: 0px;
+          bottom: 0px;
           position: fixed;
-          padding: 0px;
 }
