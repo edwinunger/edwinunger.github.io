@@ -18,7 +18,8 @@
 
 #tech-blog-1 {font-size: 20px;
               font-family: Verdana;
-              top: 400px;
+              top: 125px;
+              position: relative;
 }
 
 
@@ -33,7 +34,9 @@
 
 #culture-blog-1 {font-size: 20px;
                  font-family: Verdana;
-                 margin-top: 400px;
+                 top: 250px;
+                 left: 200px;
+                 position: relative;
 }
 
 
