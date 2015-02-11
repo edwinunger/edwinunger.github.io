@@ -29,7 +29,7 @@ header h3 { font-size: 20px;
             width: 218px;
             margin-top: 80px;
             float: left;
-            margin-left: 225px;
+            margin-left: 200px;
 
 }
 
@@ -43,7 +43,7 @@ header h3 { font-size: 20px;
 #blog { height: 600px;
         width: 443px;
         top: 80px;
-        margin-right: 225px;
+        margin-right: 200px;
         float: right;
         margin-top: 80px;
 }
