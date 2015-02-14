@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Edwin Unger</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="https://edwinunger.github.io/stylesheets/blog-stylesheet.css">
+  <style type="text/css">
+    .static { position: static;
+              height: 100px;
+              width: 100px;
+              background-color: #0000ff;
+              opacity: .4;
+              font-size: 35px;
+              text-align: center;
+    }
+
+    .relative { position: relative;
+                height: 100px;
+                width: 100px;
+                background-color: #ff0000;
+                opacity: .4;
+                font-size: 35px;
+                text-align: center;
+    }
+
+    .fixed {position: fixed;
+            height: 100px;
+            width: 100px;
+            background-color: #ffff00;
+            opacity: .4;
+            font-size: 35px;
+            text-align: center;
+    }
+
+    .absolute{position: absolute;
+              height: 100px;
+              width: 100px;
+              background-color: #00ff00;
+              opacity: .4;
+              font-size: 35px;
+              text-align: center;
+    }
+
+  </style>
+</head>
+<body>
+  <p class="title">Pro-Positioning</p>
+  <p class="subtitle">Technical Blog 2: Positioning Using CSS</p>
+  <section class="blog">
+  <p>
+
+    Position Static
+    <div class="static">Static Steve</div>
+
+    position relative will move where you want it relative to it's original position, but the space it was in still takes up room, like a roommate who moves out but leaves all their stuff.
+    <div class="relative">Relative Rachel</div>
+
+    Fixed position stays in the same location on the screen. Even if you scroll, it never moves. Like the roommate who move with you to every new apartment, and never leaves. Even after you're married and have kids, he just stays in the same spot, never moving.
+    <div class="fixed">Fixed Frank</div>
+
+
+    Absolute positioning is a great roommate, but you're kind of worried. He just wants to make you happy, but he has a little bit of
+    <div class="absolute">Absolute Alex</div>
+  </p>
+
+  <p class="date">Date</p>
+  </section>
+</main>
+</html>
