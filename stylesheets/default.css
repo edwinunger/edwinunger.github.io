@@ -105,8 +105,9 @@ main {margin-top: 80px;
               top: 125px;
               left: 10px;
               position: relative;
-              text-decoration: none;
+}
 
+a {text-decoration: none;
 }
 
 #line2 {height: 125px;
