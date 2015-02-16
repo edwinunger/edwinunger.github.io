@@ -27,12 +27,11 @@ body  {height: 620px;
         margin-left: 2%;
 }
 
-main {position: relative;
+main {position: fixed;
       top: 50%;
       left: 50%;
       margin-top: -295px;
       margin-left: -400px;
-
 }
 
 #projects { height: 60%;
@@ -143,21 +142,17 @@ a {text-decoration: none;
 
 }
 
-#line4 {}
+#line4
 
 #line5
 
-.sidebar-box {
-  height: 120px;
-  position: relative;
-  overflow: hidden;
-}
-.sidebar-box .read-more {
-  position: absolute;
-  bottom: 100px;
-  left: 500px;
-  width: 10%;
-  text-align: justify;
-  margin: 0; padding: 30px 0;
-  background-image: linear-gradient(to bottom, transparent, black);
+.blog-box { position: absolute;
+            bottom: 100px;
+            left: 500px;
+            width: 100px;
+            height: 100px;
+            text-align: justify;
+            margin: 0;
+            padding: 30px 0;
+            background-image: linear-gradient(to bottom, transparent, black);
 }
