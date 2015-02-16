@@ -130,13 +130,13 @@ a {text-decoration: none;
 }
 
 
-#line3 {height: 75px;
+#line3 {height: 125px;
         width: 2px;
         background-color: #000000;
         border: none;
         position: fixed;
         margin-top: 125px;
-        left: 200px;
+        left: 400px;
 
 }
 
