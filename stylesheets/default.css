@@ -15,7 +15,7 @@ body  {height: 620px;
         font-family: Verdana;
         color: #000000;
         position: fixed;
-        top: 9%;
+        top: 0%;
         left: 2%;
 }
 
@@ -23,7 +23,7 @@ body  {height: 620px;
         font-family: Verdana;
         color: #000000;
         position: fixed;
-        top: 0%;
+        top: 9%;
         margin-left: 2%;
 }
 
