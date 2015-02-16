@@ -148,16 +148,16 @@ a {text-decoration: none;
 #line5
 
 .sidebar-box {
-  max-height: 120px;
-  position: relative;
+  height: 120px;
+  position: absolute;
   overflow: hidden;
 }
 .sidebar-box .read-more {
   position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  text-align: center;
+  bottom: 100px;
+  left: 500px;
+  width: 10%;
+  text-align: justify;
   margin: 0; padding: 30px 0;
   background-image: linear-gradient(to bottom, transparent, black);
 }
