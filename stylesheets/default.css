@@ -27,18 +27,22 @@ body  {height: 620px;
         margin-left: 2%;
 }
 
-main {margin-top: 80px;
-      margin-left: 18%;
-      position: fixed;
+main {position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
 }
 
-#projects { height: 60%;
+#projects { height: 600px;
+            width: 218px;
 }
 
-#about {height: 60%;
+#about {height: 600px;
+        width: 138px;
 }
 
-#blog { height: 60%;
+#blog { height: 600px;
+        width: 443px;
 }
 
 #footer {height: 40px;
