@@ -39,11 +39,11 @@ main {position: fixed;
             width: 21.8%;
 }
 
-#about {height: 60.1%;
+#about {height: 60%;
         width: 13.8%;
 }
 
-#blog { height: 60.1%;
+#blog { height: 60%;
         width: 44.3%;
 }
 
@@ -146,3 +146,18 @@ a {text-decoration: none;
 #line4 {}
 
 #line5
+
+.sidebar-box {
+  max-height: 120px;
+  position: relative;
+  overflow: hidden;
+}
+.sidebar-box .read-more {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  margin: 0; padding: 30px 0;
+  background-image: linear-gradient(to bottom, transparent, black);
+}
