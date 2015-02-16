@@ -11,7 +11,7 @@ body  {height: 620px;
 
 }
 
-#name { font-size: 45px;
+#name { font-size: 2.813em;
         font-family: Verdana;
         color: #000000;
         position: fixed;
@@ -19,7 +19,7 @@ body  {height: 620px;
         margin-left: 2%;
 }
 
-#quote {font-size: 15px;
+#quote {font-size: 0.938em;
         font-family: Verdana;
         color: #000000;
         position: fixed;
@@ -27,11 +27,12 @@ body  {height: 620px;
         margin-left: 2%;
 }
 
-main {position: fixed;
+main {position: relative;
       top: 50%;
       left: 50%;
       margin-top: -295px;
-      margin-left: -400px
+      margin-left: -400px;
+      z-index: -1;
 
 }
 
