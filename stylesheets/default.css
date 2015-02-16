@@ -32,16 +32,13 @@ main {margin-top: 80px;
       position: fixed;
 }
 
-#projects { height: 600px;
-            width: 218px;
+#projects { height: 60%;
 }
 
-#about {height: 600px;
-        width: 138px;
+#about {height: 60%;
 }
 
-#blog { height: 600px;
-        width: 443px;
+#blog { height: 60%;
 }
 
 #footer {height: 40px;
