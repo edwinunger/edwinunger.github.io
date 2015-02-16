@@ -149,7 +149,7 @@ a {text-decoration: none;
 
 .sidebar-box {
   height: 120px;
-  position: absolute;
+  position: relative;
   overflow: hidden;
 }
 .sidebar-box .read-more {
