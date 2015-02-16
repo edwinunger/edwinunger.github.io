@@ -6,8 +6,8 @@ body  {height: 620px;
           background-color: #969696;
           opacity: .4;
           position: fixed;
-          top: 0px;
-          left: 0px;
+          top: 0%;
+          left: 0%;
 
 }
 
@@ -15,15 +15,15 @@ body  {height: 620px;
         font-family: Verdana;
         color: #000000;
         position: fixed;
-        top: -40px;
-        margin-left: 2%;
+        top: 10%;
+        left: 2%;
 }
 
 #quote {font-size: 0.938em;
         font-family: Verdana;
         color: #000000;
         position: fixed;
-        top: 40px;
+        top: 5%;
         margin-left: 2%;
 }
 
