@@ -30,7 +30,7 @@ body  {height: 620px;
 main {position: fixed;
       top: 50%;
       left: 50%;
-      margin-top: -280px;
+      margin-top: -300px;
       margin-left: -400px
 
 }
@@ -39,12 +39,12 @@ main {position: fixed;
             width: 21.8%;
 }
 
-#about {height: 600px;
-        width: 138px;
+#about {height: 60%;
+        width: 13.8%;
 }
 
-#blog { height: 600px;
-        width: 443px;
+#blog { height: 60%;
+        width: 44.3%;
 }
 
 #footer {height: 40px;
