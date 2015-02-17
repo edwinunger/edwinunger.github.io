@@ -187,9 +187,28 @@ a {
   font-family: Verdana;
   color: #000000;
   top: 485px;
-  left: 395px;
+  left: 400px;
   position: absolute;
   text-decoration: none;
 }
 
-.line5
+.line5 {
+  height: 200px;
+  width: 2px;
+  background-color: #000000;
+  border: none;
+  position: fixed;
+  margin-top: 200px;
+  margin-left: 425px;
+  margin-right: 0px;
+}
+
+.line6 {
+  height: 50px;
+  width: 2px;
+  background-color: #000000;
+  border: none;
+  position: fixed;
+  margin-top: 75px;
+  left: 325px;
+}
