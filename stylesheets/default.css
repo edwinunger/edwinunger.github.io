@@ -1,29 +1,34 @@
-#header { height: 10%;
-          width: 100%;
-          background-color: #969696;
-          opacity: .4;
-          position: fixed;
-          top: 0%;
-          left: 0%;
+/*Header*/
 
+.header {
+  height: 10%;
+  width: 100%;
+  background-color: #969696;
+  opacity: .4;
+  position: fixed;
+  top: 0%;
+  left: 0%;
 }
 
-#name { font-size: 2.813em;
-        font-family: Verdana;
-        color: #000000;
-        position: fixed;
-        margin-top: 0%;
-        top: 0%;
-        left: 2%;
+.name {
+  font-size: 2.813em;
+  font-family: Verdana;
+  color: #000000;
+  position: fixed;
+  margin-top: 0%;
+  top: 0%;
+  left: 2%;
 }
 
-#quote {font-size: 0.938em;
+.quote {font-size: 0.938em;
         font-family: Verdana;
         color: #000000;
         position: fixed;
         top: 9%;
         margin-left: 2%;
 }
+
+/*Main*/
 
 main {position: fixed;
       top: 50%;
@@ -33,19 +38,21 @@ main {position: fixed;
       z-index: -1;
 }
 
-#projects { height: 60%;
+.projects { height: 60%;
             width: 21.8%;
 }
 
-#about {height: 60%;
+.about {height: 60%;
         width: 13.8%;
 }
 
-#blog { height: 60%;
+.blog { height: 60%;
         width: 44.3%;
 }
 
-#footer {height: 40px;
+/*Footer*/
+
+.footer {height: 40px;
           width: 100%;
           background-color: #969696;
           opacity: .4;
@@ -54,33 +61,36 @@ main {position: fixed;
           left: 0px;
 }
 
-#email {height: 21px;
+.email {height: 21px;
         width: 30px;
         margin-left: 10%;
         bottom: 4.5px;
         position: fixed;
 }
 
-#linkedin { height:30px;
+.linkedin { height:30px;
             width: 30px;
             margin-left: 35%;
             bottom: 0px;
             position: fixed;
 }
 
-#github { height: 30px;
+.github { height: 30px;
           width: 30px;
           margin-left: 61%;
           bottom: 0px;
           position: fixed;
 }
 
-#twitter {height: 30px;
+.twitter {height: 30px;
           width: 30px;
           margin-left: 86%;
           bottom: 0px;
           position: fixed;
 }
+
+
+/*Blog*/
 
 #timeline { height: 3px;
             width: 95%;
