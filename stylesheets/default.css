@@ -178,7 +178,7 @@ a {
   border: none;
   position: fixed;
   margin-top: 200px;
-  margin-left: 475px;
+  margin-left: 425px;
   margin-right: 0px;
 }
 
@@ -186,8 +186,8 @@ a {
   font-size: 20px;
   font-family: Verdana;
   color: #000000;
-  top: 400px;
-  left: 300px;
+  top: 450px;
+  left: 350px;
   position: absolute;
   text-decoration: none;
 }
