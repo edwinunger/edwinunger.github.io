@@ -146,7 +146,7 @@ a {
   font-size: 20px;
   font-family: Verdana;
   color: #000000;
-  top: 280px;
+  top: 310px;
   left: 75px;
   position: absolute;
   text-decoration: none;
@@ -167,7 +167,7 @@ a {
   font-family: Verdana;
   color: #000000;
   top: 80px;
-  left: 355px;
+  left: 305px;
   position: absolute;
   text-decoration: none;}
 
@@ -178,7 +178,7 @@ a {
   border: none;
   position: fixed;
   margin-top: 200px;
-  margin-left: 350px;
+  margin-left: 250px;
   margin-right: 0px;
 }
 
