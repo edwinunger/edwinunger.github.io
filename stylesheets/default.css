@@ -100,9 +100,9 @@
 /*Blog*/
 
 .timeline { height: 3px;
-            width: 95%;
+            width: 100%;
             background-color: #000000;
-            margin: 200px 0px 20px -200px;
+            margin: 200px 0px 0px -8px;
             border: none;
             position: fixed;
 }
