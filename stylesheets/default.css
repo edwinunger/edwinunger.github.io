@@ -30,24 +30,28 @@
 
 /*Main*/
 
-main {position: fixed;
-      top: 50%;
-      left: 50%;
-      margin-top: -295px;
-      margin-left: -400px;
-      z-index: -1;
+.image {
+  min-height: 100%;
+  min-width: 3264px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0%;
+  left: 50%;
+  margin-left: 1632px;
+  z-index: -1;
 }
 
-.projects { height: 60%;
-            width: 21.8%;
+.projects { height: auto;
+            width: auto;
 }
 
-.about {height: 60%;
-        width: 13.8%;
+.about {height: auto;
+        width: auto;
 }
 
-.blog { height: 60%;
-        width: 44.3%;
+.blog { height: auto;
+        width: auto;
 }
 
 /*Footer*/
