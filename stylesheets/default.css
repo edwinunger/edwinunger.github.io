@@ -171,6 +171,15 @@ a {
   position: absolute;
   text-decoration: none;}
 
-.line4
+.line4 {
+  height: 200px;
+  width: 2px;
+  background-color: #000000;
+  border: none;
+  position: fixed;
+  margin-top: 200px;
+  margin-left: 160px;
+  margin-right: 0px;
+}
 
 .line5
