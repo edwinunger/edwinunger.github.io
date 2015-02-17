@@ -39,6 +39,8 @@
   top: 0%;
   left: 0%;
   z-index: -1;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* .projects { height: auto;
