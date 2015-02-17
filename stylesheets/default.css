@@ -1,5 +1,9 @@
 /*Header*/
 
+a {
+  text-decoration: none;
+}
+
 .header {
   height: 10%;
   width: 100%;
@@ -109,62 +113,63 @@
 
 
 
-.line1 {height: 75px;
-        width: 2px;
-        background-color: #000000;
-        border: none;
-        position: fixed;
-        margin-top: 125px;
+.line1 {
+  height: 75px;
+  width: 2px;
+  background-color: #000000;
+  border: none;
+  position: fixed;
+  margin-top: 125px;
 }
 
-.tech-blog-1 {font-size: 20px;
-              font-family: Verdana;
-              color: #000000;
-              top: 130px;
-              left: 15px;
-              position: absolute;
+.tech-blog-1 {
+  font-size: 20px;
+  font-family: Verdana;
+  color: #000000;
+  top: 130px;
+  left: 15px;
+  position: absolute;
 }
 
-a {text-decoration: none;
+.line2 {
+  height: 125px;
+  width: 2px;
+  background-color: #000000;
+  border: none;
+  position: fixed;
+  margin-top: 200px;
+  margin-left: 60px;
+  margin-right: 0px;
 }
 
-.line2 {height: 125px;
-        width: 2px;
-        background-color: #000000;
-        border: none;
-        position: fixed;
-        margin-top: 200px;
-        margin-left: 75px;
-        margin-right: 0px;
+.culture-blog-1 {
+  font-size: 20px;
+  font-family: Verdana;
+  color: #000000;
+  top: 310px;
+  left: 65px;
+  position: absolute;
+  text-decoration: none;
 }
 
-.culture-blog-1 {font-size: 20px;
-                 font-family: Verdana;
-                 color: #000000;
-                 top: 310px;
-                 left: 90px;
-                 position: absolute;
-                 text-decoration: none;
+.line3 {
+  height: 125px;
+  width: 2px;
+  background-color: #000000;
+  border: none;
+  position: fixed;
+  margin-top: 75px;
+  left: 400px;
 }
 
-
-.line3 {height: 125px;
-        width: 2px;
-        background-color: #000000;
-        border: none;
-        position: fixed;
-        margin-top: 75px;
-        left: 400px;
-
-}
-
-.tech-blog-2 {font-size: 20px;
-              font-family: Verdana;
-              color: #000000;
-              top: 80px;
-              left: 405px;
-              position: absolute;
-              text-decoration: none;}
+.tech-blog-2 {
+  font-size: 20px;
+  font-family: Verdana;
+  color: #000000;
+  top: 80px;
+  left: 405px;
+  position: absolute;
+  text-decoration: none;}
 
 .line4
 
