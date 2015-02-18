@@ -1,13 +1,5 @@
 /*Whole Document*/
 
-html {
-  background: no-repeat fixed;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
-}
-
 a {
   text-decoration: none;
 }
