@@ -116,7 +116,7 @@ a {
 
 .timeline { height: 3px;
             width: 100%;
-            background-color: #000000;
+            background-color: #ffffff;
             margin: 200px 0px 0px -8px;
             border: none;
             position: fixed;
@@ -127,7 +127,7 @@ a {
 .line1 {
   height: 75px;
   width: 2px;
-  background-color: #000000;
+  background-color: #ffffff;
   border: none;
   position: fixed;
   margin-top: 125px;
@@ -136,7 +136,7 @@ a {
 .tech-blog-1 {
   font-size: 20px;
   font-family: Verdana;
-  color: #000000;
+  color: #ffffff;
   top: 130px;
   left: 15px;
   position: absolute;
@@ -145,7 +145,7 @@ a {
 .line2 {
   height: 125px;
   width: 2px;
-  background-color: #000000;
+  background-color: #ffffff;
   border: none;
   position: fixed;
   margin-top: 200px;
@@ -156,7 +156,7 @@ a {
 .culture-blog-1 {
   font-size: 20px;
   font-family: Verdana;
-  color: #000000;
+  color: #ffffff;
   top: 310px;
   left: 75px;
   position: absolute;
@@ -166,7 +166,7 @@ a {
 .line3 {
   height: 125px;
   width: 2px;
-  background-color: #000000;
+  background-color: #ffffff;
   border: none;
   position: fixed;
   margin-top: 75px;
@@ -176,7 +176,7 @@ a {
 .tech-blog-2 {
   font-size: 20px;
   font-family: Verdana;
-  color: #000000;
+  color: #ffffff;
   top: 80px;
   left: 305px;
   position: absolute;
@@ -185,7 +185,7 @@ a {
 .line4 {
   height: 300px;
   width: 2px;
-  background-color: #000000;
+  background-color: #ffffff;
   border: none;
   position: fixed;
   margin-top: 200px;
@@ -196,7 +196,7 @@ a {
 .gps-1-2 {
   font-size: 20px;
   font-family: Verdana;
-  color: #000000;
+  color: #ffffff;
   top: 485px;
   left: 400px;
   position: absolute;
@@ -206,7 +206,7 @@ a {
 .line5 {
   height: 200px;
   width: 2px;
-  background-color: #000000;
+  background-color: #ffffff;
   border: none;
   position: fixed;
   margin-top: 200px;
@@ -217,7 +217,7 @@ a {
 .line6 {
   height: 50px;
   width: 2px;
-  background-color: #000000;
+  background-color: #ffffff;
   border: none;
   position: fixed;
   margin-top: 150px;
