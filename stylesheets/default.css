@@ -1,6 +1,10 @@
 /*Whole Document*/
 html {
-  background: url(https://github.com/edwinunger/edwinunger.github.io/blob/master/images/Projects.png?raw=true);
+  background: url(https://github.com/edwinunger/edwinunger.github.io/blob/master/images/background.png?raw=true) no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 a {
@@ -37,18 +41,16 @@ a {
         margin-left: 2%;
 }
 
-/*Main*/
-
-
 /*Footer*/
 
-.footer {height: 5%;
-          width: 100%;
-          background-color: #969696;
-          opacity: .4;
-          position: fixed;
-          bottom: 0px;
-          left: 0px;
+.footer {
+  height: 5%;
+  width: 100%;
+  background-color: #969696;
+  opacity: .4;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
 }
 
 .email {height: 21px;
