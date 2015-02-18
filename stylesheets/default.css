@@ -1,4 +1,7 @@
 /*Whole Document*/
+html {
+  background: url(https://github.com/edwinunger/edwinunger.github.io/blob/master/images/Projects.png?raw=true);
+}
 
 a {
   text-decoration: none;
@@ -36,8 +39,6 @@ a {
 
 /*Main*/
 
-.image {
-}
 
 /*Footer*/
 
