@@ -7,6 +7,15 @@ html {
   background-size: cover;
 }
 
+#box-link {
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    width: 83px;
+    height: 83px;
+    background-color: transparent;
+    border: 1px solid yellow; }
+
 a {
   text-decoration: none;
 }
