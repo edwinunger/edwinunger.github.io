@@ -7,7 +7,7 @@ html {
   background-size: cover;
 }
 
-#box-link {
+.projects {
     position: fixed;
     top: 10%;
     left: 0%;
@@ -15,7 +15,30 @@ html {
     width: 27%;
     height: 85%;
     background-color: transparent;
-    border: 1px solid yellow; }
+    border: 1px solid yellow;
+}
+
+.about {
+    position: fixed;
+    top: 10%;
+    left: 27%;
+    bottom: 5%;
+    width: 20%;
+    height: 85%;
+    background-color: transparent;
+    border: 1px solid yellow;
+}
+
+.blog {
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    bottom: 5%;
+    width: 40%;
+    height: 85%;
+    background-color: transparent;
+    border: 1px solid yellow;
+}
 
 a {
   text-decoration: none;
