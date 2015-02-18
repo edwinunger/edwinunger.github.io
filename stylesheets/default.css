@@ -15,7 +15,6 @@ html {
     width: 27%;
     height: 85%;
     background-color: transparent;
-    border: 1px solid yellow;
 }
 
 .about {
@@ -26,7 +25,6 @@ html {
     width: 17%;
     height: 85%;
     background-color: transparent;
-    border: 1px solid yellow;
 }
 
 .blog {
@@ -37,7 +35,6 @@ html {
     width: 56%;
     height: 85%;
     background-color: transparent;
-    border: 1px solid yellow;
 }
 
 a {
