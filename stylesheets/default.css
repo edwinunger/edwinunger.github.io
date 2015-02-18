@@ -7,7 +7,7 @@ html {
   background-size: cover;
 }
 
-.projects {
+.portfolio-link {
   position: fixed;
   top: 10%;
   left: 0%;
@@ -17,7 +17,7 @@ html {
   background-color: transparent;
 }
 
-.about {
+.about-link {
   position: fixed;
   top: 10%;
   left: 27%;
@@ -27,7 +27,7 @@ html {
   background-color: transparent;
 }
 
-.blog {
+.blog-link {
   position: fixed;
   top: 10%;
   left: 44%;
