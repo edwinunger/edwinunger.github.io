@@ -37,6 +37,7 @@ a {
 /*Main*/
 
 .image {
+  display: inline;
   width: 25%;
   height: auto;
   position: fixed;
