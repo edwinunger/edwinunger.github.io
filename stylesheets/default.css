@@ -54,7 +54,7 @@ a {
   left: 0%;
   z-index: -1;
   right: 0%;
-  margin-left: 100px;
+  margin-left: 0px;
   background-repeat:no-repeat;
   background-size:cover;
 }
