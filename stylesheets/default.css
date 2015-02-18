@@ -53,15 +53,16 @@ a {
 }*/
 
 .projects { height: auto;
-            width: auto;
+            width: 50%;
+
 }
 
 .about {height: auto;
-        width: auto;
+        width: 50%;
 }
 
 .blog { height: auto;
-        width: auto;
+        width: 50%;
 }
 
 /*Footer*/
