@@ -27,7 +27,7 @@ html {
   color: #ffffff;
 }
 
-.portfolio-link a {
+.portfolio-link p {
   font-family: verdana;
   text-align: center;
   font-size: 2em;
@@ -48,7 +48,7 @@ html {
   color: #ffffff;
 }
 
-.about-link a {
+.about-link p {
   font-family: verdana;
   text-align: center;
   font-size: 2em;
