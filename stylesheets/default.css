@@ -28,9 +28,9 @@ html {
 }
 
 .portfolio-link p {
-  font-family: verdana;
+  font-family: TOSCA ZERO;
   text-align: center;
-  font-size: 2em;
+  font-size: 3em;
 }
 
 .about-link {
@@ -51,7 +51,7 @@ html {
 .about-link p {
   font-family: TOSCA ZERO;
   text-align: center;
-  font-size: 2em;
+  font-size: 3em;
 }
 
 .blog-link {
@@ -70,9 +70,9 @@ html {
 }
 
 .blog-link p {
-  font-family: verdana;
+  font-family: TOSCA ZERO;
   text-align: center;
-  font-size: 2em;
+  font-size: 3em;
 }
 
 a {
