@@ -27,6 +27,12 @@ html {
   color: #ffffff;
 }
 
+.portfolio-link a {
+  font-family: verdana;
+  text-align: center;
+  font-size: 2em;
+}
+
 .about-link {
   position: fixed;
   top: 10%;
@@ -42,6 +48,12 @@ html {
   color: #ffffff;
 }
 
+.about-link a {
+  font-family: verdana;
+  text-align: center;
+  font-size: 2em;
+}
+
 .blog-link {
   position: fixed;
   top: 10%;
@@ -51,8 +63,6 @@ html {
   height: 85%;
   background-color: transparent;
   color: transparent;
-  font-family: tosca;
-
 }
 
 .blog-link:hover {
@@ -60,6 +70,9 @@ html {
 }
 
 .blog-link p {
+  font-family: verdana;
+  text-align: center;
+  font-size: 2em;
 }
 
 a {
