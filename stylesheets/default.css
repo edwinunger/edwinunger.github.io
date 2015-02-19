@@ -7,6 +7,11 @@ html {
   background-size: cover;
 }
 
+@font-face {
+  font-family: "tosca";
+  src: url('http://edwinunger.github.io/images/TOSCA___.otf');
+}
+
 .portfolio-link {
   position: fixed;
   top: 10%;
@@ -21,6 +26,11 @@ html {
 .portfolio-link:hover {
   color: #ffffff;
 }
+
+.portfolio-link p {
+  color: transparent;
+  font-family: tosca;
+  font-size: 2em;
 
 .about-link {
   position: fixed;
@@ -37,6 +47,11 @@ html {
   color: #ffffff;
 }
 
+.about-link p {
+  color: transparent;
+  font-family: tosca;
+  font-size: 2em;
+
 .blog-link {
   position: fixed;
   top: 10%;
@@ -49,7 +64,8 @@ html {
 
 .blog-link p {
   color: transparent;
-  font-family: ;
+  font-family: tosca;
+  font-size: 2em;
 }
 .blog-link:hover {
   color: #ffffff;
