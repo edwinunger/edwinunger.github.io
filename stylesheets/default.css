@@ -8,7 +8,7 @@ html {
 }
 
 @font-face {
-  font-family: "tosca";
+  font-family: tosca;
   src: url('http://edwinunger.github.io/images/TOSCA___.otf');
 }
 
@@ -51,6 +51,8 @@ html {
   height: 85%;
   background-color: transparent;
   color: transparent;
+  font-family: tosca;
+
 }
 
 .blog-link:hover {
@@ -58,7 +60,6 @@ html {
 }
 
 .blog-link p {
-  font-family: "tosca";
 }
 
 a {
