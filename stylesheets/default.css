@@ -15,6 +15,11 @@ html {
   width: 27%;
   height: 85%;
   background-color: transparent;
+  color: transparent;
+}
+
+.portfolio-link :hover {
+  color: #ffffff;
 }
 
 .about-link {
