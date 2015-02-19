@@ -7,10 +7,10 @@ html {
   background-size: cover;
 }
 
-@font-face {
+/*@font-face {
   font-family: "tosca";
   src: url('http://edwinunger.github.io/images/TOSCA___.otf');
-}
+}*/
 
 .portfolio-link {
   position: fixed;
