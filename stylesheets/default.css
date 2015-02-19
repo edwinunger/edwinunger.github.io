@@ -8,8 +8,8 @@ html {
 }
 
 @font-face {
-  font-family: "TOSCA___";
-  src: url('http://edwinunger.github.io/images/TOSCA___.otf');
+  font-family: TOSCA ZERO;
+  src: url(http://edwinunger.github.io/images/TOSCA___.otf);
 }
 
 .portfolio-link {
@@ -49,7 +49,7 @@ html {
 }
 
 .about-link p {
-  font-family: "TOSCA___";
+  font-family: TOSCA ZERO;
   text-align: center;
   font-size: 2em;
 }
