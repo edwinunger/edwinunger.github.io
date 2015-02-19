@@ -277,3 +277,8 @@ a {
   margin-top: 150px;
   left: 325px;
 }
+
+code {
+  background-color: #000000;
+  font-size: 20px;
+}
