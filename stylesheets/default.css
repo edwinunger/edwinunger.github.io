@@ -24,7 +24,7 @@ html {
 }
 
 .portfolio-link:hover {
-  color: #ffffff;
+  color: #c6c6c6;
 }
 
 .portfolio-link p {
@@ -32,7 +32,6 @@ html {
   text-align: center;
   font-size: 3em;
   margin-top: 13%;
-  color: #c6c6c6;
 }
 
 .about-link {
@@ -47,14 +46,13 @@ html {
 }
 
 .about-link:hover {
-  color: #ffffff;
+  color: #c6c6c6;
 }
 
 .about-link p {
   font-family: TOSCA ZERO;
   text-align: center;
   font-size: 3em;
-  color: #c6c6c6;
 }
 
 .blog-link {
@@ -69,14 +67,13 @@ html {
 }
 
 .blog-link:hover {
-  color: #ffffff;
+  color: #c6c6c6;
 }
 
 .blog-link p {
   font-family: TOSCA ZERO;
   text-align: center;
   font-size: 3em;
-  #c6c6c6;
 }
 
 a {
