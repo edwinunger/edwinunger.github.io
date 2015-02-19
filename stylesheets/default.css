@@ -30,6 +30,11 @@ html {
   width: 17%;
   height: 85%;
   background-color: transparent;
+  color: transparent;
+}
+
+.about-link:hover {
+  color: #ffffff;
 }
 
 .blog-link {
@@ -42,7 +47,13 @@ html {
   background-color: transparent;
 }
 
-
+.blog-link p {
+  color: transparent;
+  font-family: "tosca zero";
+}
+.blog-link:hover {
+  color: #ffffff;
+}
 
 a {
   text-decoration: none;
