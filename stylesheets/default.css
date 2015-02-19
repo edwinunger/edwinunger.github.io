@@ -31,6 +31,8 @@ html {
   font-family: TOSCA ZERO;
   text-align: center;
   font-size: 3em;
+  margin-top: 13%;
+  color: #c6c6c6;
 }
 
 .about-link {
@@ -52,6 +54,7 @@ html {
   font-family: TOSCA ZERO;
   text-align: center;
   font-size: 3em;
+  color: #c6c6c6;
 }
 
 .blog-link {
@@ -73,6 +76,7 @@ html {
   font-family: TOSCA ZERO;
   text-align: center;
   font-size: 3em;
+  #c6c6c6;
 }
 
 a {
