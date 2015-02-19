@@ -8,7 +8,7 @@ html {
 }
 
 @font-face {
-  font-family: tosca;
+  font-family: "TOSCA___";
   src: url('http://edwinunger.github.io/images/TOSCA___.otf');
 }
 
@@ -49,7 +49,7 @@ html {
 }
 
 .about-link p {
-  font-family: verdana;
+  font-family: "TOSCA___";
   text-align: center;
   font-size: 2em;
 }
