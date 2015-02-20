@@ -7,6 +7,11 @@ html {
   background-size: cover;
 }
 
+code {
+  background-color: #000000;
+  font-size: 16px;
+}
+
 @font-face {
   font-family: TOSCA ZERO;
   src: url(http://edwinunger.github.io/images/TOSCA___.otf);
@@ -280,7 +285,13 @@ a {
   left: 325px;
 }
 
-code {
-  background-color: #000000;
-  font-size: 16px;
+.culture-blog-2 {
+  font-size: 20px;
+  font-family: Verdana;
+  color: #ffffff;
+  top: 375px;
+  left: 275px;
+  position: fixed;
+  text-decoration: none;
 }
+
