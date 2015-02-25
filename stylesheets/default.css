@@ -30,6 +30,7 @@ code {
 
 .portfolio-link:hover {
   color: #ffffff;
+  opacity: .5;
 }
 
 .portfolio-link p {
@@ -51,6 +52,7 @@ code {
 
 .about-link:hover {
   color: #ffffff;
+  opacity: .5;
 }
 
 .about-link p {
@@ -74,6 +76,7 @@ code {
 
 .blog-link:hover {
   color: #ffffff;
+  opacity: .5;
 }
 
 .blog-link p {
