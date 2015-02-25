@@ -25,12 +25,12 @@ code {
   width: 27%;
   height: 85%;
   background-color: transparent;
-  color: #c6c6c6;
+  color: #c0c0c0;
 }
 
 .portfolio-link:hover {
   color: #ffffff;
-  opacity: .5;
+  opacity: .4;
 }
 
 .portfolio-link p {
@@ -47,12 +47,12 @@ code {
   width: 17%;
   height: 85%;
   background-color: transparent;
-  color: #c6c6c6;
+  color: #c0c0c0;
 }
 
 .about-link:hover {
   color: #ffffff;
-  opacity: .5;
+  opacity: .4;
 }
 
 .about-link p {
@@ -71,12 +71,12 @@ code {
   width: 56%;
   height: 85%;
   background-color: transparent;
-  color: #c6c6c6;
+  color: #c0c0c0;
 }
 
 .blog-link:hover {
   color: #ffffff;
-  opacity: .5;
+  opacity: .4;
 }
 
 .blog-link p {
