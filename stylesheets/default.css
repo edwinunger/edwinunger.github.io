@@ -25,11 +25,11 @@ code {
   width: 27%;
   height: 85%;
   background-color: transparent;
-  color: transparent;
+  color: #c6c6c6;
 }
 
 .portfolio-link:hover {
-  color: #c6c6c6;
+  color: #ffffff;
 }
 
 .portfolio-link p {
@@ -46,11 +46,11 @@ code {
   width: 17%;
   height: 85%;
   background-color: transparent;
-  color: transparent;
+  color: #c6c6c6;
 }
 
 .about-link:hover {
-  color: #c6c6c6;
+  color: #ffffff;
 }
 
 .about-link p {
@@ -69,11 +69,11 @@ code {
   width: 56%;
   height: 85%;
   background-color: transparent;
-  color: transparent;
+  color: #c6c6c6;
 }
 
 .blog-link:hover {
-  color: #c6c6c6;
+  color: #ffffff;
 }
 
 .blog-link p {
