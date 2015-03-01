@@ -169,6 +169,16 @@ a {
 
 
 /*Blog*/
+.pre-dbc {
+  border: 2px solid #000000;
+  font-size: 20px;
+  font-family: Verdana;
+  color: #ffffff;
+  position: fixed;
+}
+
+
+
 
 .timeline {
   height: 3px;
