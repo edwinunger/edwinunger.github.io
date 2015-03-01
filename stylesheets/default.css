@@ -176,6 +176,11 @@ a {
   color: #ffffff;
   position: fixed;
   width: 300px;
+  text-align: center;
+}
+
+.pre-dbc p {
+  font-size: 30px;
 }
 
 .pre-dbc a {
