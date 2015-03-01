@@ -176,12 +176,12 @@ a {
   color: #ffffff;
   position: fixed;
   width: 25%;
-  text-align: center;
+  text-align: left;
   top: 60%;
   left: 5%;
 }
 
-.pre-dbc p {
+#pre-dbc-title {
   font-size: 30px;
 }
 
