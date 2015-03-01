@@ -175,8 +175,10 @@ a {
   font-family: Verdana;
   color: #ffffff;
   position: fixed;
-  width: 300px;
+  width: 25%;
   text-align: center;
+  top: 60%;
+  left: 5%;
 }
 
 .pre-dbc p {
