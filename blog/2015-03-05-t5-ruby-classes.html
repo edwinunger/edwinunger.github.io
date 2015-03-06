@@ -95,11 +95,11 @@
     </code>
   </p>
   <p>
-    Once again, I've created an empty Class, but this time, there's something different. since we've defined 'Baby' as being a Sub-Class of 'Mommy' using the < symbol, we now have access to all of the capabilities that 'Mommy' provides, but inside 'Baby'. If I wanted to put name, height, weight, hair, eyes, etc., inside the 'Baby' Class, I wouldn't need to define those objects again, since they already exist in 'Mommy'. Let's make 'Baby' a little more interesting:
+    Once again, I've created an empty Class, but this time, there's something different. Since we've defined 'Baby' as being a Sub-Class of 'Mommy' using the < symbol, we now have access to all of the capabilities that 'Mommy' provides, but inside 'Baby'. If I wanted to put name, height, weight, hair, eyes, etc., inside the 'Baby' Class, I wouldn't need to define those objects again, since they already exist in 'Mommy'. Let's make 'Baby' a little more interesting:
   </p>
   <p>
     <code>
-      class Baby < Mommy
+      class Baby < Mommy<br>
       attr_accessor :age, :favorite_bedtime_stories, :favorite_food, :highest_count<br>
       <br>
       def initialize(first_name, last_name, age, hair, eyes, hobbies, tv_shows, favorite_bedtime_stories, favorite_food, highest_count)<br>
