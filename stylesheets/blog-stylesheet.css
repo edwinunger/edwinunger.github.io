@@ -20,6 +20,8 @@
     margin-right: 15%;
     text-align: justify;
     color: #ffffff;
+    background-color: #000000;
+    opacity: .4;
 }
 
 .date {
