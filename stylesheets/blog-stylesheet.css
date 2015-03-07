@@ -13,13 +13,17 @@
     color: #ffffff;
 }
 
-.blog {
+.blog p {
     font-family: sans-serif;
     font-size: 1em;
     margin-left: 15%;
     margin-right: 15%;
     text-align: justify;
     color: #ffffff;
+    opacity: 1;
+
+
+.blog {
     background-color: #000000;
     opacity: .4;
 }
