@@ -367,7 +367,7 @@ a {
 }
 
 .line9 {
-  height: 100px;
+  height: 125px;
   width: 2px;
   background-color: #ffffff;
   border: none;
@@ -381,8 +381,8 @@ a {
   font-size: 20px;
   font-family: Verdana;
   color: #ffffff;
-  top: 100px;
-  left: 550px;
+  top: 125px;
+  left: 700px;
   position: fixed;
   text-decoration: none;
 }
