@@ -25,11 +25,11 @@ code {
   width: 27%;
   height: 85%;
   background-color: transparent;
-  color: #969696;
+  color: #ffffff;
 }
 
 .portfolio-link:hover {
-  color: #ffffff;
+  color: #969696;
   opacity: .4;
 }
 
@@ -48,11 +48,11 @@ code {
   width: 17%;
   height: 85%;
   background-color: transparent;
-  color: #969696;
+  color: #ffffff;
 }
 
 .about-link:hover {
-  color: #ffffff;
+  color: #969696;
   opacity: .4;
 }
 
@@ -73,11 +73,11 @@ code {
   width: 56%;
   height: 85%;
   background-color: transparent;
-  color: #969696;
+  color: #ffffff;
 }
 
 .blog-link:hover {
-  color: #ffffff;
+  color: #969696;
   opacity: .4;
 }
 
@@ -362,6 +362,47 @@ a {
   color: #ffffff;
   top: 285px;
   left: 490px;
+  position: fixed;
+  text-decoration: none;
+}
+
+.line9 {
+  height: 85px;
+  width: 2px;
+  background-color: #ffffff;
+  border: none;
+  position: fixed;
+  margin-top: 115px;
+  margin-left: 730px;
+  margin-right: 0px;
+}
+
+.tech-blog-5 {
+  font-size: 20px;
+  font-family: Verdana;
+  color: #ffffff;
+  top: 120px;
+  left: 500px;
+  position: fixed;
+  text-decoration: none;
+}
+
+.line10 {
+  height: 100px;
+  width: 2px;
+  background-color: #ffffff;
+  border: none;
+  position: fixed;
+  margin-top: 200px;
+  left: 525px;
+}
+
+.culture-blog-3 {
+  font-size: 20px;
+  font-family: Verdana;
+  color: #ffffff;
+  top: 285px;
+  left: 525px;
   position: fixed;
   text-decoration: none;
 }
