@@ -388,13 +388,13 @@ a {
 }
 
 .line10 {
-  height: 100px;
+  height: 50px;
   width: 2px;
   background-color: #ffffff;
   border: none;
   position: fixed;
-  margin-top: 200px;
-  left: 525px;
+  margin-top: 150px;
+  left: 600px;
 }
 
 .culture-blog-4 {
