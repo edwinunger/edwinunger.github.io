@@ -406,3 +406,10 @@ a {
   position: fixed;
   text-decoration: none;
 }
+
+/* Javascript Adventure */
+
+.button {
+  top: 100px;
+  left: 100px;
+}
