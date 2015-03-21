@@ -15,19 +15,16 @@
     </header>
 
 
-<span class = "button"><button onclick="myFunction()">Try it</button></class>
+<script class = "test">
+      var calculateCost = function()
+      {
+        var cost = prompt("How much does your project cost?");
+        var people = prompt("How many people are you?");
+        var costPerPerson = cost/people;
+        alert("As your project costs " + cost + " Euro and you are " + people + " people, everyone of you has to pay " + costPerPerson + " Euro." );
+      };
+    </script>
 
-<p id="demo"></p>
-
-<script>
-function myFunction() {
-    var person = prompt("Please enter your name", "Harry Potter");
-    if (person != null) {
-        document.getElementById("demo").innerHTML =
-        "Hello " + person + "! How are you today?";
-    }
-}
-</script>
 
   <div class="footer"></div>
     <footer>
