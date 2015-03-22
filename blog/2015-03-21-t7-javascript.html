@@ -27,7 +27,7 @@
     This week, we were given a challenge to revisit one of our Ruby puzzles from a previous unit and rebuild it using JavaScript. This challenge was the 'Commafier', which essentially takes a number of any length and inserts a comma in the appropriate spot. So, '1000' becomes '1,000', '1000000' becomes '1,000,000', and so forth. When we were told to rebuild it in JavaScript, we weren't given any requirements to match it to the Ruby version, but my pair and I decided to try it anyway. We wanted to see how similar these two languages can be when beaten with a hammer.
   </p>
   <p>
-    So, let's go line by line. for clarity's sake, I'll make the Ruby code <font color="red">red</font> and the JavaScript code <font color="blue">blue</font>.
+    So, let's go line by line. for clarity's sake, I'll make the Ruby code <font color="red">red</font> and the JavaScript code <font color="light blue">blue</font>.
   </p>
   <p>
     <code>
@@ -35,7 +35,7 @@
     </code>
     <br>
     <code>
-      <font color = "blue">function separate_comma(number) {</font><br>
+      <font color = "light blue">function separate_comma(number) {</font><br>
     </code>
   </p>
   <p>
@@ -47,7 +47,7 @@
     </code>
     <br>
     <code>
-      <font color = "blue">var digits = [];</font><br>
+      <font color = "light blue">var digits = [];</font><br>
     </code>
   </p>
   <p>
@@ -59,7 +59,7 @@
     </code>
     <br>
     <code>
-      <font color = "blue">var newNumber = number.toString().split('').reverse();</font><br>
+      <font color = "light blue">var newNumber = number.toString().split('').reverse();</font><br>
     </code>
   </p>
   <p>
@@ -77,7 +77,7 @@
     </code>
     <br>
     <code>
-      <font color = "blue">while (newNumber.length > 0) {</font><br>
+      <font color = "light blue">while (newNumber.length > 0) {</font><br>
     </code>
   </p>
   <p>
@@ -96,7 +96,7 @@
     </code>
     <br>
     <code>
-      <font color = "blue">var spliced = newNumber.splice(0, 3).join('');<br>
+      <font color = "light blue">var spliced = newNumber.splice(0, 3).join('');<br>
       digits.push(spliced);<br>
       }</font><br>
     </code>
@@ -114,7 +114,7 @@
     </code>
     <br>
     <code>
-      <font color = "blue">return digits.join(",").split('').reverse().join('');<br>
+      <font color = "light blue">return digits.join(",").split('').reverse().join('');<br>
       }</font><br>
     </code>
   </p>
