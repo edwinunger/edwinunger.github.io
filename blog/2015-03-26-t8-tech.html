@@ -60,7 +60,7 @@
     Hmm. That looks almost exactly the same. Why use RegExp then? We'll get to that, but first, let's talk about what's going on here.
   </p>
   <p>
-    The '=~' symbol that you see is looking for the first occurrence of what's inside the '/ /'. Inside those forward slashes is our match requirement, in this case a letter. When we want to find a particular letter or character in a string, we can put it in [] and RegExp will look for that exact character, including whether it's capitalized or not.
+    The '=~' symbol that you see is looking for the first occurrence of what's inside the '//'. Inside those forward slashes is our match requirement, in this case a letter. When we want to find a particular letter or character in a string, we can put it in [] and RegExp will look for that exact character, including whether it's capitalized or not.
   </p>
   <p>
     So I ask again: What's the use of RegExp in Ruby when I already have tools that can search for particular characters or patters in a string? The key here is this: What if you don't know what the string is going to be? On top of that, what if you need to look for lots of characters that all share a common trait, but aren't exactly the same? RegExp to the rescue!
