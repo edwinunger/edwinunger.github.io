@@ -3,77 +3,22 @@ layout: default
 title: Blog
 ---
 
-<!doctype html>
-<html>
-<head>
-  <title>Edwin Unger</title>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" type="text/css" href="https://edwinunger.github.io/stylesheets/default.css">
-</head>
-<body>
+<div class="home">
 
-  <div class="header"></div>
-    <header>
-      <a href="http://edwinunger.com"><p class="name">Edwin Unger</p></a>
-      <p class="quote">I'm a web developer. Sort of.</p>
-    </header>
+  <h1 class="page-heading">Blog</h1>
 
-<main>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-<div class="pre-dbc"><span id="pre-dbc-title">Pre-DBC Blog</span><br>
-  <br>
-  <p><a href="http://edwinunger.github.io/blog/2014-12-07-function-over-form.html"><span class="pre-dbc-1">Function Over Form</span></a><br>
-  <a href="http://edwinunger.github.io/blog/2014-12-14-Ambitions-Bared-Be-Prepared.html"><span class="pre-dbc-2">Ambitions Bared, Be Prepared</span></a><br>
-  <a href="http://edwinunger.github.io/blog/2014-12-22-Order-of-Operations.html"><span class="pre-dbc-3">Order of Operations</span></a><br>
-  <a href="http://edwinunger.github.io/blog/2015-01-10-forward-upward-onward-together.html"><span class="pre-dbc-4">Forward, Upward, Onward, Together</span></a><br>
-  <a href="http://edwinunger.github.io/blog/2015-01-19-it's-the-final-countdown.html"><span class="pre-dbc-5">It's the Final Countdown</span></a><br>
-  <a href="http://edwinunger.github.io/blog/2015-01-25-joy-of-coding.html"><span class="pre-dbc-6">The Joy of Coding</span></a><br>
-  <a href="http://edwinunger.github.io/blog/2015-02-01-begin-the-beguine.html"><span class="pre-dbc-7">Begin the Beguine</span></a><br></p>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
-
-
-  <div class="timeline"></div>
-  <div class="line1"></div>
-  <div class="line2"></div>
-  <div class="line3"></div>
-  <div class="line4"></div>
-  <div class="line5"></div>
-  <div class="line6"></div>
-  <div class="line7"></div>
-  <div class="line8"></div>
-  <div class="line9"></div>
-  <div class="line10"></div>
-
-  <a href="https://edwinunger.github.io/blog/2015-02-03-t1-git-blog.html"><span class="tech-blog-1">Tech Blog 1: Git Crackin'</span></a>
-  <a href="https://edwinunger.github.io/blog/2015-02-03-c1-chefs-kitchen.html"><span class="culture-blog-1">Culture Blog 1: Bistro Math</span></a>
-  <a href="https://edwinunger.github.io/blog/2015-02-14-t2-css-design.html"><span class="tech-blog-2">Tech Blog 2: Pro-Positioning</span></a>
-  <a href="http://edwinunger.com/pairing/gps1-2.html"><span class="gps-1-2">GPS 1.2: Pair Programming</span></a>
-  <a href="http://edwinunger.github.io/blog/2015-02-18-t3-arrays-hashes.html"><span class="tech-blog-3">Tech Blog 3: To Array is Human</span></a>
-  <a href="http://edwinunger.github.io/blog/2015-02-19-c3_thinking-style.html"><span class="culture-blog-2">Culture Blog 2: Learning How to Learn</span></a>
-  <a href="http://edwinunger.github.io/blog/2015-02-24-t4-enumerable-methods.html"><span class="tech-blog-4">Tech Blog 4: (Re)Cycle</span></a>
-  <a href="http://edwinunger.com/blog/2015-02-25-c4-tech-issues.html"><span class="culture-blog-3">Culture Blog 3: Income Outcome</span></a>
-  <a href="http://edwinunger.com/blog/2015-03-05-t5-ruby-classes.html"><span class="tech-blog-5">Tech Blog 5: Classes</span></a>
-  <a href="http://edwinunger.com/blog/2015-03-07-c5-feedback.html"><span class="culture-blog-4">Culture Blog 4: Pairing & Repairing</span></a>
-
-</main>
-
-
-  <div class="footer"></div>
-    <footer>
-      <a href="mailto: edwin@ungermail.com">
-        <img class="email" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/email.png?raw=true" alt="Email">
-      </a>
-      <a href="https://www.linkedin.com/pub/edwin-unger/91/b04/51b" target="_blank">
-        <img class="linkedin" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/linkedin.png?raw=true" alt="LinkedIn">
-      </a>
-      <a href="https://github.com/edwinunger" target="_blank">
-        <img class="github" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/github.png?raw=true" alt="GitHub">
-      </a>
-      <a href="https://twitter.com/edwin_unger" target="_blank">
-        <img class="twitter" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/twitter.png?raw=true" alt="Twitter">
-      </a>
-    </footer>
-
-</body>
-</html>
