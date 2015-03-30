@@ -2,9 +2,9 @@
 title: Edwin Unger
 email: edwin@ungermail.com
 description: I'm a web developer. Sort of.
-baseurl: "http://edwinunger.com" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://edwinunger.com" # the base hostname & protocol for your site
-twitter_username: @edwin_unger
+twitter_username: edwin_unger
 github_username:  edwinunger
 
 # Build settings
