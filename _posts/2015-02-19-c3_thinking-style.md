@@ -1,18 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Edwin Unger</title>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" type="text/css" href="https://edwinunger.github.io/stylesheets/blog-stylesheet.css">
-  <link rel="stylesheet" type="text/css" href="https://edwinunger.github.io/stylesheets/default.css">
-
-</head>
-<body>
-  <div class="header"></div>
-    <header>
-      <a href="http://edwinunger.com"><p class="name">Edwin Unger</p></a>
-      <p class="quote">I'm a web developer. Sort of.</p>
-    </header>
+---
+layout: post
+title:  "Learning How to Learn"
+date:   2015-02-19
+categories: blog
+---
 
   <p class="title">Learning How to Learn</p>
   <p class="subtitle">Cultural Blog 2: Thinking & Learning Style</p>
@@ -47,21 +38,3 @@
 
   <p class="date">February 19, 2015</p>
   </section>
-
-  <div class="footer"></div>
-    <footer>
-      <a href="mailto: edwin@ungermail.com">
-        <img class="email" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/email.png?raw=true" alt="Email">
-      </a>
-      <a href="https://www.linkedin.com/pub/edwin-unger/91/b04/51b" target="_blank">
-        <img class="linkedin" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/linkedin.png?raw=true" alt="LinkedIn">
-      </a>
-      <a href="https://github.com/edwinunger" target="_blank">
-        <img class="github" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/github.png?raw=true" alt="GitHub">
-      </a>
-      <a href="https://twitter.com/edwin_unger" target="_blank">
-        <img class="twitter" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/twitter.png?raw=true" alt="Twitter">
-      </a>
-    </footer>
-</body>
-</html>

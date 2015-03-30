@@ -1,11 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Positioning Using CSS</title>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" type="text/css" href="https://edwinunger.github.io/stylesheets/blog-stylesheet.css">
-  <link rel="stylesheet" type="text/css" href="https://edwinunger.github.io/stylesheets/default.css">
-  <style type="text/css">
+---
+layout: post
+title:  "Pro-Positioning"
+date:   2015-02-14
+categories: blog
+---
+
+<style type="text/css">
     .static { position: static;
               height: 100px;
               width: 100px;
@@ -48,14 +48,6 @@
     }
 
   </style>
-</head>
-<body>
-
-  <div class="header"></div>
-    <header>
-      <a href="http://edwinunger.com"><p class="name">Edwin Unger</p></a>
-      <p class="quote">I'm a web developer. Sort of.</p>
-    </header>
 
   <p class="title">Pro-Positioning</p>
   <p class="subtitle">Technical Blog 2: Positioning Using CSS</p>
@@ -102,22 +94,3 @@
   </p>
   <p class="date">February 14, 2015</p>
   </section>
-
-  <div class="footer"></div>
-    <footer>
-      <a href="mailto: edwin@ungermail.com">
-        <img class="email" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/email.png?raw=true" alt="Email">
-      </a>
-      <a href="https://www.linkedin.com/pub/edwin-unger/91/b04/51b" target="_blank">
-        <img class="linkedin" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/linkedin.png?raw=true" alt="LinkedIn">
-      </a>
-      <a href="https://github.com/edwinunger" target="_blank">
-        <img class="github" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/github.png?raw=true" alt="GitHub">
-      </a>
-      <a href="https://twitter.com/edwin_unger" target="_blank">
-        <img class="twitter" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/twitter.png?raw=true" alt="Twitter">
-      </a>
-    </footer>
-
-</main>
-</html>
