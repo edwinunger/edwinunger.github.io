@@ -1,38 +1,23 @@
-<!doctype html>
-<html>
-<head>
-  <title>Edwin Unger</title>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" type="text/css" href="https://edwinunger.github.io/stylesheets/default.css">
-</head>
+---
+layout: default
+---
 
-<body>
-  <div class="header"></div>
-    <header>
-      <a href="http://edwinunger.com"><p class="name">Edwin Unger</p></a>
-      <p class="quote">I'm a web developer. Sort of.</p>
-    </header>
+<div class="home">
 
-  <a class="portfolio-link" href="http://edwinunger.com/portfolio.html" alt="Portfolio"><p>Portfolio</p></a>
-  <a class="about-link" href="http://edwinunger.com/about.html" alt="About"><p>About</p></a>
-  <a class="blog-link" href="http://edwinunger.com/blog.html" alt="Blog"><p>Blog</p></a>
+  <h1 class="page-heading">Blog</h1>
 
-  <div class="footer"></div>
-    <footer>
-      <a href="mailto: edwin@ungermail.com">
-        <img class="email" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/email.png?raw=true" alt="Email">
-      </a>
-      <a href="https://www.linkedin.com/pub/edwin-unger/91/b04/51b" target="_blank">
-        <img class="linkedin" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/linkedin.png?raw=true" alt="LinkedIn">
-      </a>
-      <a href="https://github.com/edwinunger" target="_blank">
-        <img class="github" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/github.png?raw=true" alt="GitHub">
-      </a>
-      <a href="https://twitter.com/edwin_unger" target="_blank">
-        <img class="twitter" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/twitter.png?raw=true" alt="Twitter">
-      </a>
-    </footer>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-</body>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-</html>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
