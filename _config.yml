@@ -1,0 +1,12 @@
+# Site settings
+title: Edwin Unger
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Edwin Unger
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://edwinunger.com" # the base hostname & protocol for your site
+twitter_username: @edwin_unger
+github_username:  edwinunger
+
+# Build settings
+markdown: kramdown

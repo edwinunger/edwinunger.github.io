@@ -1,0 +1,66 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>
+            <a href="mailto: {{ site.email }}">
+              <span class="icon  icon--email">
+                <center><img src = "/images/email.png" height = "21" width = "30"></center>
+              </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          <li>
+            <a href = "https://www.linkedin.com/pub/edwin-unger/91/b04/51b" target="_blank">
+              <span class="icon  icon--linkedin">
+                <center><img src = "/images/linkedin.png" height = "30" width = "30"></center>
+              </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}" target="_blank">
+              <span class="icon  icon--github">
+                <center><img src = "/images/github.png" height = "30" width = "30"></center>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-4">
+        <ul class="social-media-list">
+          {% if site.twitter_username %}
+          <li>
+            <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
+              <span class="icon  icon--twitter">
+                <center><img src = "/images/twitter.png" height = "30" width = "30"></center>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-5">
+        <p class="text"><center>{{ site.description }}</center></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
