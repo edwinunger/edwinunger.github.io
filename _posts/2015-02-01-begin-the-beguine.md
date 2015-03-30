@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Begin the Beguine"
-date:   2015-02-01 22:37:53
+date:   2015-02-01
 categories: blog
 ---
 
