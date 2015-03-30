@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Pro-Positioning"
+date:   2015-02-14
+categories: blog
+---
+
+<style type="text/css">
+    .static { position: static;
+              height: 100px;
+              width: 100px;
+              background-color: #0000ff;
+              opacity: .4;
+              font-size: 25px;
+              text-align: center;
+    }
+
+    .relative { position: relative;
+                height: 100px;
+                width: 100px;
+                background-color: #ff0000;
+                opacity: .4;
+                font-size: 25px;
+                text-align: center;
+                left: 100px;
+    }
+
+    .fixed {position: fixed;
+            height: 100px;
+            width: 100px;
+            background-color: #ffff00;
+            opacity: .4;
+            font-size: 25px;
+            text-align: center;
+            margin-left: 75%;
+            bottom: 100px;
+    }
+
+    .absolute{position: absolute;
+              height: 100px;
+              width: 100px;
+              background-color: #00ff00;
+              opacity: .4;
+              font-size: 25px;
+              text-align: center;
+              margin-left: 25%;
+              bottom: 100px;
+    }
+
+  </style>
+
+Technical Blog 2: Positioning Using CSS
+
+In honor of Valentine's Day, I'd like to talk to you about some of my favorite positions. Before you go thinking that my site has been taken over by a perverted 12 year old, let me clarify! I want to talk to you about some of my favorite <em>CSS</em> positions. You see, when you want to move any object on a website, you can use CSS (Cascading Style Sheets) to position your objects in whatever order or location that you want. However, each positioning command comes with certain caveats. Let's go over them each together, shall we?
+
+Meet the world's worst roommates: Static Steve, Relative Rachel, Fixed Frank, and Absolute Alex. When I first moved in with them, they were awesome. We had lots of fun square dancing, finding the square root of random numbers, and not showing up to parties (because they're squares. Get it? Because they're... Yeah, you get it.). Pretty soon, though, I started noticing little issues with each of them and began to regret my decision to ever move in with quadrilaterals. Here's the run down:
+
+<strong>Position: Static;</strong><br>
+<div class="static">Static Steve</div>
+
+This is Steve. He's pretty chill, but to be honest, he's a little <em>too</em> chill. All he does is sit there all day. He has no character. In terms of CSS, he's the <em>default</em> position. He doesn't listen to commands like Top, Bottom, Left, and Right. There are ways to make him move, but is it really worth it? Let's leave Steve where he is.
+
+<strong>Position: Relative;</strong><br>
+<div class="relative">Relative Rachel</div>
+
+Rachel was actually a great roommate, while she lived with me. The thing is, She suddenly moved out without any warning. Even worse, she left all of her stuff! I can't move anyone else into her room because her stuff is taking up space even though she's moved to a new location. Position relative works the same way. It will move where you want it relative to its original position, but the space it was in still takes up room. Just like Rachel's stuff. In this example, I've moved Rachel to the right of her original position, but I'm not able to put anything in the square where she was.
+
+<strong>Position: Fixed;</strong><br>
+<div class="fixed">Fixed Frank</div>
+
+Have you seen that creepy yellow square sitting in the corner? That's Frank, and he is the definition of sketchy. He's just always there. Even when I move to a different room, I turn around and he's just standing there in the corner. We've moved a few times, and yet he always manages to find us and continue creeping us out in the corner. Position fixed will stay exactly where you put it on the screen. Even if the page scrolls, a fixed object will scroll right along with you and stay in its same position. Works great for web objects like header and footer. Doesn't work so well for Frank.
+
+<strong>Position: Absolute;</strong><br>
+<div class="absolute">Absolute Alex</div>
+
+Alex is actually the most capable roommate, but she's a little needy. I feel like I constantly have to give her explicit instructions on what to do, where to stand, and where to move. If I don't give her precise and detailed direction, I'll end up finding her standing in the dark in some random closet. In fact-- Oh God, where did she go? I told her specifically to stand in the middle of this... Ah, I see. I told her to stand in the middle, but didn't tell her <em>what</em> to stand in the middle of. If you have an object with position absolute, it will go precisely where you place it relative to its parent object. If that parent object is another box, then it will live within the confines of that box. However, if you don't assign a parent, your absolute object will be positioned relative to the entire browser screen. In this case, I told Alex to stand in the middle, and she decided that I meant the middle of the browser screen, up there next to Steve.
+
+So, what have we learned besides the fact that I need to find new roommates? There are several ways to position your objects on a website, and they all interact with each other based on what tools you use.
+
+That's it for Tech Blog #2! See you next time! My name is Edwin Unger, and I'm a web developer. Sort of.
