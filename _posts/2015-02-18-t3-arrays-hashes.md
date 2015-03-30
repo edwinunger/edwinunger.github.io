@@ -43,4 +43,3 @@ Technical Blog 3: Arrays & Hashes in Ruby
   <p>
     Whew. There's a lot of information up there. Hope you're still with me. I'm Edwin Unger, and I'm a web developer. Sort of.
   </p>
-  <p class="date">February 18, 2015</p>
