@@ -5,9 +5,7 @@ date:   2015-02-25
 categories: blog
 ---
 
-  <p class="title">Income Outcome</p>
-  <p class="subtitle">Cultural Blog 3: Issues in Tech</p>
-  <section class="blog">
+Cultural Blog 3: Issues in Tech
   <p>
     When combing the web in search of a 'tech industry issue' about which to write this blog post, I was inundated with one prevailing topic. On Google News, if you search the keywords 'tech industry', you're given a dozen or so pages of links to articles about why women are leaving the tech industry, the income equality gap between men and women in tech, the continued rise of the 'boys club' in the largest tech firms, the fact that the problem is actually getting worse, not better, etc...
   </p>

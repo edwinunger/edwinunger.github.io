@@ -5,9 +5,7 @@ date:   2015-03-14
 categories: blog
 ---
 
-  <p class="title">Ruby Eugenics</p>
-  <p class="subtitle">Technical Blog 6: Classes, Modules, and Mixins</p>
-  <section class="blog">
+Technical Blog 6: Classes, Modules, and Mixins
   <p>
     Last week, we talked about Classes, which are Ruby's blueprints for creating objects and methods. This week, we're taking a closer look at Classes and their very useful neighbors, Modules. When these guys get together, all kind of magic starts happening.
   </p>
@@ -143,4 +141,3 @@ categories: blog
   </p>
 
   <p class="date">March 14, 2015</p>
-  </section>

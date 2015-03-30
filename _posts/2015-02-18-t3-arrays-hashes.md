@@ -5,9 +5,7 @@ date:   2015-02-018
 categories: blog
 ---
 
-  <p class="title">To Array Is Human. To Hash, Divine.</p>
-  <p class="subtitle">Technical Blog 3: Arrays & Hashes in Ruby</p>
-<section class="blog">
+Technical Blog 3: Arrays & Hashes in Ruby
   <p>
     Welcome back to another edition of: Learning From Novices! The blog where I learn something new and exciting and then attempt to teach it to you based on my limited experience! Today's topic: Arrays & Hashes in Ruby. If all of those words sounds confusing to you, don't worry, you'll be more confused by the end. Let's get started, shall we?
   </p>
@@ -46,4 +44,3 @@ categories: blog
     Whew. There's a lot of information up there. Hope you're still with me. I'm Edwin Unger, and I'm a web developer. Sort of.
   </p>
   <p class="date">February 18, 2015</p>
-  </section>

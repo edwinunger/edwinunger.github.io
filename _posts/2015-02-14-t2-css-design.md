@@ -49,9 +49,7 @@ categories: blog
 
   </style>
 
-  <p class="title">Pro-Positioning</p>
-  <p class="subtitle">Technical Blog 2: Positioning Using CSS</p>
-  <section class="blog">
+Technical Blog 2: Positioning Using CSS
   <p>
     In honor of Valentine's Day, I'd like to talk to you about some of my favorite positions. Before you go thinking that my site has been taken over by a perverted 12 year old, let me clarify! I want to talk to you about some of my favorite <em>CSS</em> positions. You see, when you want to move any object on a website, you can use CSS (Cascading Style Sheets) to position your objects in whatever order or location that you want. However, each positioning command comes with certain caveats. Let's go over them each together, shall we?
   <p>
@@ -93,4 +91,3 @@ categories: blog
     That's it for Tech Blog #2! See you next time! My name is Edwin Unger, and I'm a web developer. Sort of.
   </p>
   <p class="date">February 14, 2015</p>
-  </section>

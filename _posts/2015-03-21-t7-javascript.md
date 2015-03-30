@@ -5,9 +5,7 @@ date:   2015-03-21
 categories: blog
 ---
 
-  <p class="title">Ruby is the Robot-Ghost-From-The-Future Version of JavaScript</p>
-  <p class="subtitle">Technical Blog 7: JavaScript</p>
-  <section class="blog">
+Technical Blog 7: JavaScript
   <p>
     Here in week seven of Dev BootCamp, we've entered into a completely different language. After scaling the hills of Git, HTML, and CSS, crossing the mountains of Ruby, we've now come to the pit of despair known as JavaScript. I completely understand why we've been introduced to this language later in the game, since the difficulty level of using it so early on in the program would undoubtedly have led to much wailing and gnashing of teeth. You see, JavaScript is somewhat similar to Ruby in terms of syntax, since both languages are object oriented. Ruby is used in back-end development while JavaScript is used primarily in front-end (even though it's made huge leaps into back-end with Node.js), but the way they create objects is functionally similar. Here's the problem: JavaScript is older, and much much much less user friendly, than Ruby.
   </p>
@@ -123,4 +121,3 @@ categories: blog
   </p>
 
   <p class="date">March 21, 2015</p>
-  </section>

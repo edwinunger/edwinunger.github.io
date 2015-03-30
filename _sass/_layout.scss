@@ -121,46 +121,26 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(12.5% - (#{$spacing-unit} / 2));
-    width:         calc(12.5% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(12.5% - (#{$spacing-unit} / 2));
-    width:         calc(12.5% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-    width: -webkit-calc(12.5% - (#{$spacing-unit} / 2));
-    width:         calc(12.5% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-4 {
-    width: -webkit-calc(12.5% - (#{$spacing-unit} / 2));
-    width:         calc(12.5% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-5 {
-    width: -webkit-calc(12.5% - (#{$spacing-unit} / 2));
-    width:         calc(12.5% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-6 {
-    width: -webkit-calc(12.5% - (#{$spacing-unit} / 2));
-    width:         calc(12.5% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-7 {
-    width: -webkit-calc(12.5% - (#{$spacing-unit} / 2));
-    width:         calc(12.5% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-8 {
-    width: -webkit-calc(12.5% - (#{$spacing-unit} / 2));
-    width:         calc(12.5% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-9 {
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
     width:         calc(100% - (#{$spacing-unit} / 2));
 }
@@ -169,16 +149,12 @@
     .footer-col-1,
     .footer-col-2,
     .footer-col-3,
-    .footer-col-4,
-    .footer-col-5,
-    .footer-col-6,
-    .footer-col-7,
-    .footer-col-8 {
+    .footer-col-4 {
         width: -webkit-calc(50% - (#{$spacing-unit} / 2));
         width:         calc(50% - (#{$spacing-unit} / 2));
     }
 
-    .footer-col-9 {
+    .footer-col-5 {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
@@ -188,16 +164,12 @@
     .footer-col-1,
     .footer-col-2,
     .footer-col-3,
-    .footer-col-4,
-    .footer-col-5,
-    .footer-col-6,
-    .footer-col-7,
-    .footer-col-8 {
+    .footer-col-4 {
         width: -webkit-calc(50% - (#{$spacing-unit} / 2));
         width:         calc(50% - (#{$spacing-unit} / 2));
     }
 
-    .footer-col-9 {
+    .footer-col-5 {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }

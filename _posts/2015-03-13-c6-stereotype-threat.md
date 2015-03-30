@@ -5,9 +5,7 @@ date:   2015-03-15
 categories: blog
 ---
 
-  <p class="title">(Stereotype) ThreatDown</p>
-  <p class="subtitle">Cultural Blog 5: Stereotype Threat</p>
-  <section class="blog">
+Cultural Blog 5: Stereotype Threat
   <p>
     As a young, healthy, middle-class, American white male, I've got a lot going for me. Like, a lot a lot. I don't really have anything to complain about. But I'm going to try anyway. This is the (Stereotype) ThreatDown.
   </p>
@@ -34,4 +32,3 @@ categories: blog
   </p>
 
   <p class="date">March 13, 2015</p>
-  </section>

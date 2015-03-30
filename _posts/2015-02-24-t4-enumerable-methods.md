@@ -5,9 +5,7 @@ date:   2015-02-24
 categories: blog
 ---
 
-  <p class="title">(Re)Cycle(Re)Cycle(Re)Cycle(Re)Cycle(Re)Cycle</p>
-  <p class="subtitle">Technical Blog 4: Using the Cycle Enumerable in Ruby</p>
-  <section class="blog">
+Technical Blog 4: Using the Cycle Enumerable in Ruby
   <p>
     So, last week we talked about the Ruby language and its data storage tools, Arrays and Hashes. This week, we're going to discuss one way (out of the thousands available) to interact with those Arrays.
   </p>

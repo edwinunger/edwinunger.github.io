@@ -5,9 +5,7 @@ date:   2015-03-05
 categories: blog
 ---
 
-  <p class="title">Instance Variables Are the Opiate of the Classes</p>
-  <p class="subtitle">Technical Blog 5: Classes in Ruby</p>
-  <section class="blog">
+Technical Blog 5: Classes in Ruby
   <p>
     This week at DBC, we've delved deep into the world of Ruby Classes. For the uninitiated, Classes in Ruby are like blueprints for creating objects and methods. If you have a Class that contains a set of methods, you can run that class over and over again and get slightly different results based on the rules you provide every time you run an <em>instance</em> of that Class. If none of that makes any sense, don't worry. Today I'm here to show you what a Ruby Class would look like if we created one in the real world.
   </p>
@@ -133,4 +131,3 @@ categories: blog
   </p>
 
   <p class="date">March 5, 2015</p>
-  </section>
