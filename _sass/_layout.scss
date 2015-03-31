@@ -5,9 +5,10 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-    position: fixed;
+    position: relative;
     background-color: #969696;
     opacity: .5;
+    width: 100%;
 
 }
 
