@@ -18,7 +18,6 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    color: #ffffff;
 
 
     &,
@@ -36,7 +35,7 @@
     }
 
     .page-link {
-        color: #000000;
+        color: $text-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
