@@ -5,7 +5,7 @@ date:   2015-03-15
 categories: blog
 ---
 
-<h3>Cultural Blog 5: Stereotype Threat<h3>
+<h3>Cultural Blog 5: Stereotype Threat</h3>
 <br/>
 As a young, healthy, middle-class, American white male, I've got a lot going for me. Like, a lot a lot. I don't really have anything to complain about. But I'm going to try anyway. This is the (Stereotype) ThreatDown.
 <br/>
