@@ -122,7 +122,7 @@ def separate_comma(number)<br>
   number = digits.join(",").reverse<br>
 end</font><br>
 </code>
-</br>
+<br>
 <code>
 <font color = "green">JavaScript Version:<br>
 function separate_comma(number) {<br>
