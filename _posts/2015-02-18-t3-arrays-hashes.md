@@ -40,7 +40,7 @@ That's it. nothing else to it. Ruby knows that at that position in that particul
 And if I need to be reminded what's in a particular box, I can call the key for that box, like this:
 <br/>
 <br/>
-<code = "Ruby">boxes["dining"]</code>
+<code>boxes["dining"]</code>
 <br/>
 <br/>
 Again, easiest thing in the world. And again, you have the option of adding to or removing from the hash. You can also reassign what each key points to.
