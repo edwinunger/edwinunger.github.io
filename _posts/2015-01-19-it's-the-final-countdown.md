@@ -28,7 +28,6 @@ I really focused all of my energy on jQuery this week. I've never played with it
 <br/>
 <blockquote>JavaScript is inherently unlikeable, but it's the cool kid in college who knows all the recruiters and can get you 10 interviews next week. It's also one of the places with the most open recs around here, so if you can see past the evil syntax, it's a really good opportunity. - Laura Otermat</blockquote>
 <br/>
-<br/>
 I have a work friend who builds websites on the side. He showed me his personal site which includes a lot of cool animations for showing off different sites and templates he's built. Using his site as an example, I went through lesson after lesson until I understood exactly what was happening with his animations. Granted, his are a lot more complicated than anything I could actually build at this time, but I at least understand what he created and how he animated the images. Man, understanding a concept is a great feeling.
 <br/>
 <br/>
