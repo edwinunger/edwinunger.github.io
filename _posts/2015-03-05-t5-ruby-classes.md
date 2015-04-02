@@ -42,7 +42,6 @@ That's it. You've created a Class. Right now, though, It's not a very interestin
   @tv_shows = tv_shows<br>
   end<br>
   <br>
-  <br>
   puts "My name is #{@first_name @last_name}. My height is #{@height} and my weight is #{@weight}. My hair is #{@hair} and my eyes are #{@eyes}. Some of my favorite hobbies include #{@hobbies}. Some of the TV shows I enjoy are #{@tv_shows}."<br>
   <br>
   end<br>
@@ -54,7 +53,6 @@ So what's happening here? Essentially, we've created the blueprint for *some* of
 <code>
   pregnant_steph = Mommy.new("Steph", "Unger", "5ft 6in", "none of your business", "short and brown", "blue", "being pregnant, chasing after my son, and being uncomfortable", "Sesame Street, Tinga Tinga Tales, and The Good Wife")<br>
   <br>
-  <br>
   =>My name is Steph Unger. My height is 5ft 6in and my weight is none of your business. My hair is short and brown and my eyes are blue. Some of my favorite hobbies include being pregnant, chasing after my son, and being uncomfortable. Some of the TV shows I enjoy are Sesame Street, Tinga Tinga Tales, and The Good Wife.<br>
 </code>
 <br/>
@@ -63,7 +61,6 @@ So we've created an instance of the 'Mommy' Class called 'pregnant_steph'. In th
 <br/>
 <code>
   non_pregnant_steph = Mommy.new("Steph", "Unger", "still 5ft 6in", "equal to my pregnant weight minus one baby", "short and brown", "blue", "not being pregnant, letting my son chase after me, and dancing", "anything but Sesame Street or Tinga Tinga Tales. I still like The Good Wife")<br>
-  <br>
   <br>
   =>My name is Steph Unger. My height is still 5ft 6in and my weight is equal to my pregnant weight minus one baby. My hair is short and brown and my eyes are blue. Some of my favorite hobbies include not being pregnant, letting my son chase after me, and dancing. Some of the TV shows I enjoy are anything but Sesame Street or Tinga Tinga Tales. I still like The Good Wife.<br>
 </code>
@@ -93,7 +90,6 @@ Once again, I've created an empty Class, but this time, there's something differ
   @highest_count = highest_count<br>
   end<br>
   <br>
-  <br>
   puts "My name is #{@first_name @last_name}. I am #{age} years old. My hair is #{hair} and my eyes are #{eyes}. Some of my favorite hobbies include #{@hobbies}. Some of the TV shows I enjoy are #{@tv_shows}. At night, my favorite bedtime stories are #{favorite_bedtime_stories}. My favorite food is #{favorite_food}. I can count all the way up to #{highest_count}."<br>
   <br>
   end<br>
@@ -104,7 +100,6 @@ At the top of this Class creation, right underneath Baby < Mommy, you'll see som
 <br/>
 <code>
   win = Baby.new("Win", "Unger", 2, "blond", "blue", "throwing objects at Mommy's face, jumping off of furniture, and playing at the playground", "Sesame Street and Tinga Tinga Tales", "Goodnight Moon, The Giving Tree, and Cat in the Hat", "peanut butter on bread", 16)<br>
-  <br>
   <br>
   =>My name is Win Unger. I am 2 years old. My hair is blond and my eyes are blue. Some of my favorite hobbies include throwing objects at Mommy's face, jumping off of furniture, and playing at the playground. Some of the TV shows I enjoy are Sesame Street and Tinga Tinga Tales. At night, my favorite bedtime stories are Goodnight Moon, The Giving Tree, and Cat in the Hat. My favorite food is peanut butter on bread. I can count all the way up to 16.<br>
 </code>
