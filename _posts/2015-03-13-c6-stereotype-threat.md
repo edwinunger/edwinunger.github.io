@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "(Stereotype) ThreatDown"
-date:   2015-03-15
+date:   2015-03-13
 categories: blog
 ---
 
