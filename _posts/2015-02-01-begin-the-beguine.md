@@ -30,7 +30,6 @@ but this was a good start, the perfect intro.<br>
 And I smiled to myself as I turned out the light—<br>
 “Happy coding to all, and to all a good night!”</p></blockquote>
 <br/>
-<br/>
 Tomorrow is the first day of Dev BootCamp, but to be fair, it's already started. It started for me several months ago when I realized that I needed to do something different with my life. It continued when I decided that I wanted to become a developer, and the goal became more honed when I was accepted into the program. I've spent the last several months preparing, and it's brought me to this point, the actual beginning. Even the official program has already begun, since we got to meet our cohort groups last week and just gained access to our first week of challenges this past Friday. If I didn't have my job to contend with, I could have already completed my challenges and gotten a headstart on next week before the first week even began. As it stands, I'm still in a very good place, and I owe it to the suggestions and advice I received from countless DBC alumni on how to prepare.
 <br/>
 <br/>
