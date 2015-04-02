@@ -1,0 +1,87 @@
+html {
+  background: url(https://github.com/edwinunger/edwinunger.github.io/blob/master/images/background.png?raw=true) no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+@font-face {
+  font-family: TOSCA ZERO;
+  src: url(http://edwinunger.github.io/images/TOSCA___.otf);
+}
+
+.portfolio-link {
+  position: fixed;
+  top: 10%;
+  left: 0%;
+  bottom: 5%;
+  width: 27%;
+  height: 85%;
+  background-color: transparent;
+  color: #ffffff;
+}
+
+.portfolio-link:hover {
+  color: #969696;
+  opacity: .4;
+}
+
+.portfolio-link p {
+  font-family: TOSCA ZERO;
+  text-align: center;
+  font-size: 3em;
+  opacity: .4;
+}
+
+.about-link {
+  position: fixed;
+  top: 10%;
+  left: 27%;
+  bottom: 5%;
+  width: 17%;
+  height: 85%;
+  background-color: transparent;
+  color: #ffffff;
+}
+
+.about-link:hover {
+  color: #969696;
+  opacity: .4;
+}
+
+.about-link p {
+  font-family: TOSCA ZERO;
+  text-align: center;
+  font-size: 3em;
+  margin-top: -10px;
+  opacity: .4;
+
+}
+
+.blog-link {
+  position: fixed;
+  top: 10%;
+  left: 44%;
+  bottom: 5%;
+  width: 56%;
+  height: 85%;
+  background-color: transparent;
+  color: #ffffff;
+}
+
+.blog-link:hover {
+  color: #969696;
+  opacity: .4;
+}
+
+.blog-link p {
+  font-family: TOSCA ZERO;
+  text-align: center;
+  font-size: 3em;
+  opacity: .4;
+}
+
+a {
+  text-decoration: none;
+}
