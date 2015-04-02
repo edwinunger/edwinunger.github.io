@@ -23,21 +23,15 @@ Here's where I'm at:
 <ul>
 	<li>I've finished some basic JavaScript tutorials. By basic, I mean I understand functions with methods, classes, inheritance with prototype, and object oriented programming in JavaScript. I can't say I learned OOP from JS, though, since Ruby is really where I cut my teeth on that. I haven't written any Ruby code in over a month...yeesh. Need to get on that.</li>
 <br/>
-<br/>
 	<li>Speaking of JavaScript, I've discovered that I don't really like it. Yet. That could be an issue considering it's a huge part of my future life (sorry again, future Edwin). I think the reason I'm having trouble with it is because it's so much more complicated and less forgiving than Ruby. This may sound incredibly basic, but my JS syntax is pretty bad. Countless times, I kept getting error after error only to find that a single ';' was out of place. It was enough to make me want to tear out my hair.</li>
-<br/>
 <br/>
 	<li>I started becoming (marginally) more active on Facebook and Twitter in the programming community. This one's been really difficult for me considering my antisocial nature (remember in my last post when I said I used to be an actor? Yeah, most of us don't really like to be around people, which is why we like the separation of performer/audience). Anyway, I started talking to former DBC 'Boots' about their experiences and got some insight on what to expect. I'd already done this previously, but the people I've talked with in the past few weeks have really given me a lot to think about. Namely, that I better start liking JavaScript a whole lot more, since DBC is bringing more and more of it to the program. While one cohort a few months ago learned Angular.js, the cohort right after them learned both Angular.js and Backbone.js. These frameworks are similar in that they are both written in JavaScript, are used mainly to build one page web apps, and are light and highly adaptable. The fact that they are so similar but are both being taught at DBC tells you the shift in importance that is being placed on JavaScript. DBC is proving right here that they too are adaptable to industry changes.</li>
 <br/>
-<br/>
 	<li>What does this mean for Ruby? I don't know, but I'm still very interested in it. I'm planning to spend the next few weeks really digging in to a few Rails APIs to get an idea of how sites like GitHub and Twitter work. I'm also looking forward to seeing what Sinatra can do. We'll see.</li>
-<br/>
 <br/>
 	<li>Let's jump back to JavaScript. Again. I recently started doing some tutorials for JQuery, which has been interesting so far. This is the stuff I've been waiting for, learning how to make pretty animations on a webpage. Practical use for JS. I've only just started, so I look forward to appreciating it more than basic JS.</li>
 <br/>
-<br/>
 	<li>SF housing is going to be expensive. That is all.</li>
-<br/>
 <br/>
 	<li>I'm getting a new computer! This will be my world builder throughout DBC and hopefully for several years after. I haven't had a new computer in over 5 years, so it's a big deal to me. I also got a new phone, but that's a little less exciting because computer!</li>
 </ul>
