@@ -256,7 +256,6 @@
     letter-spacing: -1px;
     line-height: 1;
     padding-top: 60px;
-    padding-bottom: 60px;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -264,7 +263,7 @@
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 60px;
 
     h2 {
         font-size: 32px;
