@@ -135,7 +135,7 @@ function separate_comma(number) {<br>
   return digits.join(",").split('').reverse().join('');<br>
 }</font><br>
 </code>
-</br>
+<br>
 In the end, these languages are not that different. Ruby has more methods and can perform those methods a lot more freely, but that doesn't mean JavaScript is without its merits. I'm still discovering what those are, and in the meantime, I choose to believe that Ruby is the robot-ghost-from-the-future version of JavaScript.
 <br/>
 <br/>
