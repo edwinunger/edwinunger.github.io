@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Function Over Form"
-date:   2014-12-07 11:30:16
+date:   2014-12-07
 categories: blog
 ---
 
