@@ -4,20 +4,11 @@ layout: default
 
 
 <link rel="stylesheet" type="text/css" href="stylesheets/default.css">
-<div class="page-content">
-<div class="wrapper">
+
 <div class="home">
   <a class="portfolio-link" href="http://edwinunger.com/portfolio/" alt="Portfolio"><p>Portfolio</p></a>
   <a class="about-link" href="http://edwinunger.com/about/" alt="About"><p>About</p></a>
   <a class="blog-link" href="http://edwinunger.com/blog/" alt="Blog"><p>Blog</p></a>
-  <div class = "blog-div">
-  {% for post in site.posts %}
-    {{ post.excerpt }}
-    <p class="read-more"><a href="http://edwinunger.com/blog" class="button">Read More</a></p>
-  {% endfor %}
-</div>
-</div>
-</div>
 </div>
 
 <!-- <div class = "blog-div">
