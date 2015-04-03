@@ -12,5 +12,7 @@ layout: default
 </div>
 
 <div class = "blog-div">
-{{ post.excerpt }}
+  {% for post in site.posts %}
+    {{ post.excerpt }}
+  {% endfor %}
 </div>
