@@ -20,13 +20,12 @@ First, the homepage has newly designed headers and footers. I'm using Jekyll aga
 Clicking on the Blog page used to take us to a timeline layout that I built. Essentially, it was a horizontal line with lots of little lines coming out of it, and in those lines were my blog titles and links to the blogs. I liked it, but it took too long to update. Now, my Blog page is an organized list of all of my posts, sorted in reverse by date. The great thing about Jekyll is that this is automatic. I don't need to place text in a certain place. When I write a blog, as I'm doing now, all I need to do is provide a little information at the top of the page that looks like this:
 <br>
 <br>
----
-layout: post
-title:  "Everything Old is New Again"
-date:   2015-04-03
-categories: blog
----
-<br>
+---<br>
+layout: post<br>
+title:  "Everything Old is New Again"<br>
+date:   2015-04-03<br>
+categories: blog<br>
+---<br>
 <br>
 Jekyll takes this information and automatically updates my Blog page to include the new post title and date. It also formats each blog post layout based on the layout style.
 <br>
@@ -48,10 +47,8 @@ I worked a fair bit on creating a block on my home page that would house an exce
 <br>
 {% highlight html %}
 <div class = "blog-div">
-  {% for post in site.posts %}
-    {{ post.excerpt }}
+  {excerpt population using Liquid}
     <p class="read-more"><a href="http://edwinunger.com/blog" class="button">Read More</a></p>
-  {% endfor %}
 </div>
 {% endhighlight %}
 <br>
@@ -68,18 +65,18 @@ I worked a fair bit on creating a block on my home page that would house an exce
   opacity: .5;
   padding: 20px;
   text-align: justify;
-  .read-more {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    background-color: #000000;
-    color: #ffffff;
-    text-align: center;
-    font-size: 18px;
-    margin: 0;
-    padding: 5px;
-  }
+}
+.blog-div .read-more {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  font-size: 18px;
+  margin: 0;
+  padding: 5px;
 }
 {% endhighlight %}
 <br>
