@@ -14,7 +14,7 @@ Last week, we talked about Classes, which are Ruby's blueprints for creating obj
 So, as everyone remembers, Classes let you create lots and lots of methods, or instructions, for certain objects. You can then create <em>instances</em> of these Classes, which are objects that contain all of the rules that have been applied by the Class. Using last week's example, here's a quick reminder:
 <br/>
 <br/>
-
+{% highlight ruby %}
   class Baby
     attr_accessor :name, :age, :eyes, :hobbies
 
@@ -28,7 +28,7 @@ So, as everyone remembers, Classes let you create lots and lots of methods, or i
   end
 
   win = Baby.new("Win", 2, "blue", "playing with my pet balloon")
-
+{% endhighlight %}
 <br/>
 Were I to call the variable 'win', I would get a rundown of everything that makes Win who he is. But where does he get it all? If we ask science, he gets 23 chromosomes from Mom and 23 from Dad. If we ask Ruby, we're given several options to create that image of <em>Inheritance</em>.
 <br/>
