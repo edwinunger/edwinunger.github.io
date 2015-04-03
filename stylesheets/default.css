@@ -84,7 +84,7 @@ html {
 .blog-div {
   width: 300px;
   height: 200px;
-  background-color: #ffffff;
+  background-color: rgba(255,255,255,255);
   color: #000000;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -96,14 +96,14 @@ html {
   text-align: justify;
 }
 
-.blog-div .read-more {
+.read-more {
   position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
   text-align: center;
   margin: 0; padding: 30px 0;
-  background-image: linear-gradient(to bottom, transparent, black);
+  background-image: linear-gradient(to bottom, transparent, white);
 }
 
 
