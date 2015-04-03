@@ -87,7 +87,7 @@ html {
   background-color: #000000;
   color: #ffffff;
   overflow: auto;
-  position: relative;
+  position: fixed;
 }
 
 a {
