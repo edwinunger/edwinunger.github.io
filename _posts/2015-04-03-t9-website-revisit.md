@@ -20,14 +20,13 @@ First, the homepage has newly designed headers and footers. I'm using Jekyll aga
 Clicking on the Blog page used to take us to a timeline layout that I built. Essentially, it was a horizontal line with lots of little lines coming out of it, and in those lines were my blog titles and links to the blogs. I liked it, but it took too long to update. Now, my Blog page is an organized list of all of my posts, sorted in reverse by date. The great thing about Jekyll is that this is automatic. I don't need to place text in a certain place. When I write a blog, as I'm doing now, all I need to do is provide a little information at the top of the page that looks like this:
 <br>
 <br>
-{% highlight markdown %}
 ---
 layout: post
 title:  "Everything Old is New Again"
 date:   2015-04-03
 categories: blog
 ---
-{% endhighlight %}
+<br>
 <br>
 Jekyll takes this information and automatically updates my Blog page to include the new post title and date. It also formats each blog post layout based on the layout style.
 <br>
