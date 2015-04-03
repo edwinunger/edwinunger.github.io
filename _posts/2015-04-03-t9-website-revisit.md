@@ -46,7 +46,7 @@ I worked a fair bit on creating a block on my home page that would house an exce
 <br>
 <br>
 {% highlight html %}
-<div class = "blog-div">
+<div class ="blog-div">
   {excerpt population using Liquid}
     <p class="read-more"><a href="http://edwinunger.com/blog" class="button">Read More</a></p>
 </div>
