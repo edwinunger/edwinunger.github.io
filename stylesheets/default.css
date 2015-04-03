@@ -23,7 +23,7 @@ html {
 }
 
 .portfolio-link:hover {
-  color: #969696;
+  color: #000000;
   opacity: .4;
 }
 
@@ -46,7 +46,7 @@ html {
 }
 
 .about-link:hover {
-  color: #969696;
+  color: #000000;
   opacity: .4;
 }
 
@@ -70,7 +70,7 @@ html {
 }
 
 .blog-link:hover {
-  color: #969696;
+  color: #000000;
   opacity: .4;
 }
 
@@ -84,4 +84,9 @@ html {
 a {
   text-decoration: none;
   color: #ffffff;
+}
+
+a:visited {
+    color: #ffffff;
+    text-decoration: none;
 }
