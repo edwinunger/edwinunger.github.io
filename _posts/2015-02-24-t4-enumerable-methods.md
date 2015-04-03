@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(Re)Cycle(Re)Cycle(Re)Cycle(Re)Cycle(Re)Cycle"
+title:  "(Re)Cycle(Re)Cycle(Re)Cycle(Re)Cycle"
 date:   2015-02-24
 categories: blog
 excerpt: "So, last week we talked about the Ruby language and its data storage tools, Arrays and Hashes. This week, we're going to discuss one way (out of the thousands available) to interact with those Arrays."
@@ -15,27 +15,25 @@ Meet #cycle. Cycle is a fairly simple tool known as an <em>Enumerator</em>. Enum
 <br/>
 <br/>
 {% highlight ruby %}
-  array = ["hey girl "]
-  array.cycle do |phrase|
-    puts phrase
-  end
+array = ["hey girl "]
+array.cycle do |phrase|
+  puts phrase
+end
 {% endhighlight %}
 <br/>
 This code results in the following output:
 <br/>
 <br/>
 {% highlight ruby %}
-  hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl...etc... Forever.
+hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl...etc... Forever.
 {% endhighlight %}
-<br/>
 <br/>
 The important thing to remember when creating this kind of code is that you want to give it a stopping point. In this case, putting
 <br/>
 <br/>
 {% highlight ruby %}
-  array.cycle(5)
+array.cycle(5)
 {% endhighlight %}
-<br/>
 <br/>
 will do the trick, stopping the cycle after it runs the block of code 5 times.
 <br/>
@@ -47,14 +45,14 @@ Well, what about creating code that is <em>supposed</em> to go on forever?
 <br/>
 <br/>
 {% highlight ruby %}
-  days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" ]
-  months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
-  days.cycle do |week|
-    puts week
-  end
-  months.cycle do |year|
-    puts year
-  end
+days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" ]
+months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+days.cycle do |week|
+  puts week
+end
+months.cycle do |year|
+  puts year
+end
 {% endhighlight %}
 <br/>
 With a little coding magic, you could turn that basic code into a calendar.
