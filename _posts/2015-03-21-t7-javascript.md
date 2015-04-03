@@ -17,7 +17,7 @@ To be fair, Ruby has more functionality because it has more built-in methods tha
 This week, we were given a challenge to revisit one of our Ruby puzzles from a previous unit and rebuild it using JavaScript. This challenge was the 'Commafier', which essentially takes a number of any length and inserts a comma in the appropriate spot. So, '1000' becomes '1,000', '1000000' becomes '1,000,000', and so forth. When we were told to rebuild it in JavaScript, we weren't given any requirements to match it to the Ruby version, but my pair and I decided to try it anyway. We wanted to see how similar these two languages can be when beaten with a hammer.
 <br/>
 <br/>
-So, let's go line by line:
+So, let's go line by line. Ruby will be first, and JavaScript second.
 <br/>
 <br/>
 {% highlight ruby %}

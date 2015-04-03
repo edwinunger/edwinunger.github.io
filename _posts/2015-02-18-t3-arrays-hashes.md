@@ -3,7 +3,7 @@ layout: post
 title:  "To Array Is Human. To Hash, Divine."
 date:   2015-02-18
 categories: blog
-excerpt: "Welcome back to another edition of: Learning From Novices! The blog where I learn something new and exciting and then attempt to teach it to you based on my limited experience! Today's topic: Arrays & Hashes in Ruby. If all of those words sounds confusing to you, don't worry, you'll be more confused by the end. Let's get started, shall we?""
+excerpt: "Welcome back to another edition of: Learning From Novices! The blog where I learn something new and exciting and then attempt to teach it to you based on my limited experience! Today's topic: Arrays & Hashes in Ruby. If all of those words sounds confusing to you, don't worry, you'll be more confused by the end. Let's get started, shall we?"
 ---
 
 <h3>Technical Blog 3: Arrays & Hashes in Ruby</h3>
