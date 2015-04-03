@@ -11,11 +11,9 @@ layout: default
   <a class="blog-link" href="http://edwinunger.com/blog/" alt="Blog"><p>Blog</p></a>
 </div>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.content | strip_html | truncatewords: 50 }}
-    </li>
-  {% endfor %}
-</ul>
+<div class = "blog-div">
+{% for post in site.posts %}
+<a href="{{ post.url }}">{{ post.title }}</a>
+{{ post.content | strip_html | truncatewords: 50 }}
+{% endfor %}
+</div>

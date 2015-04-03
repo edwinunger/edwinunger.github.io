@@ -82,7 +82,10 @@ html {
 }
 
 .blog-div {
-
+  width: 200px;
+  height: 200px;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 a {
