@@ -39,8 +39,8 @@ You'll also remember inheritance from when I talked about the Baby < Mommy optio
       true
     end
   end
-  {% endhighlight %}
-  {% highlight ruby %}
+{% endhighlight %}
+{% highlight ruby %}
   class Baby < Mommy
     def initialize
       p mommys_webbed_toes?
