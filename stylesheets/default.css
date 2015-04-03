@@ -86,7 +86,7 @@ html {
   height: 200px;
   background-color: #ffffff;
   color: #000000;
-  overflow: auto;
+  text-overflow: ellipsis;
   position: fixed;
   left: 65%;
   top: 30%;
