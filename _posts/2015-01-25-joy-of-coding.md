@@ -21,19 +21,19 @@ While working on Hartl's book, I also jumped into <em>Conquering the Command Lin
 This is a bit non-sequitur, but check this out: When you write Ruby code, you can write most of it on one line using brackets {}, like so -
 <br/>
 <br/>
-
+{% highlight ruby %}
   array.each {|word| word.reverse}
-
+{% endhighlight %}
 <br/>
 <br/>
 My issue with this is that even though it looks simple and clean, it's not as readable as it could be, which is the entire goal of Ruby. Luckily, you can replace the brackets {} with <em>do</em> and <em>end</em>, like so -
 <br/>
 <br/>
-
-array.each do |word|
-  word.reverse
-end
-
+{% highlight ruby %}
+  array.each do |word|
+    word.reverse
+  end
+{% endhighlight %}
 <br/>
 There may be some who disagree with me, but I much prefer seeing the code written this way, simply for the fact that it looks more like a regular sentence. I'm going to call myself a do-end-er instead of a bracket-er.
 <br/>

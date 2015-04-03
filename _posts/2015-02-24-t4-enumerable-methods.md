@@ -14,26 +14,28 @@ So, last week we talked about the Ruby language and its data storage tools, Arra
 Meet #cycle. Cycle is a fairly simple tool known as an <em>Enumerator</em>. Enumerators in Ruby provide a way to iterate through every item in an Array or Hash and act upon it, usually with some code that's meant to be used multiple times. In #cycle's case, it takes an Array or Hash and performs a block of code on it a set amount of times, all the up to infinity. No, seriously. If you don't limit the number of times for #cycle to run, you risk creating an infinite loop in your computer that will run forever until you force the program to quit manually. Take a look:
 <br/>
 <br/>
-
+{% highlight ruby %}
   array = ["hey girl "]
   array.cycle do |phrase|
     puts phrase
   end
-
+{% endhighlight %}
 <br/>
 This code results in the following output:
 <br/>
 <br/>
-
+{% highlight ruby %}
   hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl hey girl...etc... Forever.
-
+{% endhighlight %}
 <br/>
 <br/>
 The important thing to remember when creating this kind of code is that you want to give it a stopping point. In this case, putting
 <br/>
 <br/>
-array.cycle(5)
-<br/
+{% highlight ruby %}
+  array.cycle(5)
+{% endhighlight %}
+<br/>
 <br/>
 will do the trick, stopping the cycle after it runs the block of code 5 times.
 <br/>
@@ -44,18 +46,16 @@ So why would one want to use #cycle? Wouldn't it be easier to use #each or run a
 Well, what about creating code that is <em>supposed</em> to go on forever?
 <br/>
 <br/>
-
+{% highlight ruby %}
   days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" ]
   months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
-
   days.cycle do |week|
     puts week
   end
-
   months.cycle do |year|
     puts year
   end
-
+{% endhighlight %}
 <br/>
 With a little coding magic, you could turn that basic code into a calendar.
 <br/>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Forward, Upward, Onward, Together"
-date:   2015-01-10 18:23:17
+date:   2015-01-10
 categories: blog
 excerpt: "I'm not very kind to my future self. Sure, I may set out to make his life much easier so that when present me becomes future him I can just knock down the pins, but usually my inner guide just says <em>'Man, don't worry about eating poorly! That's a problem for future Edwin to deal with. F*** that guy. You want to spend money on electronics or games or various detritus that you don't need instead of getting ahead on your bills? Awesome, future Edwin's got you covered. As for doing something new with your life, remember that you wanted to learn how to play the banjo, to travel the world, to read a lot more? You're way too busy to do any of that right now, but I promise that future Edwin will be all about that when he gets here."
 ---

@@ -40,6 +40,7 @@ You'll also remember inheritance from when I talked about the Baby < Mommy optio
     end
   end
 {% endhighlight %}
+<br>
 {% highlight ruby %}
   class Baby < Mommy
     def initialize
