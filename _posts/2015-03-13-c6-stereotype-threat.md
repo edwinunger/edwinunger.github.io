@@ -3,6 +3,7 @@ layout: post
 title:  "Stereotype Threat(Down)"
 date:   2015-03-13
 categories: blog
+excerpt: "As a young, healthy, middle-class, American white male, I've got a lot going for me. Like, a lot a lot. I don't really have anything to complain about. But I'm going to try anyway. This is the Stereotype Threat(Down)."
 ---
 
 <h3>Cultural Blog 5: Stereotype Threat</h3>

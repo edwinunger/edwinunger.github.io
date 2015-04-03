@@ -3,6 +3,7 @@ layout: post
 title:  "(Re)Cycle(Re)Cycle(Re)Cycle(Re)Cycle(Re)Cycle"
 date:   2015-02-24
 categories: blog
+excerpt: "So, last week we talked about the Ruby language and its data storage tools, Arrays and Hashes. This week, we're going to discuss one way (out of the thousands available) to interact with those Arrays."
 ---
 
 <h3>Technical Blog 4: Using the Cycle Enumerable in Ruby</h3>

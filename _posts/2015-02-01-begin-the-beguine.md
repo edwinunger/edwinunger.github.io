@@ -3,6 +3,7 @@ layout: post
 title:  "Begin the Beguine"
 date:   2015-02-01
 categories: blog
+excerpt: "Tomorrow is the first day of Dev BootCamp, but to be fair, it's already started. It started for me several months ago when I realized that I needed to do something different with my life. It continued when I decided that I wanted to become a developer, and the goal became more honed when I was accepted into the program. I've spent the last several months preparing, and it's brought me to this point, the actual beginning."
 ---
 
 <blockquote><p>'Twas the night before Boot Camp, and all through the house<br>

@@ -3,6 +3,7 @@ layout: post
 title:  "Ruby is the Robot-Ghost-From-The-Future Version of JavaScript"
 date:   2015-03-21
 categories: blog
+excerpt: "Here in week seven of Dev BootCamp, we've entered into a completely different language. After scaling the hills of Git, HTML, and CSS, crossing the mountains of Ruby, we've now come to the pit of despair known as JavaScript. I completely understand why we've been introduced to this language later in the game, since the difficulty level of using it so early on in the program would undoubtedly have led to much wailing and gnashing of teeth."
 ---
 
 <h3>Technical Blog 7: JavaScript</h3>

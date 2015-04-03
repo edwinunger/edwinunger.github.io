@@ -3,6 +3,7 @@ layout: post
 title:  "Learning How to Learn"
 date:   2015-02-19
 categories: blog
+excerpt: "Before starting DBC, we were asked to take some basic personality tests in order to better understand our learning styles. The first was the VAK Test, which tells you what you probably already know: whether you learn better by seeing something done, reading about it, or practicing it yourself. I fall into the kinesthetic group, which means that I want to get in and get my hands dirty. I learn best by doing, experimenting, breaking, fixing."
 ---
 
 <h3>Cultural Blog 2: Thinking & Learning Style</h3>

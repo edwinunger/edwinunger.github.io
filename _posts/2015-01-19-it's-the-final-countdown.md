@@ -3,6 +3,7 @@ layout: post
 title:  "It's the Final Countdown"
 date:   2015-01-19
 categories: blog
+excerpt: "2 weeks from today, I begin Phase 0 of DBC. 4 weeks after that, my baby is due to be born. 2 weeks after that, I leave my job.1 week after that, I move my family out of our apartment. 3 days after that, I get on a plane to San Francisco to begin Phase 1 of DBC."
 ---
 
 2 weeks from today, I begin Phase 0 of DBC.

@@ -3,6 +3,7 @@ layout: post
 title:  "Bistro Math"
 date:   2015-02-03
 categories: blog
+excerpt: "Tonight I watched a video of Dev BootCamp cofounder Shereef Bishay talking about the community he wanted to create at DBC and the mentality he wanted all of his students and teachers to come in with and to strive to maintain."
 ---
 
 <h3>Cultural Blog 1: Restaurant Vs. Kitchen Mentality</h3>

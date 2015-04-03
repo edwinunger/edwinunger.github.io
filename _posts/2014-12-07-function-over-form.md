@@ -3,6 +3,7 @@ layout: post
 title:  "Function Over Form"
 date:   2014-12-07
 categories: blog
+excerpt: "This is not a pretty website. <strike>The font hasn't been customized, the layout is all wrong, and there are lots of things going on in the background that I certainly didn't put there. This page you're reading? It doesn't link from my homepage at edwinunger.com. Go ahead, click my name up top. Even that page is lacking most of its functionality except a few social links.</strike> update 12/14: I've updated the site a bit, so that sentence no longer makes sense. It's not a pretty site, but it's not ugly any more. Stuff is starting to work!"
 ---
 
 

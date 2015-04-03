@@ -3,6 +3,7 @@ layout: post
 title:  "Order of Operations"
 date:   2014-12-22 05:30:23
 categories: blog
+excerpt: "I've struggled a bit this week with what to work on next. Last week I focused so much on amassing the material available to me that when it came time to actually sit down and start pushing through it, I was frozen. Where was the structure? Sure, I had everything I could possibly want, but what to do first? If I came into this without ever reading a single line of code, what would be the most efficient and useful path through the mountains of information?"
 ---
 
 I've struggled a bit this week with what to work on next. Last week I focused so much on amassing the material available to me that when it came time to actually sit down and start pushing through it, I was frozen. Where was the structure? Sure, I had everything I could possibly want, but what to do first? If I came into this without ever reading a single line of code, what would be the most efficient and useful path through the mountains of information?

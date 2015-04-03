@@ -3,6 +3,7 @@ layout: post
 title:  "The Joy of Coding"
 date:   2015-01-25
 categories: blog
+excerpt: "I wouldn't necessarily call it joy. Yet. It's more of a feeling of accomplishment when I do the work and actually begin to gain a modicum of understanding. As for the opposite feeling when I'm not coding, I can definitely name the emotion as shame. Shame when I'm not doing the work I should be, shame when I choose to watch a TV show instead of pushing through a particularly tough bit of learning. I guess that's kind of good, right? I feel bad when I'm not coding. I don't feel an obligation to keep working, but I definitely feel the urge to return to it as soon as possible. Balance is the watch word, I think."
 ---
 
 I wouldn't necessarily call it joy. Yet. It's more of a feeling of accomplishment when I do the work and actually begin to gain a modicum of understanding. As for the opposite feeling when I'm not coding, I can definitely name the emotion as shame. Shame when I'm not doing the work I should be, shame when I choose to watch a TV show instead of pushing through a particularly tough bit of learning. I guess that's kind of good, right? I feel bad when I'm not coding. I don't feel an obligation to keep working, but I definitely feel the urge to return to it as soon as possible. Balance is the watch word, I think.
