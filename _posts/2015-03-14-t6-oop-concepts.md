@@ -15,16 +15,16 @@ So, as everyone remembers, Classes let you create lots and lots of methods, or i
 <br/>
 <br/>
 {% highlight ruby %}
-  class Baby
-    attr_accessor :name, :age, :eyes, :hobbies
-    def initialize(name, age, eyes, hobbies)
-      @name = name
-      @age = age
-      @eyes = eyes
-      @hobbies =hobbies
-    end
+class Baby
+  attr_accessor :name, :age, :eyes, :hobbies
+  def initialize(name, age, eyes, hobbies)
+    @name = name
+    @age = age
+    @eyes = eyes
+    @hobbies =hobbies
   end
-  win = Baby.new("Win", 2, "blue", "playing with my pet balloon")
+end
+win = Baby.new("Win", 2, "blue", "playing with my pet balloon")
 {% endhighlight %}
 <br/>
 Were I to call the variable 'win', I would get a rundown of everything that makes Win who he is. But where does he get it all? If we ask science, he gets 23 chromosomes from Mom and 23 from Dad. If we ask Ruby, we're given several options to create that image of <em>Inheritance</em>.
@@ -34,19 +34,19 @@ You'll also remember inheritance from when I talked about the Baby < Mommy optio
 <br/>
 <br/>
 {% highlight ruby %}
-  class Mommy
-    def mommys_webbed_toes?
-      true
-    end
+class Mommy
+  def mommys_webbed_toes?
+    true
   end
+end
 {% endhighlight %}
 <br>
 {% highlight ruby %}
-  class Baby < Mommy
-    def initialize
-      p mommys_webbed_toes?
-    end
+class Baby < Mommy
+  def initialize
+    p mommys_webbed_toes?
   end
+end
 {% endhighlight %}
 <br/>
 NOW if I want create an instance of Baby, that child will have webbed toes (my wife doesn't really have webbed toes, but I think that would be awesome).
@@ -62,11 +62,11 @@ Modules are a lot like Classes. They have the ability to store lots and lots of 
 <br/>
 <br/>
 {% highlight ruby %}
-  module Daddy
-    def daddys_beard
-      "curly and luxurious"
-    end
+module Daddy
+  def daddys_beard
+    "curly and luxurious"
   end
+end
 {% endhighlight %}
 <br/>
 Looks an awful lot like a Class, doesn't it?
@@ -79,13 +79,13 @@ So, we have the Module, we have the parent Class and child Class. Let's make a b
 <br/>
 <br/>
 {% highlight ruby %}
-  class Baby < Mommy
-    require "daddy.rb"
-    def initialize
-      p mommys_webbed_toes?
-      p daddys_beard
-    end
+class Baby < Mommy
+  require "daddy.rb"
+  def initialize
+    p mommys_webbed_toes?
+    p daddys_beard
   end
+end
 {% endhighlight %}
 <br/>
 Excellent! Now we've successfully combined one parent Class with one Module and created a child Class with inheritance from both!
@@ -95,23 +95,23 @@ Excellent! Now we've successfully combined one parent Class with one Module and 
 <br/>
 <br/>
 {% highlight ruby %}
-  class Baby < Mommy
-    include "grandpa_joe.rb"
-    include "uncle_frank.rb"
-    include "cousin_alice.rb"
-    include "grandma_jane.rb"
-    include "daddy.rb"
-    include "brother_bill.rb"
-    def initialize
-      p joes_nose
-      p franks_eye_brows
-      p alices_ears
-      p janes_freckles
-      p daddys_beard
-      p mommys_webbed_toes?
-      p bills_gambling_habits
-    end
+class Baby < Mommy
+  include "grandpa_joe.rb"
+  include "uncle_frank.rb"
+  include "cousin_alice.rb"
+  include "grandma_jane.rb"
+  include "daddy.rb"
+  include "brother_bill.rb"
+  def initialize
+    p joes_nose
+    p franks_eye_brows
+    p alices_ears
+    p janes_freckles
+    p daddys_beard
+    p mommys_webbed_toes?
+    p bills_gambling_habits
   end
+end
 {% endhighlight %}
 <br/>
 You'll notice that I'm using 'include "file.rb"' rather than 'require'. When you are 'mixing in', you're actually fusing the module calls inside the Class, meaning every Module method is available at any time the Class instance is created. I didn't take the time to write out the myriad methods that I'm calling, but you get the idea. By using Mixins, that is, inserting multiple methods from different Modules into the Class creation, we can access limitless amounts of data and manipulate it in any direction we choose. This act of mixing and matching from different sources is how Ruby gets around the issue of 'Multiple Inheritance', which it technically doesn't allow in the traditional sense.
