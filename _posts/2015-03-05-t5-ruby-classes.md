@@ -31,7 +31,6 @@ That's it. You've created a Class. Right now, though, It's not a very interestin
 {% highlight ruby %}
   class Mommy
     attr_accessor :first_name, :last_name, :height, :weight, :hair, :eyes, :hobbies, :tv_shows
-
     def initialize (first_name, last_name, height, weight, hair, eyes, hobbies, tv_shows)
       @first_name = first_name
       @last_name = last_name
