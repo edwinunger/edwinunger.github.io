@@ -20,13 +20,17 @@ This week, we were given a challenge to revisit one of our Ruby puzzles from a p
 So, let's go line by line. for clarity's sake, I'll make the Ruby code <font color="red">red</font> and the JavaScript code <font color="green">green</font>.
 <br/>
 <br/>
+<font color = "red">
 {% highlight ruby %}
-  <font color = "red">def separate_comma(number)</font>
+def separate_comma(number)
 {% endhighlight %}
+</font>
 <br/>
+<font color = "green">
 {% highlight js %}
-  <font color = "green">function separate_comma(number) {</font>
+function separate_comma(number) {
 {% endhighlight %}
+</font>
 <br/>
 So far so good. Ruby has used 'def' to define a new method called 'separate_comma'. It takes one argument, 'number', which is the number we want to Commafy. JavaScript is nearly identical, using 'function' to define a new function with the same name and the same argument. Just so we can follow the story of a number, let's commafy 123456.
 <br/>
