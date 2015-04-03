@@ -1,7 +1,7 @@
 # Site settings
 title: Edwin Unger
 email: edwin@ungermail.com
-description: I'm a web developer. Sort of.
+description: I'm a web developer in training.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://edwinunger.com" # the base hostname & protocol for your site
 twitter_username: edwin_unger
