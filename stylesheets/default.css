@@ -86,7 +86,7 @@ html {
   height: 200px;
   background-color: #000000;
   color: #ffffff;
-  word-wrap: break-word;
+  overflow: auto;
 }
 
 a {
