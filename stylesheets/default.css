@@ -83,11 +83,15 @@ html {
 
 .blog-div {
   width: 200px;
-  height: 200px;
-  background-color: #000000;
+  height: 300px;
+  background-color: #969696;
   color: #ffffff;
   overflow: auto;
   position: fixed;
+  left: 65%;
+  top: 40%;
+  opacity: .5;
+  padding: 20px;
 }
 
 a {
