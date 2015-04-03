@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Joy of Coding"
-date:   2015-01-25 10:33:14
+date:   2015-01-25
 categories: blog
 ---
 
