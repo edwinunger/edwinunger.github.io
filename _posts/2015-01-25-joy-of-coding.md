@@ -21,7 +21,7 @@ This is a bit non-sequitur, but check this out: When you write Ruby code, you ca
 <br/>
 <br/>
 {% highlight ruby %}
-  array.each { |word| word.reverse }
+  array.each {|word| word.reverse}
 {% endhighlight %}
 <br/>
 <br/>
@@ -29,9 +29,9 @@ My issue with this is that even though it looks simple and clean, it's not as re
 <br/>
 <br/>
 {% highlight ruby %}
-  array.each do |word|<br>
-    word.reverse<br>
-  end<br>
+array.each do |word|
+  word.reverse
+end
 {% endhighlight %}
 <br/>
 There may be some who disagree with me, but I much prefer seeing the code written this way, simply for the fact that it looks more like a regular sentence. I'm going to call myself a do-end-er instead of a bracket-er.
