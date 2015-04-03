@@ -17,16 +17,13 @@ So, as everyone remembers, Classes let you create lots and lots of methods, or i
 {% highlight ruby %}
   class Baby
     attr_accessor :name, :age, :eyes, :hobbies
-
     def initialize(name, age, eyes, hobbies)
       @name = name
       @age = age
       @eyes = eyes
       @hobbies =hobbies
     end
-
   end
-
   win = Baby.new("Win", 2, "blue", "playing with my pet balloon")
 {% endhighlight %}
 <br/>

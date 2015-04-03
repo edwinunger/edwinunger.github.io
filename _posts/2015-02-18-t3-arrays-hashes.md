@@ -19,17 +19,17 @@ First off, a quick intro to Ruby. Ruby is a programming language used to create 
 So, inside Ruby, there are two main ways to save information. The first (and easiest to understand) is the <em>Array</em>. Here's the gist: you have some data, let's call it the types of cereal you have in your house. In order to keep these things grouped together and accessible inside Ruby, you'll want to create an array and place those items inside of it. You do so like this:
 <br/>
 <br/>
-{% highlight ruby %}
+
   cereal = ["Count Chocula", "Cap'n Crunch", "Frosted Flakes", "Cheerios" ]
-{% endhighlight %}
+
 <br/>
 <br/>
 So now, all of your cereal is neatly organized inside an array. We also had to give the array a nickname, better known as a <em>variable</em> called 'cereal' so that we could pull up the list easily. So, now that we have the array, what do we do with it? Well, we can use the array in a program, for example if I wanted to make sure I eat a different cereal every day, I could tell Ruby to make a random choice every time I run the program. There are millions of ways to utilize this data, but what if I wanted to just pull one item, say 'Frosted Flakes', from the array and do something with it? I can do this with something called <em>indexing</em>. Whenever I put an item in an array, it's assigned a number based on its position in the array. The first item is always '0' (because computers), and then '1' is next, up through the end of the array. This means that we can always call a specific item in the array using its index number. Here's what it would look like if I wanted to call 'Frosted Flakes' from the array:
 <br/>
 <br/>
-{% highlight ruby %}
+
   cereal[2]
-{% endhighlight %}
+
 <br/>
 <br/>
 That's it. nothing else to it. Ruby knows that at that position in that particular array, the item I want is ready and waiting to be called. Of course, there are ways to rearrange the items, and it's sometimes necessary to add or remove items in the array, but in general, Arrays stay organized.
@@ -39,17 +39,17 @@ That's it. nothing else to it. Ruby knows that at that position in that particul
 <em>Hashes</em>, on the other hand, are a little more free-wheeling. They follow a similar pattern to arrays in terms of creation, but instead of having an organized numerical ordering system, each piece of information is paired with a key, which when called, can access that bit of information, known as a <em>value</em>. For this example, Let's look at my apartment. I'm in the middle of packing, so there are a lot of boxes. I'm going to create a hash that keeps track of what items are in what types of boxes:
 <br/>
 <br/>
-{% highlight ruby %}
+
   boxes = {"living_room" => "books", "dining" => "plates", "bedroom" => "clothes"}
-{% endhighlight %}
+
 <br/>
 <br/>
 And if I need to be reminded what's in a particular box, I can call the key for that box, like this:
 <br/>
 <br/>
-{% highlight ruby %}
+
   boxes["dining"]
-{% endhighlight %}
+
 <br/>
 <br/>
 Again, easiest thing in the world. And again, you have the option of adding to or removing from the hash. You can also reassign what each key points to.
