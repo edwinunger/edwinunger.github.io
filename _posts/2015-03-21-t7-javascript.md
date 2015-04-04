@@ -8,7 +8,7 @@ excerpt: "Here in week seven of Dev BootCamp, we've entered into a completely di
 
 <h3>Technical Blog 7: JavaScript</h3>
 <br/>
-Here in week seven of Dev BootCamp, we've entered into a completely different language. After scaling the hills of Git, HTML, and CSS, crossing the mountains of Ruby, we've now come to the pit of despair known as JavaScript. I completely understand why we've been introduced to this language later in the game, since the difficulty level of using it so early on in the program would undoubtedly have led to much wailing and gnashing of teeth. You see, JavaScript is somewhat similar to Ruby in terms of syntax, since both languages are object oriented. Ruby is used in back-end development while JavaScript is used primarily in front-end (even though it's made huge leaps into back-end with Node.js), but the way they create objects is functionally similar. Here's the problem: JavaScript is older, and much much much less user friendly, than Ruby.
+Here in week seven of Dev BootCamp, we've entered into a completely different language. After scaling the hills of Git, HTML, and CSS, crossing the mountains of Ruby, we've now come to the pit of despair known as JavaScript. I completely understand why we've been introduced to this language later in the game, since the difficulty level of using it so early on in the program would undoubtedly have led to much wailing and gnashing of teeth. You see, JavaScript is somewhat similar to Ruby in terms of syntax, since both languages are object oriented. Ruby is used in back-end development while JavaScript is used primarily in front-end (even though it's made huge leaps into back-end with Node.javascript), but the way they create objects is functionally similar. Here's the problem: JavaScript is older, and much much much less user friendly, than Ruby.
 <br/>
 <br/>
 To be fair, Ruby has more functionality because it has more built-in methods than JavaScript, so anything you want to do needs to be created from scratch. Even then, the built-in functions of JavaScript don't work the same way they do in Ruby, so you have to build, figure out what works and what doesn't, erase, rebuild, and continue to pull your hair out as you daydream about how easy it was with Ruby. It's like being given a complete toolbox and being told to build a robot. It will take you a while, but you've got all the tools and resources you need. Then, once you've built your Ruby robot, they tell you to build another robot, but this time they take away all of your tools except a hammer. If you're like me, you'll use that hammer to beat your JavaScript robot into submission and make it behave like your Ruby robot (or at least a facsimile of it).
@@ -24,7 +24,7 @@ So, let's go line by line. Ruby will be first, and JavaScript second.
 def separate_comma(number)
 {% endhighlight %}
 <br/>
-{% highlight js %}
+{% highlight javascript %}
 function separate_comma(number) {
 {% endhighlight %}
 <br/>
@@ -35,7 +35,7 @@ So far so good. Ruby has used 'def' to define a new method called 'separate_comm
 digits = []
 {% endhighlight %}
 <br/>
-{% highlight js %}
+{% highlight javascript %}
 var digits = [];
 {% endhighlight %}
 <br/>
@@ -46,7 +46,7 @@ Again, nearly identical. We've created an empty array, 'digits', that will event
 new_number = number.to_s.reverse!
 {% endhighlight %}
 <br/>
-{% highlight js %}
+{% highlight javascript %}
 var newNumber = number.toString().split('').reverse();
 {% endhighlight %}
 <br/>
@@ -63,7 +63,7 @@ So, now we have the Ruby string "654321" and the JavaScript array ["6", "5", "4"
 while new_number.length > 0
 {% endhighlight %}
 <br/>
-{% highlight js %}
+{% highlight javascript %}
 while (newNumber.length > 0) {
 {% endhighlight %}
 <br/>
@@ -81,7 +81,7 @@ digits << new_number.slice!(0, 3)
 end
 {% endhighlight %}
 <br/>
-{% highlight js %}
+{% highlight javascript %}
 var spliced = newNumber.splice(0, 3).join('');
 digits.push(spliced);
 }
@@ -98,7 +98,7 @@ number = digits.join(",").reverse
 end
 {% endhighlight %}
 <br/>
-{% highlight js %}
+{% highlight javascript %}
 return digits.join(",").split('').reverse().join('');
 }
 {% endhighlight %}
@@ -124,7 +124,7 @@ def separate_comma(number)
 end
 {% endhighlight %}
 <br/>
-{% highlight js %}
+{% highlight javascript %}
 JavaScript Version:
 function separate_comma(number) {
   var digits = [];
