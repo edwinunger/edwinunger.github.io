@@ -23,7 +23,7 @@ The difference between the strawberries and actual knowledge is that knowledge i
 How do we avoid being torn a new one whenever we post questions online? For starters, avoid posting questions. This seems counterintuitive, but hear me out. There are several steps you should take before even thinking about posting in the cesspools known as online forums.
 <br/>
 <br/>
-1.<strong>Search online</strong>. This step seems obvious, but I've lost count of how many times I've experienced this scenario: someone asks me a question that they've 'been stuck on forever'. I search Google for their exact question. More often than not, the answer is right there on the screen. I've just done something they could have finished in 10 seconds or less. Search is the most powerful tool we have available to us, but we have to use it correctly.
+<strong>Search online</strong>. This step seems obvious, but I've lost count of how many times I've experienced this scenario: someone asks me a question that they've 'been stuck on forever'. I search Google for their exact question. More often than not, the answer is right there on the screen. I've just done something they could have finished in 10 seconds or less. Search is the most powerful tool we have available to us, but we have to use it correctly.
 <br/>
 <br/>
 This can't just be one quick Google search. A question that really needs to be answered has to be worded every possible way. Use quotes, don't use quotes, use different words, look up synonyms, start from a larger, more generic idea and work down to the more specific answer you're looking for, use multiple sites and see which one sends you in the most useful direction.
@@ -41,7 +41,7 @@ It goes on like this. The point is, now you have your answer and you didn't have
 <img src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/stackoverflow.png?raw=true"/>
 <br/>
 <br/>
-2.<strong>Search offline</strong>. Take this one with a giant boulder of salt. If you're like me, you're a nice guy who genuinely wants to help people, or at least help send them in the right direction so they can feel like they accomplished something when the find the answer for themselves. However, not everyone is like that. Asking your friends, family, coworkers, etc., about any particular subject may result in multiple answers, all of which may be wrong. If you decide not to use one particular answer, you've now offended that person and they will never offer you advice again. Not really. They'll jump at any opportunity to provide unsolicited suggestions whenever possible.
+<strong>Search offline</strong>. Take this one with a giant boulder of salt. If you're like me, you're a nice guy who genuinely wants to help people, or at least help send them in the right direction so they can feel like they accomplished something when the find the answer for themselves. However, not everyone is like that. Asking your friends, family, coworkers, etc., about any particular subject may result in multiple answers, all of which may be wrong. If you decide not to use one particular answer, you've now offended that person and they will never offer you advice again. Not really. They'll jump at any opportunity to provide unsolicited suggestions whenever possible.
 <br/>
 <br/>
 The key here is to phrase your question as if you already know the answer. 'Hey, I had a really interesting time with problem X, what did you end up doing here?' Sneaky, but effective. Also, you're not obligated to use an answer if you decide it doesn't work for you.
