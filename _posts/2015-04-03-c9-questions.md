@@ -53,8 +53,8 @@ If you're lucky enough to know someone a lot smarter than you in your field of q
 So, we've looked online, we've looked offline. We're still no closer to answering our question. This means one of several possibilities:
 <br/>
 <br/>
-A. You're much smarter than everyone else and no one knows the answer to such an intelligent question
-B. Your internet is not working and you've been searching through your computer's recycle bin again
+A. You're much smarter than everyone else and no one knows the answer to such an intelligent question<br>
+B. Your internet is not working and you've been searching through your computer's recycle bin again<br>
 C. You're not asking the right question or you're not asking the question the right way
 <br/>
 <br/>
