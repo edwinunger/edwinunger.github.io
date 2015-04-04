@@ -98,7 +98,7 @@ html {
 .blog-div .read-more {
   position: relative;
   bottom: 100px;
-  left: 0px;
+  left: -10px;
   width: 310px;
   background-color: #000000;
   color: #ffffff;
