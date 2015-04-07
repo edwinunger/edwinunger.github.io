@@ -3,7 +3,7 @@ layout: post
 title:  "DBC Phase 1, Day 1"
 date:   2015-04-06
 categories: blog
-excerpt: ""
+excerpt: "Today started at 6:30am. I loath being late, so I always arrive early. Lateness implies a lack of respect, so timeliness has always been something very important to me."
 ---
 
 Today started at 6:30am. I loath being late, so I always arrive early. Lateness implies a lack of respect, so timeliness has always been something very important to me.
@@ -12,7 +12,7 @@ Today started at 6:30am. I loath being late, so I always arrive early. Lateness 
 I arrived at 8:15. We waited in the lobby for our entire cohort to arrive. When we were all together, we were sent outside so our mentors (students who just started Phase 3) could find us and introductions could be made. We chatted a bit about the first day, the first week, Phase 1, etc., and then made our way upstairs.
 <br>
 <br>
-We immediately sat down with everyone, which included most of the main staff and all of the students from the three Phases. Introductions of Phase 1 students were made, information about the instructors, career counselors, mental health counselors, and yoga instructors was given out, and tips from other cohorts were shared. We had breakfast, then got together with our cohort privately to chat more about counselors and yoga. We played a name game to get to know each other, but since we already knew most of the names of everyone, it was more of an opportunity for our teachers to get to know who we are.
+We immediately sat down with everyone, which included most of the main staff and all of the students from the three Phases. Introductions of Phase 1 students were made, information about the instructors, career counselors, mental health counselors, and yoga instructors was given out, and tips from other cohorts were shared. They mostly revolved around sleeping and eating habits. We had breakfast, then got together with our cohort privately to chat more about counselors and yoga. We played a name game to get to know each other, but since we already knew most of the names of everyone, it was more of an opportunity for our teachers to get to know who we are.
 <br>
 <br>
 We were sent out to get some lightning-round type education from the Phase 2 students. I believe most of what we learned was not for our benefit, since it was very low level. However, it was very beneficial for the Phase 2 students to get more comfortable with teaching, which in turn helps them solidify concepts that they need to know. We spent about 5 minutes each on 7 different topics, which included cultural behavior, enumerables, Git, Sublime, Arrays and Hashes, Algorithms, and variable scope. Nothing terribly complicated, but good for a basic refresher.
@@ -27,7 +27,7 @@ Finally around 4pm, we had the opportunity to play around with some code. We rev
 Here are the two problems that we had to solve:
 <br>
 <br>
-Roman Numerals is pretty straightforward, we needed to provide all of the cases for 1, 5, 10, 50, 100, 500, and 1000. Where we got tripped up was solving for 4, 9, 14, 40, 90, 400, and 900. We eventually realized that our hash needed to be twice as long, but once we added them in our code worked like a charm.
+Roman Numerals is pretty straightforward, we needed to provide all of the cases for 1, 5, 10, 50, 100, 500, and 1000. Where we got tripped up was solving for 4, 9, 14, 40, 90, 400, and 900. We eventually realized that our if/else cascade needed to be twice as long, but once we added them in our code worked like a charm.
 <br>
 <br>
 {% highlight ruby %}
@@ -81,7 +81,7 @@ puts to_roman(987)
 => CMLXXXVII
 {% endhighlight %}
 <br>
-Numbers to Words was our next challenge, and it was far more complicated. Again, I had worked on something similar previously, but never actually solved it past 100. We went through it very carefully, solving for smaller numbers first, then working our way up to larger integers. We both had ideas for how to make it work, but neither of us could form our suggestions into fully working code in order to get the complete solution. At one point, I had the epiphany that we should divide the number into arrays of 3 characters each, which would give us the sections for billion, million, thousand, and hundred. After that, we would just need to solve for the three numbers that should be between 0 and 999. I may have had the idea, but my pair is the one who figured out to implement it. We realized that nested arrays were important, and once we had those we could turn the number strings back into integers again in order to manipulate them. The best part about this solution is how easy it is to scale the number up to trillions, quadrillions, etc., just by adding in an extra array for the next set of 3.
+Numbers to Words was our next challenge, and it was far more complicated. Again, I had worked on something similar previously, but never actually solved it past 100. We went through it very carefully, solving for smaller numbers first, then working our way up to larger integers. We both had ideas for how to make it work, but neither of us could form our suggestions into fully working code in order to get the complete solution. At one point, I had the epiphany that we should divide the number into arrays of 3 characters each, which would give us the sections for billion, million, thousand, and hundred. After that, we would just need to solve for the three numbers that should be between 0 and 999. I may have had the idea, but my pair is the one who figured out how to implement it. We realized that nested arrays were important, and once we had those we could turn the number strings back into integers again in order to manipulate them. The best part about this solution is how easy it is to scale the number up to trillions, quadrillions, etc., just by adding in an extra array for the next set of 3.
 <br>
 <br>
 Here's what we came up with:
