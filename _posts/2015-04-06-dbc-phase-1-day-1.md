@@ -15,7 +15,7 @@ I arrived at 8:15. We waited in the lobby for our entire cohort to arrive. When 
 We immediately sat down with everyone, which included most of the main staff and all of the students from the three Phases. Introductions of Phase 1 students were made, information about the instructors, career counselors, mental health counselors, and yoga instructors was given out, and tips from other cohorts were shared. We had breakfast, then got together with our cohort privately to chat more about counselors and yoga. We played a name game to get to know each other, but since we already knew most of the names of everyone, it was more of an opportunity for our teachers to get to know who we are.
 <br>
 <br>
-We were sent out to get some lightning-round type education from the Phase 2 students. I believe most of what we learned was not for our benefit, since it was very low level. However, it was very beneficial for the Phase 2 students to get more comfortable with teaching, which in turn helps them solidify concepts that they need to know. We spent about 5 minutes each on 7 different topics, which ranged from cultural behavior, enumerables, Git, Sublime, Arrays and Hashes, Algorithms, and variable scope. Nothing terribly complicated, but good for a basic refresher.
+We were sent out to get some lightning-round type education from the Phase 2 students. I believe most of what we learned was not for our benefit, since it was very low level. However, it was very beneficial for the Phase 2 students to get more comfortable with teaching, which in turn helps them solidify concepts that they need to know. We spent about 5 minutes each on 7 different topics, which included cultural behavior, enumerables, Git, Sublime, Arrays and Hashes, Algorithms, and variable scope. Nothing terribly complicated, but good for a basic refresher.
 <br>
 <br>
 after the lightning-round, it was lunch time. Then, more chatting about culture, behavior, rules, etc. We have three main rules to follow: integrity, effort, and kindness. Violating one of these is grounds for expulsion, but if you're a decent human being, these wouldn't be an issue.
@@ -27,7 +27,7 @@ Finally around 4pm, we had the opportunity to play around with some code. We rev
 Here are the two problems that we had to solve:
 <br>
 <br>
-Roman Numerals is pretty straightforward, we needed to provide all of the cases for 1, 5, 10, 50, 100, and 1000. Where we got tripped up was solving for 4, 9, 14, 40, 400, etc. We eventually realized that our hash needed to be twice as long, but once we added them in our code worked like a charm.
+Roman Numerals is pretty straightforward, we needed to provide all of the cases for 1, 5, 10, 50, 100, 500, and 1000. Where we got tripped up was solving for 4, 9, 14, 40, 90, 400, and 900. We eventually realized that our hash needed to be twice as long, but once we added them in our code worked like a charm.
 <br>
 <br>
 {% highlight ruby %}
@@ -81,7 +81,7 @@ puts to_roman(987)
 => CMLXXXVII
 {% endhighlight %}
 <br>
-Numbers to Words was our next challenge, and it was far more complicated. Again, I had worked on something similar previously, but never actually solved it past 100. We went through it very carefully, solving for smaller numbers first, then working our way up to larger integers. We both had ideas for how to make it work, but neither of us could form our suggestions into fully working code in order to get the complete solution. At one point, I had the epiphany that we should divide the number into arrays of 3 characters each, which would give us the sections for billion, million, thousand, and hundred. After that, we would just need to solve for the three numbers that should be between 0 and 999. I may have had the idea, but my pair is the one who figured out to implement it. We realized that nested arrays were important, and once we had those we could turn the number strings back into integers again in order to manipulate them. The best part about this solution is how easy it is to scale the number up to trillions, quadrillions, etc., all by adding in an extra array for the next set of 3.
+Numbers to Words was our next challenge, and it was far more complicated. Again, I had worked on something similar previously, but never actually solved it past 100. We went through it very carefully, solving for smaller numbers first, then working our way up to larger integers. We both had ideas for how to make it work, but neither of us could form our suggestions into fully working code in order to get the complete solution. At one point, I had the epiphany that we should divide the number into arrays of 3 characters each, which would give us the sections for billion, million, thousand, and hundred. After that, we would just need to solve for the three numbers that should be between 0 and 999. I may have had the idea, but my pair is the one who figured out to implement it. We realized that nested arrays were important, and once we had those we could turn the number strings back into integers again in order to manipulate them. The best part about this solution is how easy it is to scale the number up to trillions, quadrillions, etc., just by adding in an extra array for the next set of 3.
 <br>
 <br>
 Here's what we came up with:
@@ -154,7 +154,7 @@ A lot of folks ended up solving this using a hash, but my pair had the excellent
 We would have liked to refactor this solution to include recursion, but this is a working solution and my mentor suggested that we not stress over something so minor.
 <br>
 <br>
-I stayed late to chat with some folks about the challenge and see if I could help them with their code that wasn't working. It definitely helped me solidify what my pair and I had created in our code while also letting me see solutions from others. I think our nested array idea ended up being somewhat unique, so I'm not sure how much help I was to others.
+I stayed late to chat with some folks about the challenge and to see if I could help them with their code that wasn't working. It definitely helped me solidify what my pair and I had created in our code while also letting me see solutions from others. I think our nested array idea ended up being somewhat unique, so I'm not sure how much help I was to others.
 <br>
 <br>
 All in all, a very good first day. Tonight, I skimmed through our required reading list and finished tomorrow's reading list as well. I'm already seeing an opportunity for them to assign the next day's reading the night before so that we can be ready for the challenges first thing in the morning. I wish I had more time to prepare by checking out tomorrow's challenges in more depth, but at this point sleep is more important.
