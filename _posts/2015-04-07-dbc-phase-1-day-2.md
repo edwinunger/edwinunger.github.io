@@ -3,7 +3,7 @@ layout: post
 title:  "DBC Phase 1, Day 2"
 date:   2015-04-07
 categories: blog
-excerpt: ""
+excerpt: "Today was a heavy day for coding. We checked in with our Accountability Group for a few minutes, sort of gauging how we felt about yesterday's work. There was a lot of stress about finishing the challenges in time, so I was thankful my pair and I had completed everything last night."
 ---
 
 Today was a heavy day for coding. We checked in with our Accountability Group for a few minutes, sort of gauging how we felt about yesterday's work. There was a lot of stress about finishing the challenges in time, so I was thankful my pair and I had completed everything last night.
