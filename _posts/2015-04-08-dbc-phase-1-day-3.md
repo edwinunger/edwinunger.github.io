@@ -85,7 +85,7 @@ p hash_converter[2]
 =>{"Number"=>31, "Name"=>"Harvey Kay", "Position"=>"Shooting Guard", "Points per Game"=>[0, 30, 16, 0, 25]}
 {% endhighlight %}
 <br>
-Okay, there's a lot going on here, so let's break it down: I have my header row for titles and athlete rows which all contain similarly ordered information. the final array is all of the athlete arrays inside a nested array, sans header row. When I call #zip, I'm running it on each individual athlete row WITH the header row, and here's where the magic comes in. Like the teeth of a zipper on a jacket, the items interlock with each other. header_row[0] and joe[0] become a pair, header_row[1] and joe[1] become a pair, and so on. Each of these pairs is now its own array, so the each row now looks like this:
+Okay, there's a lot going on here, so let's break it down: I have my header row for titles and athlete rows which all contain similarly ordered information. the final array is all of the athlete arrays inside a nested array, sans header row. When I call #zip, I'm running it on each individual athlete row WITH the header row, and here's where the magic comes in. Like the teeth of a zipper on a jacket, the items interlock with each other. header_row[0] and joe[0] become a pair, header_row[1] and joe[1] become a pair, and so on. Each of these pairs is now its own array, so that each row now looks like this:
 <br>
 <br>
 {% highlight ruby %}
@@ -102,13 +102,13 @@ I can now take this nested, nested array and call Hash on it, as you saw above. 
 Hash[header_row.zip(name)]
 {% endhighlight %}
 <br>
-Alright, enough of that. After These three challenges, we had lunch, and then another lecture, this one on Recursion. I'm still not fully confident in it, but am comfortable enough to know it when I see it and when I need to use it.
+Alright, enough of that. After these three challenges, we had lunch, and then another lecture, this one on Recursion. I'm still not fully confident in it, but am comfortable enough to know it when I see it and when I need to use it.
 <br>
 <br>
 The afternoon brought a whole range of challenges, which I'll try not to lay out fully. There was a basic Object Orientation challenge, which had us creating an orange object and a tree object to hold orange objects. We had to cause the tree to age, grow, bear fruit, and die. We also had to have options for checking if there was any fruit, and also the ability to pick fruit from the tree. Nothing too fancy, but it's still neat when it all works.
 <br>
 <br>
-The Enumerable Methods Review challenge helped us remember some of the important enumerables that aren't #each, including #each_slice, #map, #each_with_index, #select, #find, and #reduce. Nothing too fancy, but I kept having to remind myself not to use #each. Lesson learned, I suppose.
+The Enumerable Methods Review challenge helped us remember some of the important enumerables that aren't #each, including #each_slice, #map, #each_with_index, #select, #find, and #reduce. Nothing too complicated, but I kept having to remind myself not to use #each. Lesson learned, I suppose.
 <br>
 <br>
 Regular Expression review helped solidify some of the RegExp I've been working on, though I wish the challenge had been more varied. We spent more time on method calls for the RegExp rather than manipulating how the RegExp values were built. Here's an example:
