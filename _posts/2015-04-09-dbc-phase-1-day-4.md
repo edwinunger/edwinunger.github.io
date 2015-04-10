@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "DBC Phase 1, Day 3"
-date:   2015-04-08
+title:  "DBC Phase 1, Day 4"
+date:   2015-04-09
 categories: blog
 excerpt: "Today was not an encouraging day for my ego. We only had two challenges to complete, but through the whole course of the day, we never succeeded in making them work to the point that they would reliably run with the rSpec. Here's the day:"
 ---
