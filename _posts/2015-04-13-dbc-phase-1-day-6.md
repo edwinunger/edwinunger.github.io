@@ -7,7 +7,8 @@ excerpt: "I'm probably jinxing myself, but today was pretty easy compared to las
 ---
 
 This weekend was full of rebuilding, rerebuilding, and reading. Also, a bit of napping and relaxation. I didn't leave the house for the entire weekend, but it was nice not having any responsibilities. There were a few assessment tests we needed to take, but those were pretty simple, as they were review of what we've already learned in the last week and during Phase 0.
-
+<br>
+<br>
 I'm probably jinxing myself, but today (Monday) was pretty easy compared to last week. We managed to get through all of the challenges without too much trouble. Sure, there were issues with code not working, and we had to do a bit of research to figure out what was going on, but there was always forward momentum and it didn't take too much logic to figure out what was missing.
 <br>
 <br>
