@@ -32,6 +32,7 @@ bob = Person.new("Bob", 36, "male")
 By using Hash arguments, you can actually call any number of arguments (or none!) and in any order you like without issue. Here's what it looks like:
 <br>
 <br>
+{% highlight ruby %}
 class Person
   def initialize(arguments = {})
     @name = arguments.fetch(:name)
