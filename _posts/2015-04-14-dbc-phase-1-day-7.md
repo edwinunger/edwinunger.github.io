@@ -34,7 +34,7 @@ class CookieFactory
     tray << cookie_type
   end
 end
-sugar = CookieFactory.new(SugarCookie.new)
+CookieFactory.create(SugarCookie.new)
 {% endhighlight %}
 <br>
 Now, instead of needing to create an instance of SugarCookie every time, I can call CookieFactory and get a cookie. You might be thinking that this is just an extra step to get the same result. My example is just a simple one, but we were also instructed to parse information from a text file with a list of cookies on it. So if it said 'peanut butter' or 'chocolate chip', we had to convert the string into meaningful variables that could then be translated into a cookie type. The idea of the factory is that I can feed in a list at one end and get cookie objects that match that list at the other end.
