@@ -3,7 +3,7 @@ layout: post
 title:  "DBC Phase 1, Day 7"
 date:   2015-04-14
 categories: blog
-excerpt: "I'm probably jinxing myself, but today was pretty easy compared to last week. We managed to get through all of the challenges without too much trouble. Sure, there were issues with code not working, and we had to do a bit of research to figure out what was going on, but there was always forward momentum and it didn't take too much logic to figure out what was missing. The morning began with a lecture on rSpec, which I've been looking forward to for a while. I understand how to work with rSpec and make tests pass, but I didn't have much experience with creating my own tests. All in all, I think it's a great tool, but definitely adds more time to building a program, so I don't fully appreciate its value right now. I'm sure once we get into larger code, it will become vastly more useful."
+excerpt: "Today, there were a lot of concepts that went over my head for a good chunk of the day. It wasn't until I got home and could study on my own that I was actually able to digest everything to the point that I could reproduce it. Even now, as I sit here writing, it's a huge help for me to actually create code examples and have to explain them."
 ---
 
 Today, there were a lot of concepts that went over my head for a good chunk of the day. It wasn't until I got home and could study on my own that I was actually able to digest everything to the point that I could reproduce it. Even now, as I sit here writing, it's a huge help for me to actually create code examples and have to explain them.
