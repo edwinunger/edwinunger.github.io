@@ -9,6 +9,9 @@ excerpt: "I spent this past weekend going through the 'Singing with Sinatra' tut
 I spent this past weekend going through the 'Singing with Sinatra' tutorial. Not much to it, really. We walked through the steps of building a basic To-Do app using Ruby, PostGres, HTML, and CSS. Getting a bit of insight was really important though, since we'll be working with Sinatra all this week and will come back to it at the end of Phase 2. The only drawback of the tutorial is that it's over four years old, so some of the gems are out of date, and I think some of the functionality was lost due to updates in Ruby. I got the general idea, though.
 <br>
 <br>
+On a fun note, I've added Google Analytics to my website, so I'll get a better idea of who's visiting particular pages. So far, it seems a lot of you are from Russia. To you I say "Добро пожаловать!"
+<br>
+<br>
 Today was the first day of Phase 2, and just like the first day of Phase 1, a lot happened without a lot getting accomplished.
 <br>
 <br>
