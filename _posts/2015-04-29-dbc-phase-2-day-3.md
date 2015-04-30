@@ -3,7 +3,7 @@ layout: post
 title:  "DBC Phase 2, Day 3"
 date:   2015-04-29
 categories: blog
-excerpt: "Holy shit I just built Bit.ly. Well, not just. I worked on it for most of the day and finished it a while ago. The point you can now go to https://ed-ly.herokuapp.com, type in whatever URL you want (preferably a really long one), and ed.ly will format your link to something easier to deal with. The 'herokuapp.com' part makes it a little longer than I'd like, but you'll get the idea."
+excerpt: "Holy shit I just built Bit.ly. Well, not just. I worked on it for most of the day and finished it a while ago. The point is you can now go to https://ed-ly.herokuapp.com, type in whatever URL you want (preferably a really long one), and ed.ly will format your link to something easier to deal with. The 'herokuapp.com' part makes it a little longer than I'd like, but you'll get the idea. My favorite part is that this isn't just a shortener that works only on my site. You can use this 'edified' link and as long as the database persists, you'll be taken to the website that corresponds with the link."
 ---
 
 Holy shit I just built Bit.ly. Well, not just. I worked on it for most of the day and finished it a while ago. The point is you can now go to https://ed-ly.herokuapp.com, type in whatever URL you want (preferably a really long one), and ed.ly will format your link to something easier to deal with. The 'herokuapp.com' part makes it a little longer than I'd like, but you'll get the idea. My favorite part is that this isn't just a shortener that works only on my site. You can use this 'edified' link and as long as the database persists, you'll be taken to the website that corresponds with the link.
