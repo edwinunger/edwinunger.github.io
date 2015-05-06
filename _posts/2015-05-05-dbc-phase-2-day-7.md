@@ -12,7 +12,7 @@ Today was a cross between soul-crushing doubt and the high that comes from getti
 Speaking of today, there was a LOT of learning. We started off with jQuery, which I really thought I would enjoy. I love interacting with objects on a website and getting instant feedback when I tell an object to change in some way. Unfortunately, we had a hell of a time getting anything to work properly. Finding an individual object was no problem, and doing something to all the objects or one of the objects was tough, but manageable. When it came time to make one call that made every object act independently, though, we were stuck. It didn't help that we were working entirely inside the DOM, so getting the syntax right took a lot of work. I ended up working on it by myself during lunch to get a better understanding of the whole interaction. By the end, everything was humming along nicely. Here's a sample of one of my favorites animations:
 <br>
 <br>
-{% highlight jquery %}
+{% highlight javascript %}
 $('img').each(function() {
   $(this).hover(function() {
     $(this).animate({ "margin-left": "-=100px", "margin-top": "-=100px" }, "slow" );
