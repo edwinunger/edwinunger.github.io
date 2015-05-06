@@ -21,6 +21,7 @@ $('img').each(function() {
     $(this).animate({"margin-left": "0px", "margin-top": "0px" }, "slow" );
   });
 });
+{% endhighlight %}
 <br>
 When this function is called, hovering the mouse of an image will make it move up and to the left, and removing the mouse will return it. The coolest part is that I was able to make it work on individual images, instead of all the images at the same time.
 <br>
