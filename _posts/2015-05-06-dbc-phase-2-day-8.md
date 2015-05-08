@@ -24,7 +24,7 @@ I decided that instead of focusing on AJAX, I would retreat to something I actua
 Algorithm Night was fun, though I was once again lost in the material. The theme this week was linked lists, which I've never worked with. We needed to be able to interact with them by creating Ruby methods that structured the lists in set ways, so we each took turns building rules for inserting new items into the list, removing items, organizing them, etc. I have a somewhat better understanding, but it was definitely outside my comfort zone. Seems to be a theme lately.
 <br>
 <br>
-After Algorithm Night, a few of us grabbed a coach to show us a little more about AJAX. He did a great job going nice and slow through it, but we were still confused without a real world example. Another coach came by and showed us live example from his work code, but even that didn't seem to be enough. He promised to give us a breakout session tomorrow on how it all works from beginning to end.
+After Algorithm Night, a few of us grabbed a coach to show us a little more about AJAX. He did a great job going nice and slow through it, but we were still confused without a real world example. Another coach came by and showed us live example from his work code, but even that didn't seem to be enough. He promised to give us a breakout session tomorrow on how it all works from beginning to end. My frustration with all of this is that the people in this group who don't understand AJAX are not slow by any means. I'd say that each of them is in the middle of the pack, or even above that.
 <br>
 <br>
 I ended up staying at DBC much later than expected, but for now, sleep is less important than getting a better understanding of all the new stuff being thrown at us.
