@@ -3,7 +3,7 @@ layout: post
 title:  "DBC Phase 3, Day 1"
 date:   2015-05-18
 categories: blog
-excerpt: "Today was action packed, which of course means that not much real work was accomplished. With Friday morning check-in, Phase 3 final project presentations, and Phase 3 graduation, we weren't left with much time to work on our Phase 2 final projects before it was time to present. Luckily, I was already finished with mine before the day's festivities began. I still wanted to add AJAX functionality to it, but that turned out to be a minor step that I was able to figure out with the help of a few people."
+excerpt: "It hit me today that I (potentially) only have three weeks left of Dev BootCamp. In those three weeks, I will learn Rails, which is a very powerful Ruby framework and the whole reason I'm here. I'll also learn more advanced JavaScript and some new AJAX calls inside Rails. After an assessment in the middle of next week, I'll have a final project to work on and present. Then, the real work begins. I'll actually have to find a job that will allow me to continue to develop my skills."
 ---
 
 It hit me today that I (potentially) only have three weeks left of Dev BootCamp. In those three weeks, I will learn Rails, which is a very powerful Ruby framework and the whole reason I'm here. I'll also learn more advanced JavaScript and some new AJAX calls inside Rails. After an assessment in the middle of next week, I'll have a final project to work on and present. Then, the real work begins. I'll actually have to find a job that will allow me to continue to develop my skills.
