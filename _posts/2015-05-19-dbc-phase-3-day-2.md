@@ -6,13 +6,13 @@ categories: blog
 excerpt: "Rails is awesome!... Is something I would say if I understood everything that Rails is doing at any given moment. I do love how intuitive it is, but being so used to Sinatra, it's still frustrating the way Rails is so rigid, while still providing for every possible need the developer might need."
 ---
 
-Rails is awesome!... Is something I would say if I understood everything that Rails is doing at any given moment. I do love how intuitive it is, but being so used to Sinatra, it's still frustrating the way Rails is so rigid, while still providing for every possible need the developer might need.
+Rails is awesome!... Is something I would say if I understood everything that Rails is doing at any given moment. I do love how intuitive it is, but being so used to Sinatra, it's still frustrating the way Rails is so rigid, while still attempting to provide for every possible need the developer might have.
 <br>
 <br>
 Today began with a lecture on testing in Rails. It's very similar to testing in Ruby, but we have more powerful tools at our disposal, such as Capybara and Selenium. These gems have the ability to emulate a user who might visit our site. After we instruct it on where to go and what to do, it physically opens the browser, clicks on the appropriate link, types in the box, submits, and closes the browser. If it can successfully do all of these, the tests come back green. This is a great tool because you can see immediately when something isn't working properly. It's a frustrating tool because it can only behave like a human user, so it doesn't have the ability to find a particular form by class name, since a user wouldn't see that. It CAN do that, but it takes some extra keyword instructions. Instead, it looks for words or titles near the form and latches on that way. Still pretty neat.
 <br>
 <br>
-We got right back into the Stack OverFlow challenge, working through the releases one by one. Part one was finished yesterday, so we have question objects and answer objects that are linked to a particular question, the ability to see all questions on the homepage, and then click on a question to see all answers associated with that question.
+We got right back into the Stack OverFlow challenge, working through the releases one by one. Part one was finished yesterday, so we have question objects and answer objects that are linked to a particular question, the ability to see all questions on the homepage, and the ability to click on a question to see all answers associated with that question.
 <br>
 <br>
 Part two had us working with 'form_for', a very powerful Rails tool for making forms. Rather than using the standard HTML form, we can use 'form_for' to create forms specifically based on the information we want to gather. There's more to it than that, but much much simpler and more straightforward to create. We used these forms to create new questions, provide new answers, edit and delete questions, etc.
