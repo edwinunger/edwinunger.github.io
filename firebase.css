@@ -1,0 +1,30 @@
+#messagesDiv {
+    border: 1px solid #d0d0d0;
+    height: 400px;
+    overflow-y: scroll;
+    padding: 10px;
+    margin:6px;
+    background: #f5f5f5;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#nameInput{
+    border: 1px solid #d0d0d0;
+    height: 20px;
+    padding: 10px;
+    margin:6px;
+    background: #f5f5f5;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#messageInput{
+    border: 1px solid #d0d0d0;
+    height: 20px;
+    padding: 10px;
+    margin:6px;
+    background: #f5f5f5;
+    font-size: 16px;
+    border-radius: 5px;
+}
