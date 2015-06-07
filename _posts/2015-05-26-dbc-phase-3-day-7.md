@@ -3,7 +3,7 @@ layout: post
 title:  "DBC Phase 3, Day 7"
 date:   2015-05-26
 categories: blog
-excerpt: "We presented our Thunder Talk on Server Initiated Communication first thing this morning. I feel like it went really well, and I'm looking forward to using FireBase on my final project, or on another app in the near future."
+excerpt: "We presented our Thunder Talk on Server Initiated Communication first thing this morning. I feel like it went really well, and I'm looking forward to using FireBase on my final project, or on another app in the near future. We talked about how regular server/client communication works, how SIC has improved that, and some of the technologies that utilize it. FireBase is the best known one, and it's especially useful to us at DBC because it's fully supported by several different languages and frameworks, including Rails."
 ---
 
 We presented our Thunder Talk on Server Initiated Communication first thing this morning. I feel like it went really well, and I'm looking forward to using FireBase on my final project, or on another app in the near future.
