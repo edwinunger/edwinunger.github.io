@@ -46,7 +46,7 @@ example();
 {% endhighlight %}
 <br>
 <br>
-A Closure in JavaScript is basically a function within another function. The inner function has access to the variables and parameters, and calling the outer function should return the product of the inner functions actions on the outer functions data. Here's what it looks like:
+A Closure in JavaScript is basically a function within another function. The inner function has access to the variables and parameters of the outer function, and calling the outer function returns the product of the inner function's actions on the outer function's data. Here's what it looks like:
 <br>
 <br>
 {% highlight javascript %}
@@ -58,7 +58,7 @@ function outer (parameter) { 
   };
 ​  return inner(); 
 } ;
-outer();
+outer(parameter);
 {% endhighlight %}
 <br>
 <br>
