@@ -24,8 +24,10 @@ Did I mention that our Cohort team name is the Pocket Gophers? I'm sure I did at
 <br>
 <br>
 Our lecture this morning brought us into some advanced JavaScript, mainly IIFEs, Closures, and Modules. Here's a quick rundown of each:
-
+<br>
+<br>
 Immediately Invoked Function Expressions, or IIFEs ("iffys"), look just like any other JavaScript function, except that they have a '()'' at the end so as to immediately call them as soon as they are defined, like so:
+<br>
 <br>
 {% highlight javascript %}
 function example() {
@@ -35,6 +37,7 @@ function example() {
 <br>
 This is different from the normal pattern, where you'd create the function and then call it at a later point:
 <br>
+<br>
 {% highlight javascript %}
 function example() {
   console.log("I'm only called by my function name!")
@@ -42,3 +45,57 @@ function example() {
 
 example();
 {% endhighlight %}
+<br>
+<br>
+A Closure in JavaScript is basically a function within another function. The inner function has access to the variables and parameters, and calling the outer function should return the product of the inner functions actions on the outer functions data. Here's what it looks like:
+<br>
+<br>
+{% highlight javascript %}
+function outer (parameter) { 
+​  var outerIntro = "I'm in the outer function! ";
+​  function inner() { 
+    var innerIntro = "Now I'm in the inner function!";
+​    return outerIntro + innerIntro + parameter; 
+  };
+​  return inner(); 
+} ;
+outer();
+{% endhighlight %}
+<br>
+<br>
+Finally, using a Module in JavaScript allows you to define  functions and keep their variables from being accessed outside the function.
+<br>
+<br>
+{% highlight javascript %}
+var modular = (function() {
+  var sum = 0;
+
+  return {
+    add:function() {
+      sum = sum + 1;
+      return sum;
+    },
+    reset:function() {
+      return sum = 0;
+    }
+  }
+}());
+console.log(modular.add());
+console.log(modular.add());
+console.log(modular.reset());
+{% endhighlight %}
+<br>
+<br>
+Our challenge for the day was to rebuild jQuery with several parts of its functionality. I was very intimidated at first until we looked into what each call was doing. We figured out how to hide items, display them, and change their class so as to add other attributes. We even added definitions for clicking, so an action could happen based on how we interacted with the object.
+<br>
+<br>
+After lunch, we had our first round of Thunder Talks. These were all pretty interesting, but not much applicable use to me right now. I'm definitely interested in learning more about background processes like auto mailing, since that seems to be a nice Rails tool to get into, but it's still a bit down the road for now.
+<br>
+<br>
+The afternoon lecture was on JavaScript promises, and I'm still trying to wrap my head around how they work. From what I understand, a promise allows you to to define a value that isn't available yet, but may be in the future. When it is, the promise can be fulfilled and the function run. If the value never becomes available, the function never runs. There are other outcomes, such as the value being rejected, or an error, but when done correctly, the function simply waits for the value until it's available. Promises will be a huge part of JavaScript 6, so this is definitely something I want to get more comfortable with.
+<br>
+<br>
+In the afternoon, we went back to working on the jQuery challenge. After that, I worked with my Thunder Talk team to rehearse a bit before tomorrow's presentation. We divvied up what each person would talk about in addition to our own technology, so the whole thing should go very smoothly.
+<br>
+<br>
+Until then, I'm Edwin Unger and I'm a web developer in training.
