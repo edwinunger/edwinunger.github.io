@@ -24,4 +24,4 @@ The afternoon lecture was by a guest who's currently being interviewed to become
 This evening, several of us got together to prepare for tomorrow's Assessment. We knew that we would be expected to build a CRUD app and create AJAX requests in Rails, so we set about doing just that. It took us a little while to create all of the controllers, models, and migration files, but once we had the first couple pages created, we decided to focus on the AJAX calls, since that would be the more difficult part. We managed to make everything work, and I'm feeling pretty confident for tomorrow. It was especially helpful to be the one writing the code and creating the app, because I always learn better by doing than by watching.
 <br>
 <br>
-Until then, I'm Edwin Unger and I'm a web developer in training.
+Until tomorrow, I'm Edwin Unger and I'm a web developer in training.
