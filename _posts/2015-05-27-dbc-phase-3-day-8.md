@@ -12,7 +12,7 @@ I'm going to graduate DBC. I was pretty confident that I would, but after destro
 After the assessment, a few of us went out to celebrate and relax a bit. The afternoon brought more Thunder Talks, but there were so many groups that waited until today to present that it took a couple hours to get through everything. I spent some time preparing my final project pitches, but I feel pretty good about what I want to create and how to go about doing it.
 <br>
 <br>
-The pitch practice with the team was a little difficult, since we have to cut everything down to under a minute. I did okay, though. It was really nice to hear a lot of people offer support and suggestions for making the apps work.
+The pitch practice with the team was a little difficult, since we have to cut everything down to under a minute. I did okay, though. It was really nice to hear a lot of people offer support and suggestions for making my app ideas work.
 <br>
 <br>
 Until tomorrow, I'm Edwin Unger and I'm now a junior developer.
