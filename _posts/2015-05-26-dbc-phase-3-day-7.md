@@ -3,7 +3,7 @@ layout: post
 title:  "DBC Phase 3, Day 7"
 date:   2015-05-26
 categories: blog
-excerpt: "I spent the weekend accomplishing almost all of what I set out to, though there wasn't enough time to study for the Assessment. Instead, I finished my portion of the Thunder Talk on Serve Initiated Communication and finished decoupling my Stack OverFlow clone in order to present it today. I'm planning to have a code review on Tuesday night with a few people, so that should be sufficient preparation for the Assessment."
+excerpt: "We presented our Thunder Talk on Server Initiated Communication first thing this morning. I feel like it went really well, and I'm looking forward to using FireBase on my final project, or on another app in the near future."
 ---
 
 We presented our Thunder Talk on Server Initiated Communication first thing this morning. I feel like it went really well, and I'm looking forward to using FireBase on my final project, or on another app in the near future.
