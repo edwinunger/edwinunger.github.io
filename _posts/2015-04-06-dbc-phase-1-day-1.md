@@ -3,10 +3,10 @@ layout: post
 title:  "DBC Phase 1, Day 1"
 date:   2015-04-06
 categories: blog
-excerpt: "Today started at 6:30am. I loath being late, so I always arrive early. Lateness implies a lack of respect, so timeliness has always been something very important to me."
+excerpt: "Today started at 6:30am. I loathe being late, so I always arrive early. Lateness implies a lack of respect, so timeliness has always been something very important to me."
 ---
 
-Today started at 6:30am. I loath being late, so I always arrive early. Lateness implies a lack of respect, so timeliness has always been something very important to me.
+Today started at 6:30am. I loathe being late, so I always arrive early. Lateness implies a lack of respect, so timeliness has always been something very important to me.
 <br>
 <br>
 I arrived at 8:15. We waited in the lobby for our entire cohort to arrive. When we were all together, we were sent outside so our mentors (students who just started Phase 3) could find us and introductions could be made. We chatted a bit about the first day, the first week, Phase 1, etc., and then made our way upstairs.
