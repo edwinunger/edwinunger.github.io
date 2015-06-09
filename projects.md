@@ -16,7 +16,7 @@ When you move to a new city, you want to prepare for what the weather is going t
 <br>
 <strong>Front-End:</strong> <a href="https://github.com/FeelsLikeDBC/frontend/tree/master">https://github.com/FeelsLikeDBC/frontend/tree/master</a>
 <br>
-<strong>Uses:<strong> Rails-API, Sinatra, Ruby, JavaScript, jQuery, D3, Weather Underground API, Forecast.io API, HTML5, CSS3.
+<strong>Uses:</strong> Rails-API, Sinatra, Ruby, JavaScript, jQuery, D3, Weather Underground API, Forecast.io API, HTML5, CSS3.
 <br>
 <br>
 <br>
@@ -35,7 +35,7 @@ Stack GopherFlow is a Stack OverFlow clone. You can view questions, add new ones
 <br>
 <br>
 <h3>Recog-A:</h3>
-<center><img src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/recog-a.png?raw=true"/></center>
+<center><img style="border: 5px solid black" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/recog-a.png?raw=true"/></center>
 <br>
 When a patient or loved one gets Alzheimer's, it's often difficult to track changes in their short-term or long-term memory. The loss is gradual, not sudden. Recog-A serves two purposes. First, it allows caretakers to create quizzes for their patient. The quiz can contain images of loved ones, places the patient has traveled, etc. It serves as reminder to the patient of the important people or places in his life. Second, Recog-A keeps track of quiz scores over time, so it's easier to measure how much a patient's memory is deteriorating.
 <br>
