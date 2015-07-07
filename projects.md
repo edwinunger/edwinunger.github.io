@@ -8,7 +8,8 @@ permalink: /projects/
 <center><img style="border:5px solid black" src="https://github.com/edwinunger/edwinunger.github.io/blob/master/images/homebase.png?raw=true"/></center>
 <br>
 This project was built in a 36 hour period during Dev BootCamp's 2015 Independence Day Hackathon. It's an idea I've wanted to pursue for a while, and was excited to create the prototype with a great team.
-
+<br>
+<br>
 Keeping track of what's going on with your family and at home can be tough. Where are my kids? What's the schedule for the week? What are we having for dinner? Did I remember to turn the lights off? Lock the doors? Set the alarm? Air conditioner? HomeBase takes all of the tools you need and puts them on one page. Currently, HomeBase allows you to see where your family members are, chat with them, and control your smart lights.
 <br>
 <br>
