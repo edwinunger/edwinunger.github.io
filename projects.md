@@ -15,7 +15,6 @@ Keeping track of what's going on with your family and at home can be tough. Wher
 <br>
 <strong>Future Plans:</strong> calendar, reminders, meal plans, video chat, homework help, smart locks control, smart home alarm control, smart A/C control.
 <br>
-<br>
 <strong>GitHub:</strong><a href="https://github.com/edwinunger/homebase"> https://github.com/edwinunger/homebase</a>
 <br>
 <strong>Uses:</strong> Rails, Ruby, JavaScript, jQuery, Google OAuth, Google Maps API, Firebase, Philips HUE API, Materialize CSS.
