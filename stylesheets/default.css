@@ -8,14 +8,14 @@
     }
 }
 
-@media screen and (max-width: 600px) {
+/*@media screen and (max-width: 600px) {
     html {
       background: url(https://github.com/edwinunger/edwinunger.github.io/blob/master/images/about.png?raw=true) no-repeat fixed;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
-    }
+    }*/
 
 
 }
