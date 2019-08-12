@@ -1,10 +1,9 @@
 # Site settings
 title: Edwin Unger
 email: edwin@ungermail.com
-description: Husband. Father. Web Developer. Beardface.
+description: Husband. Father. Work Horse. Beardface.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://edwinunger.com" # the base hostname & protocol for your site
-twitter_username: edwin_unger
 github_username:  edwinunger
 
 # Build settings
