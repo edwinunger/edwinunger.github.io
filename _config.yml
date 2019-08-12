@@ -5,6 +5,7 @@ description: Husband. Father. Work Horse. Beardface.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://edwinunger.com" # the base hostname & protocol for your site
 github_username:  edwinunger
+twitter_username: edwin_unger
 
 # Build settings
 markdown: kramdown
