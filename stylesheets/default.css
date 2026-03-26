@@ -1,6 +1,13 @@
+/*
+ * Use scroll (not fixed) at all widths so behavior matches across breakpoints.
+ * Fixed + cover caused a harsh jump at 1025px vs 1024px and breaks iOS.
+ * Home content is mostly position:fixed, so html would collapse without min-height;
+ * that left white above the fixed footer when attachment was scroll.
+ */
 @media screen and (max-width: 1920px) {
     html {
-      background: url(/images/background.png) no-repeat fixed;
+      min-height: 100vh;
+      background: url(/images/background.png) no-repeat scroll;
       background-position: 55% center;
       -webkit-background-size: cover;
       -moz-background-size: cover;
@@ -29,6 +36,13 @@
 
 body {
   background-color: transparent;
+  min-height: 100vh;
+}
+
+/* Fixed header/footer; ensure main column still establishes full-height paint area */
+.page-content {
+  min-height: 100vh;
+  box-sizing: border-box;
 }
 
 .portfolio-link {
@@ -140,10 +154,9 @@ a:visited {
     text-decoration: none;
 }
 
-/* Tablets/phones: fixed backgrounds + cover are unreliable on iOS; scroll keeps you in frame. */
+/* Narrower viewports: shift focal point; attachment stays scroll (set above). */
 @media screen and (max-width: 1024px) {
   html {
-    background-attachment: scroll;
     background-position: 46% center;
   }
 }
