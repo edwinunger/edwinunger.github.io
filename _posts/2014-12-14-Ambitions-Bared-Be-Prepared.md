@@ -39,19 +39,19 @@ I took everything from the Facebook post, from the previous Google search, from 
 I mentioned my previous learning. It isn't much, but I've had the opportunity to learn a few tricks through some great sites out there. Without further ado, Here are some that get my stamp of approval:
 <br/>
 <br/>
-<a href = "http://www.codecademy.com" target="_blank">Code Academy</a> is completely free. Definitely a great place to start. They go through all of the fundamentals and teach you to build something from the ground up. I've already gone through their tracks for HTML/CSS, Javascript, and Ruby.
+<a href = "https://www.codecademy.com" target="_blank" rel="noopener">Code Academy</a> is completely free. Definitely a great place to start. They go through all of the fundamentals and teach you to build something from the ground up. I've already gone through their tracks for HTML/CSS, Javascript, and Ruby.
 <br/>
 <br/>
-<a href = "http://teamtreehouse.com" target="_blank">Treehouse</a> is not free, but good lord is there a lot of information. If the coding language exists, it'll likely have a tutorial on Treehouse. My only issue is that it's mostly videos that you follow along with. I'd rather be given the instructions, then given a task or project to figure out by myself. Still extremely useful for getting a better understanding. Provides very deep instruction, which is why I'm still in the middle of the Ruby track. I'll definitely be going back here to get a better handle on Javascript.
+<a href = "https://teamtreehouse.com" target="_blank" rel="noopener">Treehouse</a> is not free, but good lord is there a lot of information. If the coding language exists, it'll likely have a tutorial on Treehouse. My only issue is that it's mostly videos that you follow along with. I'd rather be given the instructions, then given a task or project to figure out by myself. Still extremely useful for getting a better understanding. Provides very deep instruction, which is why I'm still in the middle of the Ruby track. I'll definitely be going back here to get a better handle on Javascript.
 <br/>
 <br/>
-<a href = "http://learncodethehardway.org" target="_blank">Learn Code the Hard Way</a> is kind of fun. It's a book on a webpage, so you're following along and running the tests yourself. I like that it teaches you not only how to code, but how to find the answer to a particular problem. Several tutorials exist, including Ruby, Javascript, SQL, and others.
+<a href = "https://learncodethehardway.org" target="_blank" rel="noopener">Learn Code the Hard Way</a> is kind of fun. It's a book on a webpage, so you're following along and running the tests yourself. I like that it teaches you not only how to code, but how to find the answer to a particular problem. Several tutorials exist, including Ruby, Javascript, SQL, and others.
 <br/>
 <br/>
-For games to sharpen your coding mind, I definitely recommend <a href = "http://coderbyte.com" target="_blank">Coderbyte</a> and <a href = "https://projecteuler.net" target="_blank">Project Euler</a>. Each allows you to choose your own programming language and find the answer to a particular set of problems. You can then share your answer with the community and learn how to improve your code based on the submissions of others.
+For games to sharpen your coding mind, I definitely recommend <a href = "https://coderbyte.com" target="_blank" rel="noopener">Coderbyte</a> and <a href = "https://projecteuler.net" target="_blank">Project Euler</a>. Each allows you to choose your own programming language and find the answer to a particular set of problems. You can then share your answer with the community and learn how to improve your code based on the submissions of others.
 <br/>
 <br/>
-As for books, you can't ask for better Ruby beginner books than Chris Pine's <a href = "https://pine.fm/LearnToProgram/" target="_blank">'Learn to Program'</a> and Why's <a href = "http://mislav.uniqpath.com/poignant-guide/" target="_blank">'Poignant Guide to Ruby,'</a> the latter definitely being a much more surreal take on learning.
+As for books, you can't ask for better Ruby beginner books than Chris Pine's <a href = "https://pine.fm/LearnToProgram/" target="_blank">'Learn to Program'</a> and Why's <a href = "https://poignant.guide/" target="_blank" rel="noopener">'Poignant Guide to Ruby,'</a> the latter definitely being a much more surreal take on learning.
 <br/>
 <br/>
 These tools will not make you a pro. In fact, they'll barely make you a beginner. I've been trying to teach myself for the past few months using these materials and countless more and I wouldn't even be classified as a novice. Thankfully, that's where Dev BootCamp comes in. They would have no interest in me if I were already a professional coder. They want me to be a beginner. Like an actual bootcamp, all I need to bring is myself and my willingness to be broken down, then molded into a world class programmer.

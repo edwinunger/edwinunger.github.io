@@ -24,7 +24,7 @@ Fast forward to 2008. I wanted to make a website to promote myself as an actor (
 Some of my jobs at the time required me to write email blasts that were written through Dream Weaver, but even then, the proper tags were put in for me. A few years ago, in 2012, two dance companies that my wife was working with asked me to build their sites, so it was an opportunity to really learn site building again. Both companies wanted to use WordPress, so there was a definite learning curve in figuring out the whole setup. Once I had an understanding, I realized there <em>still</em> wasn't any need to use HTML, so I focused more on understanding CSS, something I had never touched.
 <br/>
 <br/>
-Fast forward again to 8 months ago, when I discovered <a href = "http://codecademy.com">Code Academy</a>. I mark this time as a turning point in my life, since it's when I went from programming as a hobby to wanting to make it my profession. I completed the HTML/CSS portion and moved straight on to Javascript, but something held me up...
+Fast forward again to 8 months ago, when I discovered <a href = "https://www.codecademy.com">Code Academy</a>. I mark this time as a turning point in my life, since it's when I went from programming as a hobby to wanting to make it my profession. I completed the HTML/CSS portion and moved straight on to Javascript, but something held me up...
 <br/>
 <br/>
 <strong>CSS</strong> - I mentioned above that when I first learned HTML way back in 1999, it was somewhat different from what it is today. The biggest difference is that we didn't use CSS, learning instead to input all style customization directly into the HTML script (In researching this just now, I found out that CSS has existed since 1994, and even CSS3, the latest version of CSS, was created in 1998. My little computer class just hadn't caught up with the available technology). Unfortunately, this will likely be one of my handicaps, since changing style inside of HTML is easier for me to wrap my head around than changing it inside CSS and then applying it properly in HTML.
@@ -78,7 +78,7 @@ How did this thing, this pursuit that I had so much passion for, just fade away?
 I struggled with these thoughts for a bit, until I read a webcomic:
 <br/>
 <br/>
-<a href = "http://www.smbc-comics.com/?id=2722"><img src = "http://www.smbc-comics.com/comics/20120902.gif"></a>
+<a href = "https://www.smbc-comics.com/?id=2722"><img src = "https://www.smbc-comics.com/comics/20120902.gif" alt=""></a>
 <br/>
 <br/>
 I don't need to feel bad about leaving my acting life behind, because there are so many exciting lives ahead of me. I'm a Father, and while I'm not yet a developer, I'm going to be.
